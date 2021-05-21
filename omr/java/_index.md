@@ -1,0 +1,153 @@
+---
+title: Java OMR API - Aspose 
+weight: 20
+url: /java/ 
+---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/upper-banner h1="Java OMR Recognition and Parser APIs" h2="Recognize optical marks from OMR digitized sheet images in a variety of formats from scanned images and photos." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-java.png" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
+
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/omr/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OMR for Java is an API for optical marks recognition from various images including PNG, GIF, JPEG, TIFF, BMP. API saves the result in CSV and JSON formats as well as can show the results in Text format on performing OMR operations. Moreover, OMR recognition API captures human-marked data from files of multiple sources such as surveys, MCQ papers, questionnaires and more. High accuracy is maintained during recognition of scanned images and even pictures from all these sources.</p>
+{{< /blocks/products/pf/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced Java OMR Processing API Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Recognizes scanned images and photos
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Process perspective and rotated images.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Recognize data from exams, questionnaires, tests, surveys.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     High accuracy rate.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Generate OMR templates from TXT files.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-share ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Save output to CSV and JSON format.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     How OMR API Works
+    </h2>
+    <p>
+     For recognition, template markup is used which keeps the graphical mapping of elements from the scanned images.
+    </p>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Read or Create GIS Data Files</h2>
+
+<p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+
+</div>-->
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Format-Independent Object Model</h2>
+
+<p>Aspose.GIS for .NET lets you manage geometries and feature attributes of supported GIS file formats without worrying about the underlying format implementation. The uniform representation of feature attributes for both ESRI Shapefiles and GeoJSON frees you from writing separate code to manage both formats.</p>
+
+</div>-->
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Support for Spatial Reference System</h2>
+
+<p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
+
+</div>-->
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/testimonials title="" subTitle="" >}}
+
+{{< blocks/products/pf/testimonials-quote >}}
+{{< /blocks/products/pf/testimonials-quote >}}
+
+{{< /blocks/products/pf/testimonials >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/omr/java/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr/Aspose.OMR-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/omr" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/omr" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/omr/java/release-notes/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OMR for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/java" pricingInformationLink="https://purchase.aspose.com/pricing/omr/java" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR offers individual OMR processing APIs for other popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" sdkName="Aspose.OMR for .NET" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

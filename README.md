@@ -1,2 +1,1 @@
-# Aspose.OMR-Products
-Aspose.OMR product family landing pages
+This repository contains Aspose.OMR Product Family landing pages.
