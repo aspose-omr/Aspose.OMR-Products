@@ -5,7 +5,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition Solution" h2="On Premise & Cloud APIs to perform OMR for capturing human-marked data from document scans or photo." logoImageSrc="https://www.aspose.com/templates/brand/images/omr/aspose_omr-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition Solution" h2="On Premise & Cloud APIs to perform OMR for capturing human-marked data from document scans or photo." logoImageSrc="https://www.aspose.com/templates/brand/images/omr/aspose_omr-brand.png" imageAlt="Aspose.OMR Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR On Premise APIs Include" >}}
@@ -37,15 +37,6 @@ Use Java language to perform OMR on documents such as surveys and tests in the C
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/omr/family" innerText="View All Cloud APIs" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
