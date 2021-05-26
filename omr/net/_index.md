@@ -18,9 +18,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.OMR for .NET API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.OMR for .NET supports .NET Framework 4.0 and higher" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -88,7 +85,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OMR for .NET supports popular Image file formats listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.OMR for .NET supports .NET Framework 4.0 and higher" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -117,6 +114,62 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="OMR Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"/>
+  <header>
+   Aspose.OMR
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OMR for .NET supports popular [Image file formats](https://docs.aspose.com/omr/net/supported-file-formats/)  listed below." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     JPEG, PNG, GIF, TIFF, BMP
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     CSV
+    </li>
+    <li>
+     XML
+    </li>
+    <li>
+     JSON
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"/>
   <header>
    Aspose.OMR
   </header>

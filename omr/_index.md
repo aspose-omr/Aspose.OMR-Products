@@ -10,11 +10,11 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" productLink="https://products.aspose.com/omr/net" >}}
 On Premise APIs for Optical Mark Recognition features in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" productLink="https://products.aspose.com/omr/java" >}}
 Premise APIs to add Optical Mark Recognition functionality within applications as well as recognize data from photos and scans in most commonly used image formats.
 {{< /blocks/products/pf/product >}}
 
@@ -24,28 +24,19 @@ Premise APIs to add Optical Mark Recognition functionality within applications a
 
 {{< blocks/products/pf/product-card-row title="Aspose.OMR Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-curl.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-curl.png" productLink="https://products.aspose.cloud/omr/curl" >}}
 Optical Mark Recognition on any platform. Just send cURL commands to capture human-marked data from images with high accuracy.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-net.png" productLink="https://products.aspose.cloud/omr/net" >}}
 Quickly get started with OMR implementation using our .NET SDK for Aspose.OMR Cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" productLink="https://products.aspose.cloud/omr/java" >}}
 Use Java language to perform OMR on documents such as surveys and tests in the Cloud using Aspose.OMR RESTFul APIs.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/omr/family" innerText="View All Cloud APIs" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
