@@ -5,13 +5,25 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET OMR Reader & Parser APIs" h2="Perform OMR operations to recognize data from photos & scans of commonly used image format." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-net.png" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET OMR Reader & Parser APIs" h2="Perform OMR operations to recognize data from photos & scans of commonly used image format." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-net.png" pfName="Aspose.OMR for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/omr/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ <span style="font-weight: 400;">
+  Aspose.OMR for .NET is an optical marks recognition API to recognize various types of answer sheets, including tests, assessments, surveys, quizzes, MCQ papers, feedback forms - any type of document that includes bubbles as input. API supports creating and reading OMR forms and works with photos and scans in popular image formats and provides output in various formats.
+ </span>
+</p>
+
+<p>
+ <span style="font-weight: 400;">
+  By integrating OMR API, developers can create OMR sheets for tests and surveys and recognize them quickly and accurately.
+ </span>
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -439,12 +451,6 @@ url: /net/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -470,9 +476,9 @@ url: /net/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR offers individual OMR processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR offers individual OMR processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" sdkName="Aspose.OMR for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

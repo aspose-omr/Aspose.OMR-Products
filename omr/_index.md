@@ -42,14 +42,28 @@ Use Java language to perform OMR on documents such as surveys and tests in the C
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.OMR." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.OMR." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-The API’s ease of use give the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy. We would definitely recommend Aspose for any .Net companies who wants to work with virtually any type of file in their applications.
+<p class="first">
+ The API’s ease of use give the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy. We would definitely recommend Aspose for any .Net companies who wants to work with virtually any type of file in their applications.
+ <em>
+  Igor Klafke | W3K Tecnologia, Brazil
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-The Aspose product suite and support is second to none. We couldn’t have done what we did without this solution.
+<p class="second">
+ The Aspose product suite and support is second to none. We couldn’t have done what we did without this solution.
+ <em>
+  Dr. Dan Patterson | Acumen, UK
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

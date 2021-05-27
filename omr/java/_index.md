@@ -5,14 +5,17 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java OMR Recognition and Parser APIs" h2="Recognize optical marks from OMR digitized sheet images in a variety of formats from scanned images and photos." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-java.png" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java OMR Recognition and Parser APIs" h2="Recognize optical marks from OMR digitized sheet images in a variety of formats from scanned images and photos." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-java.png" pfName="Aspose.OMR for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/omr/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.OMR for Java is an API for optical marks recognition from various images including PNG, GIF, JPEG, TIFF, BMP. API saves the result in CSV and JSON formats as well as can show the results in Text format on performing OMR operations. Moreover, OMR recognition API captures human-marked data from files of multiple sources such as surveys, MCQ papers, questionnaires and more. High accuracy is maintained during recognition of scanned images and even pictures from all these sources.</p>
+<p>
+ Aspose.OMR for Java is an API for optical marks recognition from various images including PNG, GIF, JPEG, TIFF, BMP. API saves the result in CSV and JSON formats as well as can show the results in Text format on performing OMR operations. Moreover, OMR recognition API captures human-marked data from files of multiple sources such as surveys, MCQ papers, questionnaires and more. High accuracy is maintained during recognition of scanned images and even pictures from all these sources.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -274,12 +277,6 @@ url: /java/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -305,9 +302,9 @@ url: /java/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/java" pricingInformationLink="https://purchase.aspose.com/pricing/omr/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR offers individual OMR processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR offers individual OMR processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" sdkName="Aspose.OMR for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
