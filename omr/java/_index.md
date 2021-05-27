@@ -2,6 +2,7 @@
 title: Java OMR API - Aspose 
 weight: 20
 url: /java/ 
+description: Java OMR reader and processing library to recognize scanned images and even photos with high accuracy. API performs operations on images and photos within OMR based software
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,6 +2,7 @@
 title: OMR API - Optical Mark Recognition API for multiple platforms 
 weight: 10
 url: /family
+description: OMR .NET SDK to recognize optical marks from digitized sheet images. Develop apps for web, desktop and mobile to scan tests exams questionnaires surveys.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

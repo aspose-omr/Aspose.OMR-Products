@@ -2,6 +2,7 @@
 title: C# .NET Optical Marks Recognition OMR API - Aspose 
 weight: 30
 url: /net/ 
+description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operations on images and photos obtained from tests exams questionnaires surveys and more
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
