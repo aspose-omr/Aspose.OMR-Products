@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET OMR Reader & Parser APIs" h2="Perform OMR operations to recognize data from photos & scans of commonly used image format." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-net.png" pfName="Aspose.OMR for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET OMR Reader & Parser APIs" h2="Perform OMR operations to recognize data from photos & scans of commonly used image format." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-net.png" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/omr/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/pricing/omr/net" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
