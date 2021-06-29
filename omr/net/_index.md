@@ -15,13 +15,13 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
 {{< blocks/products/pf/tab-content >}}
 <p>
  <span style="font-weight: 400;">
-  Aspose.OMR for .NET is a flexible and functional OMR software for creating and recognizing answer sheets, tests, MCQ papers, quizzes, feedback forms, surveys - all types of forms with bubbles as input. Our optical mark recognition API is super easy and allows you to design, create and recognize fully customizable forms with various question types, icons, barcodes and other elements.
+  Aspose.OMR for .NET is a simple and practical OMR software for creating and recognizing answer sheets, tests, MCQ papers, quizzes, feedback forms, surveys, ballots - all types of forms. Our optical mark recognition API is super easy and allows you to design, create and recognize fully customizable forms with various question types, icons, barcodes and other elements.
  </span>
 </p>
 
 <p>
  <span style="font-weight: 400;">
-  By integrating OMR API, developers can create OMR sheets for tests and surveys and recognize them quickly and accurately.
+  No need for special scanners, papers, or other equipment - Aspose OMR uses advanced image processing algorithms to handle photos and scans with high accuracy. We provide the unique GUI tool to create mark-ups for your existing forms so that they can be recognized with Aspose.OMR software.
  </span>
 </p>
 
@@ -37,50 +37,43 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
    <header>
     <i class="fa fa-bars">
     </i>
-    Benefits
+    Features
    </header>
    <ul>
-    <li>
-     High accuracy rate
-    </li>
-    <li>
-     Results in CSV format
-    </li>
-    <li>
-     GUI for editing complex cases
-    </li>
+    <li>Create and recognize custom OMR forms</li>
+    <li>Process existing forms</li>
+    <li>High accuracy rate</li>
+    <li>Results in CSV and JSON formats</li>
+    <li>GUI for editing complex cases</li>
    </ul>
+    <header><i class="fas fa-user-edit"></i>Generation</header>
+    <ul>
+        <li>Create custom OMR forms using text markup</li>
+        <li>Easily generate answer sheet, tests, quizzes, surveys, ballots</li>
+        <li>Supports multiple questions, elements, colors, fonts, paper sizes</li>
+        <li>Generate ready-to-print OMR forms in PDF or PNG format</li>
+    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-cogs">
+    <i class="fa fa-eye">
     </i>
     Recognition
    </header>
    <ul>
-    <li>
-     Scanned images
-    </li>
-    <li>
-     Photos
-    </li>
-    <li>
-     Process rotated images
-    </li>
-    <li>
-     Process side viewed images
-    </li>
-    <li>
-     Data of various sources
-    </li>
+    <li>Scanned images</li>
+    <li>Photos</li>
+    <li>Process rotated images</li>
+    <li>Process side viewed images</li>
+    <li>Data of various sources</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET OMR Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"/>
+  <img alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"/>
   <header>
    Aspose.OMR
   </header>
@@ -126,7 +119,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OMR Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"/>
+  <img alt="OMR C# API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png"/>
   <header>
    Aspose.OMR
   </header>
@@ -144,7 +137,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OMR for .NET supports popular [Image file formats](https://docs.aspose.com/omr/net/supported-file-formats/)  listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OMR for .NET supports popular [file formats](https://docs.aspose.com/omr/net/supported-file-formats/)  listed below." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -171,10 +164,13 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
      CSV
     </li>
     <li>
-     XML
+     JSON
     </li>
     <li>
-     JSON
+     PDF
+    </li>
+    <li>
+     PNG
     </li>
    </ul>
   </div>
@@ -210,50 +206,61 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced .NET OMR Formats Manipulation API Features
+    Advanced .NET OMR API Features
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
+    <em class="fa fa-images ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognition of scanned images and photos
+     Recognize scans and photos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Process rotated and perspective images.
+     Process rotated and skewed images
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize data from tests, exams, questionnaires, surveys.
+     Create and recognize answer sheets, tests, exams, ballots, questionnaires, surveys
     </p>
    </div>
+    <div class="col-lg-4">
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Supports multiple fonts, colors, OMR elements
+    </p>
+   </div>
+    <div class="col-lg-4">
+        <em class="fa fa-file-pdf ico-blue fa-2x col-lg-2"> </em>
+        <p class="col-lg-10">Generate OMR forms in PDF or PNG</p>
+    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     High accuracy rate.
+     High accuracy rate
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     GUI for correcting complex cases.
+     GUI for correcting complex cases
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-share ico-blue fa-2x col-lg-2">
+    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Save results to CSV format.
+     Save results to CSV or JSON format
     </p>
    </div>
    <div class="col-lg-12">
