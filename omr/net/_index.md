@@ -15,7 +15,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
 {{< blocks/products/pf/tab-content >}}
 <p>
  <span style="font-weight: 400;">
-  Aspose.OMR for .NET is an optical marks recognition API to recognize various types of answer sheets, including tests, assessments, surveys, quizzes, MCQ papers, feedback forms - any type of document that includes bubbles as input. API supports creating and reading OMR forms and works with photos and scans in popular image formats and provides output in various formats.
+  Aspose.OMR for .NET is a flexible and functional OMR software for creating and recognizing answer sheets, tests, MCQ papers, quizzes, feedback forms, surveys - all types of forms with bubbles as input. Our optical mark recognition API is super easy and allows you to design, create and recognize fully customizable forms with various question types, icons, barcodes and other elements.
  </span>
 </p>
 
