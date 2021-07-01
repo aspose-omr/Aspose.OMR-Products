@@ -46,7 +46,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
     <li>Results in CSV and JSON formats</li>
     <li>GUI for editing complex cases</li>
    </ul>
-    <header><i class="fas fa-user-edit"></i>Generation</header>
+    <header><i class="fas fa-user-edit">&nbsp;</i>Generation</header>
     <ul>
         <li>Create custom OMR forms using text markup</li>
         <li>Easily generate answer sheet, tests, quizzes, surveys, ballots</li>
@@ -211,53 +211,53 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-images ico-blue fa-2x col-lg-2">
+    <em class="fa fa-images ico-blue fa-2x col-lg-2">&nbsp;
     </em>
     <p class="col-lg-10">
      Recognize scans and photos
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
+    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">&nbsp;
     </em>
     <p class="col-lg-10">
      Process rotated and skewed images
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;
     </em>
     <p class="col-lg-10">
      Create and recognize answer sheets, tests, exams, ballots, questionnaires, surveys
     </p>
    </div>
     <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">&nbsp;
     </em>
     <p class="col-lg-10">
      Supports multiple fonts, colors, OMR elements
     </p>
    </div>
     <div class="col-lg-4">
-        <em class="fa fa-file-pdf ico-blue fa-2x col-lg-2"> </em>
+        <em class="fa fa-file-pdf ico-blue fa-2x col-lg-2">&nbsp;</em>
         <p class="col-lg-10">Generate OMR forms in PDF or PNG</p>
     </div>
    <div class="col-lg-4">
-    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">&nbsp;
     </em>
     <p class="col-lg-10">
      High accuracy rate
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
+    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">&nbsp;
     </em>
     <p class="col-lg-10">
      GUI for correcting complex cases
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">
+    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">&nbsp;
     </em>
     <p class="col-lg-10">
      Save results to CSV or JSON format
