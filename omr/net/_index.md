@@ -46,7 +46,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
     <li>Results in CSV and JSON formats</li>
     <li>GUI for editing complex cases</li>
    </ul>
-    <header><i class="fas fa-user-edit">&nbsp;</i>Generation</header>
+    <header><i class="fa fa-user-edit">&nbsp;</i>Generation</header>
     <ul>
         <li>Create custom OMR forms using text markup</li>
         <li>Easily generate answer sheet, tests, quizzes, surveys, ballots</li>
@@ -211,29 +211,25 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-images ico-blue fa-2x col-lg-2">&nbsp;
-    </em>
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
     <p class="col-lg-10">
      Recognize scans and photos
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">&nbsp;
-    </em>
+    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">&nbsp;</em>
     <p class="col-lg-10">
      Process rotated and skewed images
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;
-    </em>
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
     <p class="col-lg-10">
      Create and recognize answer sheets, tests, exams, ballots, questionnaires, surveys
     </p>
    </div>
     <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">&nbsp;
-    </em>
+    <em class="fa fa-font ico-blue fa-2x col-lg-2">&nbsp;</em>
     <p class="col-lg-10">
      Supports multiple fonts, colors, OMR elements
     </p>
@@ -243,22 +239,19 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
         <p class="col-lg-10">Generate OMR forms in PDF or PNG</p>
     </div>
    <div class="col-lg-4">
-    <em class="fa fa-check ico-blue fa-2x col-lg-2">&nbsp;
-    </em>
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">&nbsp;</em>
     <p class="col-lg-10">
      High accuracy rate
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">&nbsp;
-    </em>
+    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">&nbsp;</em>
     <p class="col-lg-10">
      GUI for correcting complex cases
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">&nbsp;
-    </em>
+    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">&nbsp;</em>
     <p class="col-lg-10">
      Save results to CSV or JSON format
     </p>
@@ -284,8 +277,8 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
     </p>
     <p>
      <span style="font-weight: 400;">
-      <img alt="" height="662" src="/images/ed11.jpg" width="468"/>
-      <img alt="" height="658" src="/images/ed2.jpg" width="465"/>
+      <img alt="Aspose Answer Sheet example" height="702" src="AnswerSheet.png" width="497"/>
+      <img alt="Aspose Test form example" height="702" src="OmrTest.png" width="497"/>
      </span>
     </p>
     <p>
@@ -300,7 +293,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
     </p>
     <p>
      <span style="font-weight: 400;">
-      <img alt="" height="647" src="/images/s1.jpg" width="457"/>
+      <img alt="Aspose Survey form example" height="702" src="OmrSurvey.png" width="497"/>
      </span>
     </p>
     <p>
@@ -310,7 +303,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
     </p>
     <p>
      <span style="font-weight: 400;">
-      Aspose.OMR for .NET API provides methods to generate OMR templates from text description. Using this feature developers can create highly customizable nice looking omr sheets ready for print. API supports several types of elements, including text, choice box (question), answer sheet (several columns of questions), grid (complex values that consist of similar sections).
+      Aspose.OMR for .NET API provides methods to generate OMR templates from text description. Using this feature developers can create highly customizable nice looking omr sheets ready for print. API supports several types of elements, including text, choice box (question), answer sheet (several columns of questions), grid (complex values that consist of similar sections). Generated images can be saved as ready-to-print PDF files or PNG images.
      </span>
     </p>
     <p>
@@ -321,41 +314,22 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
     <pre><code class="cs">
 
             // path to the txt markup file
-
             string markupPath = "Survey01Markup.txt";
 
-
-
             // initialize omr engine
-
             OmrEngine engine = new OmrEngine();
 
-
-
             // call generation method and get result: image and template (.omr file)
-
             GenerationResult result = engine.GenerateTemplate(markupPath);
 
-
-
             // path to the folder where the results will be saved
-
             string outputFolder = "OmrTemplates";
 
-
-
             // the name of the generated template and image
-
             string templateName = "Survey01";
 
-
-
             // save results
-
             result.Save(outputFolder, templateName);
-
-
-
 </code></pre>
     <p>
      <strong>
@@ -374,45 +348,28 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
     </p>
     <p>
      <span style="font-weight: 400;">
-      The recognition results can be saved as JSON, XML or CSV files.
+      The recognition results can be saved as JSON or CSV files.
      </span>
     </p>
     <pre><code class="cs">
 
             // path to the .omr file
-
             string templatePath = "MyTest1.omr";
 
-
-
             // initialize engine and get template processor providing path to the .omr file
-
             OmrEngine engine = new OmrEngine();
-
             TemplateProcessor templateProcessor = engine.GetTemplateProcessor(templatePath);
 
-
-
             // path to the filled omr form image
-
             string imagePath = "MyTest1Photo1.jpg";
 
-
-
             // call recognition method and get the result
-
             RecognitionResult result = templateProcessor.RecognizeImage(imagePath);
 
-
-
             // path to the results file
-
             string exportPath = "Photo1Results.csv";
 
-
-
             // export results as csv string
-
             File.WriteAllText(exportPath, result.GetCsv());
 
 </code></pre>
