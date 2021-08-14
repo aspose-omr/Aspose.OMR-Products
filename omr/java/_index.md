@@ -10,7 +10,7 @@ description: Java OMR reader and processing library to recognize scanned images 
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/pricing/omr/java" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/pricing/omr/java" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -72,7 +72,7 @@ description: Java OMR reader and processing library to recognize scanned images 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java OMR Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png"/>
+  <img alt="Java OMR Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -115,7 +115,7 @@ description: Java OMR reader and processing library to recognize scanned images 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OMR Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png"/>
+  <img alt="OMR Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -168,7 +168,7 @@ description: Java OMR reader and processing library to recognize scanned images 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java OMR API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png"/>
+  <img alt="Java OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -305,7 +305,7 @@ description: Java OMR reader and processing library to recognize scanned images 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR offers individual OMR processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -6,16 +6,16 @@ description: OMR .NET SDK to recognize optical marks from digitized sheet images
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="OMR APIs for .NET & Java Platforms" h2="Native APIs to recognize scanned documents and photos in a variety of image formats including BMP, JPG, TIF, TIFF, and GIF." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr.png" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
+{{< blocks/products/pf/upper-banner h1="OMR APIs for .NET & Java Platforms" h2="Native APIs to recognize scanned documents and photos in a variety of image formats including BMP, JPG, TIF, TIFF, and GIF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" productLink="/omr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" productLink="/omr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 

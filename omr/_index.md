@@ -11,11 +11,11 @@ description: On Premise and Cloud APIs for OMR operations on rotated, side viewe
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-net.png" productLink="https://products.aspose.com/omr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="https://products.aspose.com/omr/net" >}}
 On Premise APIs for Optical Mark Recognition features in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/272x272/aspose_omr-for-java.png" productLink="https://products.aspose.com/omr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="https://products.aspose.com/omr/java" >}}
 Premise APIs to add Optical Mark Recognition functionality within applications as well as recognize data from photos and scans in most commonly used image formats.
 {{< /blocks/products/pf/product >}}
 
