@@ -29,11 +29,11 @@ Premise APIs to add Optical Mark Recognition functionality within applications a
 Optical Mark Recognition on any platform. Just send cURL commands to capture human-marked data from images with high accuracy.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-net.png" productLink="https://products.aspose.cloud/omr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-net.png" productLink="https://products.aspose.cloud/omr/net" >}}
 Quickly get started with OMR implementation using our .NET SDK for Aspose.OMR Cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" productLink="https://products.aspose.cloud/omr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" productLink="https://products.aspose.cloud/omr/java" >}}
 Use Java language to perform OMR on documents such as surveys and tests in the Cloud using Aspose.OMR RESTFul APIs.
 {{< /blocks/products/pf/product >}}
 
