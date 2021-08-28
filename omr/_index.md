@@ -6,7 +6,7 @@ description: On Premise and Cloud APIs for OMR operations on rotated, side viewe
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition Solution" h2="On Premise & Cloud APIs to perform OMR for capturing human-marked data from document scans or photo." logoImageSrc="https://www.aspose.com/templates/brand/images/omr/aspose_omr-brand.png" imageAlt="Aspose.OMR Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition Solution" h2="On Premise & Cloud APIs to perform OMR for capturing human-marked data from document scans or photo." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-brand.svg" imageAlt="Aspose.OMR Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR On Premise APIs Include" >}}
