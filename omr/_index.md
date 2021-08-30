@@ -3,6 +3,8 @@ title: Optical mark recognition on scanned images | photos. Output in CSV
 weight: 30
 url: /
 description: On Premise and Cloud APIs for OMR operations on rotated, side viewed, scanned images. Process questionnaires, surveys, MCQs with high accuracy and get result in CSV format.
+aliases:
+    - /page/omr/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
