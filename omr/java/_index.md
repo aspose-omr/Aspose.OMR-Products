@@ -6,7 +6,7 @@ description: Java OMR reader and processing library to recognize scanned images 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java OMR Recognition and Parser APIs" h2="Recognize optical marks from OMR digitized sheet images in a variety of formats from scanned images and photos." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/omr/header/aspose_omr-for-java.png" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java OMR Recognition and Parser APIs" h2="Recognize optical marks from OMR digitized sheet images in a variety of formats from scanned images and photos." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
