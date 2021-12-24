@@ -6,15 +6,15 @@ description: Java OMR reader and processing library to recognize scanned images 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java OMR Recognition and Parser APIs" h2="Recognize optical marks from OMR digitized sheet images in a variety of formats from scanned images and photos." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java OMR Recognition and Parser APIs" h2="Recognize optical marks from OMR digitized sheet images in a variety of formats from scanned images and photos." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.OMR for Java is an API for optical marks recognition from various images including PNG, GIF, JPEG, TIFF, BMP. API saves the result in CSV and JSON formats as well as can show the results in Text format on performing OMR operations. Moreover, OMR recognition API captures human-marked data from files of multiple sources such as surveys, MCQ papers, questionnaires and more. High accuracy is maintained during recognition of scanned images and even pictures from all these sources.
+ Aspose.OMR for Java is an API for optical marks recognition from various images including PNG, GIF, JPEG, TIFF, BMP. API saves the result in CSV and JSON formats as well as can show the results in Text format on performing OMR operations. Moreover, OMR recognition API captures human-marked data from files of multiple sources such as surveys, MCQ papers, questionnaires and more. High accuracy is maintained during recognition of scanned images and even pictures from all these sources.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -22,7 +22,7 @@ description: Java OMR reader and processing library to recognize scanned images 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.OMR for Java API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.OMR for Java API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -144,7 +144,7 @@ description: Java OMR reader and processing library to recognize scanned images 
    </header>
    <ul>
     <li>
-     JPEG, PNG, GIF, TIFF, BMP
+     JPEG, PNG, GIF, TIFF, BMP
     </li>
    </ul>
   </div>
@@ -239,7 +239,7 @@ description: Java OMR reader and processing library to recognize scanned images 
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Save output to CSV and JSON format.
+     Save output to CSV and JSON format.
     </p>
    </div>
    <div class="col-lg-12">
@@ -254,7 +254,7 @@ description: Java OMR reader and processing library to recognize scanned images 
 
 <h2 class="h2title">Read or Create GIS Data Files</h2>
 
-<p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+<p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
 
 </div>-->
    <!--<div class="col-lg-12">
@@ -268,7 +268,7 @@ description: Java OMR reader and processing library to recognize scanned images 
 
 <h2 class="h2title">Support for Spatial Reference System</h2>
 
-<p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
+<p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
 
 </div>-->
   </div>

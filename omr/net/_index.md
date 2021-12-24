@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET OMR Reader & Parser APIs" h2="Perform OMR operations to recognize data from photos & scans of commonly used image format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET OMR Reader & Parser APIs" h2="Perform OMR operations to recognize data from photos & scans of commonly used image format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for .NET" >}}
 
@@ -148,7 +148,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
    </header>
    <ul>
     <li>
-     JPEG, PNG, GIF, TIFF, BMP
+     JPEG, PNG, GIF, TIFF, BMP
     </li>
    </ul>
   </div>
@@ -392,7 +392,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
 
     <h2 class="h2title">Read or Create GIS Data Files</h2>
 
-    <p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+    <p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
 
     </div>-->
    <!--<div class="col-lg-12">
@@ -406,7 +406,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
 
     <h2 class="h2title">Support for Spatial Reference System</h2>
 
-    <p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
+    <p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
 
     </div>-->
   </div>
