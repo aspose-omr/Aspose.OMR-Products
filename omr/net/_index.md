@@ -73,7 +73,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -119,7 +119,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OMR C# API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="OMR C# API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -178,7 +178,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>

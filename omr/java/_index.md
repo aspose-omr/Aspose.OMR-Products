@@ -72,7 +72,7 @@ description: Java OMR reader and processing library to recognize scanned images 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java OMR Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
+  <img width="70" height="75" alt="Java OMR Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -115,7 +115,7 @@ description: Java OMR reader and processing library to recognize scanned images 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OMR Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
+  <img width="70" height="75" alt="OMR Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -168,7 +168,7 @@ description: Java OMR reader and processing library to recognize scanned images 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
+  <img width="70" height="75" alt="Java OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
