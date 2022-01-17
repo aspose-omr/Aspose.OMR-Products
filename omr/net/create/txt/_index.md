@@ -1,0 +1,51 @@
+---
+title: Create OMR Template using Text Markup using C#
+description: C# code to create OMR template using text markup for cases like Answer Sheet Images or MCQ Answer Sheets 
+url: /net/create/txt/
+family: omr
+platformtag: net
+feature: scan
+informat: BMP
+outformat:
+otherformats: TIFF JPEG GIF PNG
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Create OMR Template using Text Markup via C#" h2="Design a custom OMR template using text markup for generating surveys and test sheets within any .NET based applications." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.OMR for .NET](https://products.aspose.com/omr/net/) is an optical mark recognition API for generating and recognizing answer sheets of MCQ papers, quiz tests, feedback forms like surveys and all type of balloting forms. Programmers can easily integrate API within their OMR software solutions or building applications from scratch such as grade or GPA calculator, grade percentage or generating answer sheets. API supports multiple image formats including JPEG, PNG, GIF, TIFF and BMP.
+
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Create Template via Text Markup" %}}
+1. Create [OmrEngine class](https://apireference.aspose.com/omr/net/aspose.omr.api/omrengine) object.
+2. Using the object, get the path to the txt markup file using [GenerateTemplate](https://apireference.aspose.com/omr/net/aspose.omr.api/omrengine/methods/generatetemplate) and assign the result to [GenerationResult class](https://apireference.aspose.com/omr/net/aspose.omr.generation/generationresult).
+3. Call the Save method with path to the folder where the results will be saved and the name of the generated template and image as parameter. 
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET OMR API" %}}
+Install from command line as ```nuget install Aspose.OMR``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.OMR```.
+
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/omr/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C# code processes sample text markup to generate the OMR template" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "5d0b96a6ec34a40c8aa17fd7897292d5" "create-omr-template-using-text-markup.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Template Creation Options" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/omr/net/create/json/" name="Create Template via JSON Markup" description="JavaScript Object Notation" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
