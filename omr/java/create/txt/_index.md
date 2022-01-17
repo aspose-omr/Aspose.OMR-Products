@@ -41,5 +41,14 @@ Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/demobox sectionTitle="Create Answer Sheet Live Demos" sectionDescription="[Create Answer Sheet](https://products.aspose.app/omr/create-answer-sheet) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your file, and apply relevant settings." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
+		
+{{< /blocks/products/pf/agp/demobox >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

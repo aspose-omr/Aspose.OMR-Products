@@ -41,6 +41,16 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/demobox sectionTitle="Scan Answer Sheet Live Demos" sectionDescription="[Scan Answer Sheet](https://products.aspose.app/omr/scan-answer-sheet) right now by visiting our Live Demos website." >}}
+
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your file, and apply relevant settings." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
+		
+{{< /blocks/products/pf/agp/demobox >}}
+
 {{< blocks/products/pf/agp/other-supported-section title="Other Images Scan Options" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/omr/net/scan/bmp/" name="Scan BMP Image" description="Bitmap Image Format" >}}
