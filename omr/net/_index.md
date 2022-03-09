@@ -311,26 +311,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
       No need to start from empty list! Take a look at demonstration markups and generated images for a good understanding of generation capabilities and things you can start on. For more details on features and settings you can check our documentation.
      </span>
     </p>
-    <pre><code class="cs">
-
-            // path to the txt markup file
-            string markupPath = "Survey01Markup.txt";
-
-            // initialize omr engine
-            OmrEngine engine = new OmrEngine();
-
-            // call generation method and get result: image and template (.omr file)
-            GenerationResult result = engine.GenerateTemplate(markupPath);
-
-            // path to the folder where the results will be saved
-            string outputFolder = "OmrTemplates";
-
-            // the name of the generated template and image
-            string templateName = "Survey01";
-
-            // save results
-            result.Save(outputFolder, templateName);
-</code></pre>
+    {{< gist "aspose-com-gists" "5d0b96a6ec34a40c8aa17fd7897292d5" "create-omr-template-using-text-markup.cs" >}}
     <p>
      <strong>
       Recognize OMR sheets
@@ -351,28 +332,7 @@ description: C# ASP.NET VB.NET OMR reader and parsing SDK to perform OMR operati
       The recognition results can be saved as JSON or CSV files.
      </span>
     </p>
-    <pre><code class="cs">
-
-            // path to the .omr file
-            string templatePath = "MyTest1.omr";
-
-            // initialize engine and get template processor providing path to the .omr file
-            OmrEngine engine = new OmrEngine();
-            TemplateProcessor templateProcessor = engine.GetTemplateProcessor(templatePath);
-
-            // path to the filled omr form image
-            string imagePath = "MyTest1Photo1.jpg";
-
-            // call recognition method and get the result
-            RecognitionResult result = templateProcessor.RecognizeImage(imagePath);
-
-            // path to the results file
-            string exportPath = "Photo1Results.csv";
-
-            // export results as csv string
-            File.WriteAllText(exportPath, result.GetCsv());
-
-</code></pre>
+    {{< gist "aspose-com-gists" "1e7ebb667a6dca37fc30292c0b41da72" "recognize-omr-sheets.cs" >}}
     <p>
      <strong>
       Easy to use
