@@ -11,11 +11,11 @@ description: OMR .NET SDK 從數字化的紙張圖像中識別光學標記。開
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR 高代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/zh-TW/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/zh-hant/net/" >}}
 面向 Windows 窗體、ASP.NET、WPF、WCF 或任何類型的基於 .NET Framework 4.0 或更高版本的應用程序。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/zh-TW/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/zh-hant/java/" >}}
 用於桌面、Web 或任何基於 Java SE 或 EE 的應用程序的原生 Java API。
 {{< /blocks/products/pf/product >}}
 

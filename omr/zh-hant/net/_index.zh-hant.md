@@ -403,7 +403,7 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR 為其他流行的開發環境提供單獨的 OMR 處理 API，如下所列：" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/zh-TW/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/zh-hant/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

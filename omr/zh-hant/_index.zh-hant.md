@@ -13,15 +13,15 @@ description: 用於旋轉、側視、掃描圖像上的 OMR 操作的本地和�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR 高代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="https://products.aspose.com/omr/zh-TW/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="https://products.aspose.com/omr/zh-hant/net" >}}
 用於 Windows 窗體、ASP.NET、WPF、WCF 或任何類型的基於 .NET Framework 4.0 或更高版本的應用程序中的光學標記識別功能的高代碼 API。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="https://products.aspose.com/omr/zh-TW/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="https://products.aspose.com/omr/zh-hant/java" >}}
 Premise API 可在應用程序中添加光學標記識別功能，並以最常用的圖像格式識別來自照片和掃描的數據。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/omr/zh-TW/family/" innerText="查看所有高代碼 API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/omr/zh-hant/family/" innerText="查看所有高代碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

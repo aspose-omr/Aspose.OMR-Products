@@ -305,7 +305,7 @@ description: Java OMR 閱讀器和處理庫，可高精度識別掃描圖像甚�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR 為其他流行的開發環境提供單獨的 OMR 處理 API，如下所列：" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/zh-TW/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/zh-hant/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
