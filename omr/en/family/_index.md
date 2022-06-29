@@ -1,22 +1,22 @@
 ---
-title: OMR API - Optical Mark Recognition API for multiple platforms 
+title: Optical Mark Recognition API for .NET and Java applications
 weight: 10
 url: /family
-description: OMR .NET SDK to recognize optical marks from digitized sheet images. Develop apps for web, desktop and mobile to scan tests exams questionnaires surveys.
+description: Generate and automatically recognize OMR-ready forms - from examination papers to customer satisfaction surveys and election ballots.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="OMR APIs for .NET & Java Platforms" h2="Native APIs to recognize scanned documents and photos in a variety of image formats including BMP, JPG, TIF, TIFF, and GIF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
+{{< blocks/products/pf/upper-banner h1="OMR APIs for .NET & Java Platforms" h2="Build optical mark recognition (OMR) software of any scale and complexity in a few lines of code. Use your existing office copier or even a smartphone camera instead of an expensive OMR scanner." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/net/" >}}
-Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.0 or later.
+NuGet package or standalone library for developing .NET optical mark readers for desktop, web and cloud.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/java/" >}}
-Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
+Native API for desktop and web OMR applications that can run on any platform that supports Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

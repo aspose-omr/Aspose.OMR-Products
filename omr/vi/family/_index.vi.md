@@ -1,28 +1,28 @@
 ---
-title: API OMR - API nhận dạng dấu quang học cho nhiều nền tảng 
+title: API nhận dạng dấu quang học cho các ứng dụng .NET và Java
 weight: 10
 url: /vi/family
-description: OMR .NET SDK để nhận dạng nhãn hiệu quang học từ hình ảnh trang tính được số hóa. Phát triển ứng dụng cho web, máy tính để bàn và thiết bị di động để quét các bản khảo sát câu hỏi kiểm tra bài kiểm tra.
+description: Tạo và tự động nhận dạng các biểu mẫu sẵn sàng OMR - từ giấy kiểm tra đến khảo sát mức độ hài lòng của khách hàng và phiếu bầu cử.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API OMR cho Nền tảng .NET & Java" h2="Các API gốc để nhận dạng các tài liệu và ảnh được quét ở nhiều định dạng hình ảnh khác nhau bao gồm BMP, JPG, TIF, TIFF và GIF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
+{{< blocks/products/pf/upper-banner h1="API OMR cho Nền tảng .NET &amp; Java" h2="Xây dựng phần mềm nhận dạng dấu quang học (OMR) ở mọi quy mô và độ phức tạp trong một vài dòng mã. Sử dụng máy photocopy văn phòng hiện có của bạn hoặc thậm chí là máy ảnh trên điện thoại thông minh thay vì máy quét OMR đắt tiền." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm API mã cao Aspose.OMR" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/vi/net/" >}}
-Nhắm mục tiêu Windows Forms, ASP.NET, WPF, WCF hoặc bất kỳ loại ứng dụng nào dựa trên .NET Framework 4.0 trở lên.
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/net/" >}}
+Gói NuGet hoặc thư viện độc lập để phát triển trình đọc nhãn quang .NET cho máy tính để bàn, web và đám mây.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/vi/java/" >}}
-Các API Java gốc cho máy tính để bàn, web hoặc bất kỳ loại ứng dụng nào dựa trên Java SE hoặc EE.
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/java/" >}}
+API gốc cho các ứng dụng OMR trên máy tính để bàn và web có thể chạy trên bất kỳ nền tảng nào hỗ trợ Java SE hoặc EE.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/omr/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-omr" >}}
@@ -36,13 +36,13 @@ Các API Java gốc cho máy tính để bàn, web hoặc bất kỳ loại ứn
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao lại sử dụng Dòng sản phẩm Aspose.OMR?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao lại là dòng sản phẩm Aspose.OCR?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr" pricingInformationLink="https://purchase.aspose.com/pricing/omr" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr" pricingInformationLink="https://purchase.aspose.com/pricing/omr" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

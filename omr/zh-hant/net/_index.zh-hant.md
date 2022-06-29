@@ -1,79 +1,67 @@
 ---
-title: C# .NET 光學標記識別 OMR API - Aspose 
+title: .NET 的光學標記識別 API
 weight: 20
 url: /zh-hant/net/ 
-description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問卷調查等獲得的圖像和照片執行 OMR 操作
+description: NuGet 包或獨立 .NET 庫，用於開發可以生成 OMR 表單和讀取光學標記的桌面應用程序和 Web 服務。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET OMR 閱讀器和解析器 API" h2="執行 OMR 操作以識別來自常用圖像格式的照片和掃描的數據。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET 的光學標記識別 API" h2="從掃描的圖像和照片中讀取光學標記，並在您的 .NET 應用程序和 Web 服務中生成 OMR 就緒的答卷、調查和問卷。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>
- <span style="font-weight: 400;">
-  Aspose.OMR for .NET 是一個簡單實用的 OMR 軟件，用於創建和識別答題紙、測試、MCQ 試卷、測驗、反饋表、調查、選票 - 所有類型的表格。我們的光學標記識別 API 非常簡單，允許您設計、創建和識別具有各種問題類型、圖標、條形碼和其他元素的完全可定制的表單。
- </span>
-</p>
-
-<p>
- <span style="font-weight: 400;">
-  不需要特殊的掃描儀、紙張或其他設備 - Aspose OMR 使用先進的圖像處理算法來處理高精度的照片和掃描。我們提供獨特的 GUI 工具來為您現有的表單創建標記，以便它們可以被 Aspose.OMR 軟件識別。
- </span>
-</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OMR for .NET 是一個可靠且多功能的編程 API，用於<b>設計</b>和<b>自動識別</b>手工填寫的答卷、調查、測試、選票、SAT 考試表格、保險索賠以及受訪者通過隨機抽取答案來回答問題的類似文件標記為圓形或方形。從成百上千個表單中手動讀取和聚合結果的漫長且容易出錯的過程歸結為<b>10 行 C#、F# 或 Visual Basic 代碼</b>，即使是沒有經驗的開發人員也可以輕鬆理解和支持。</p>
+<p>我們的 OMR 庫提供了一種高度靈活的標記語言，使您無需設計工具即可創建任何佈局和復雜性的 OMR 就緒形式。您可以組合最適合您的目的和目標受眾的各種元素，並通過添加徽標、條形碼、二維碼或圖像來進一步個性化和品牌化您的 OMR 表單。</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.OMR for .NET API 概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.OMR for .NET 支持完整的 OMR 工作流程——從設計表單到識別其填充的硬拷貝。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    特徵
+    創建 OMR 表單
    </header>
    <ul>
-    <li>創建和識別自定義 OMR 表單</li>
-    <li>處理現有表格</li>
-    <li>準確率高</li>
-    <li>CSV 和 JSON 格式的結果</li>
-    <li>用於編輯複雜案例的 GUI</li>
+    <li>靈活的標記語言</li>
+    <li>程序化創建表單</li>
+    <li>二維碼和條形碼</li>
+    <li>添加圖像和品牌</li>
+    <li>多頁表格</li>
+    <li>所有流行的紙張尺寸</li>
+    <li>無需圖形編輯器</li>
    </ul>
-    <header><i class="fa fa-user-edit">&nbsp;</i>一代</header>
-    <ul>
-        <li>使用文本標記創建自定義 OMR 表單</li>
-        <li>輕鬆生成答題卡、測試、測驗、調查、選票</li>
-        <li>支持多個問題、元素、顏色、字體、紙張大小</li>
-        <li>以 PDF 或 PNG 格式生成可打印的 OMR 表格</li>
-    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-eye">
     </i>
-    認出
+    識別 OMR 表格
    </header>
    <ul>
-    <li>掃描圖像</li>
-    <li>相片</li>
-    <li>處理旋轉圖像</li>
-    <li>過程側查看的圖像</li>
-    <li>各種來源的數據</li>
+    <li>閱讀掃描的圖像和照片</li>
+    <li>卓越的識別精度</li>
+    <li>無需設備</li>
+    <li>調整旋轉和傾斜的圖像</li>
+    <li>識別所有類型的標記</li>
+    <li>實時精度調優</li>
+    <li>解碼二維碼和條形碼</li>
+    <li>處理寫入字段</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt=".NET 的 OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -91,27 +79,52 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台獨立性" description="Aspose.OMR for .NET 支持 .NET Framework 4.0 及更高版本" >}}
+{{< blocks/products/pf/carousel-item h3="平台獨立性" description="Aspose.OMR for .NET 完全支持 .NET Framework 4.0 及更高版本。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET 實現
+   </header>
+   <ul>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core 2.0 或更高版本
+    </li>
+    <li>
+     .NET Framework 4.0 或更高版本
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-cubes">
+    <i class="fa fa-laptop">
     </i>
-    .NET Framework
+    應用
    </header>
    <ul>
     <li>
-     ASP.NET 應用程序
+     桌面應用程序
     </li>
     <li>
-     Windows 應用程序
+     視窗服務
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      網頁服務
+    </li>
+    <li>
+     雲服務
     </li>
    </ul>
   </div>
@@ -119,7 +132,7 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="OMR C# API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="C#、F# 和 VB 中的光學標記識別" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -137,18 +150,33 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.OMR for .NET 支持流行的 [文件格式](https://docs.aspose.com/omr/net/supported-file-formats/)  下面列出。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="將 OMR 就緒的表單創建為圖像或 PDF，並以最流行的數據存儲格式獲得識別結果。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    僅輸入
+    可打印表格
    </header>
    <ul>
     <li>
-     JPEG, PNG, GIF, TIFF, BMP
+     PDF
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     BMP
     </li>
    </ul>
   </div>
@@ -157,28 +185,19 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    僅輸出
+    識別結果
    </header>
    <ul>
-    <li>
-     CSV
-    </li>
-    <li>
-     JSON
-    </li>
-    <li>
-     PDF
-    </li>
-    <li>
-     PNG
-    </li>
+    <li>CSV</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt=".NET 的光學標記識別" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -196,7 +215,7 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -206,169 +225,119 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高級 .NET OMR API 功能
+    Aspose.OMR for .NET 的特性和功能
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     識別掃描和照片
+     支持您可以從掃描儀或相機獲得的所有圖像格式
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-mobile ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     處理旋轉和傾斜的圖像
+     使用智能手機相機代替掃描儀
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     創建和識別答題紙、測試、考試、選票、問卷、調查
-    </p>
-   </div>
-    <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     支持多種字體、顏色、OMR 元素
-    </p>
-   </div>
-    <div class="col-lg-4">
-        <em class="fa fa-file-pdf ico-blue fa-2x col-lg-2">&nbsp;</em>
-        <p class="col-lg-10">生成 PDF 或 PNG 格式的 OMR 表單</p>
-    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-check ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     準確率高
+     讀取用鋼筆、鉛筆或記號筆繪製的所有類型的標記
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     用於糾正複雜情況的 GUI
+     使用條形碼、二維碼、品牌和圖像個性化表單
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     將結果保存為 CSV 或 JSON 格式
+     通過可視化 UI 控件進行實時精度調整
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     OMR API 的工作原理
-    </h2>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR for .NET 在設計時充分考慮了用戶需求，是解決日常任務的絕佳 omr 軟件。無論應用領域如何，設置解決方案並獲得結果都需要最少的努力。高度可定制的模板生成允許為任何業務案例創建自定義 OMR 表。
-     </span>
-    </p>
-    <p>
-     <strong>
-      教育
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      用於測試、考試或評估的簡單表格或更複雜的帶有 ID、文本問題和多項選擇題的論文，Aspose.OMR for .NET 可以處理這一切。對於教師來說，它是完美的 omr 軟件，因為創建和識別 omr 表格需要最低限度的編程技能。
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Aspose答題卡示例" height="702" src="AnswerSheet.png" width="497"/>
-      <img alt="Aspose 測試表單示例" height="702" src="OmrTest.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      Surveys
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      使用 Aspose.OMR 進行任何類型的調查：客戶滿意度調查、評估調查、公眾意見等。
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Aspose 調查表示例" height="702" src="OmrSurvey.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      創建您自己的模板
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR for .NET API 提供了從文本描述生成 OMR 模板的方法。使用此功能，開發人員可以創建高度可定制的漂亮 omr 表以供打印。 API 支持多種類型的元素，包括文本、選擇框（問題）、答案表（幾列問題）、網格（由相似部分組成的複雜值）。生成的圖像可以保存為準備打印的 PDF 文件或 PNG 圖像。
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      無需從空列表開始！查看演示標記和生成的圖像，以更好地了解生成功能和可以開始的事情。有關功能和設置的更多詳細信息，您可以查看我們的文檔。
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "5d0b96a6ec34a40c8aa17fd7897292d5" "create-omr-template-using-text-markup.cs" >}}
-    <p>
-     <strong>
-      識別 OMR 表
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR for .NET 的主要特徵是一種識別。 API 可以識別多種圖像格式的照片和掃描件，包括 JPEG、PNG、GIF、TIFF、BMP。為了識別圖像，OMR 引擎需要 .omr 文件，這是一個描述表單位置和內容的模板。 一代 為每個創建的表單提供模板，我們提供用於從任何用戶圖像創建模板的 GUI 應用程序。
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      識別過程快速而準確，每張圖像只需幾秒鐘，具體取決於圖像質量和大小。這允許在短時間內處理大量表格。
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      識別結果可以保存為 JSON 或 CSV 文件。
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "1e7ebb667a6dca37fc30292c0b41da72" "recognize-omr-sheets.cs" >}}
-    <p>
-     <strong>
-      便於使用
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR 提供了一個帶有明顯方法簽名的直觀 API。無需花費數小時閱讀文檔或嘗試找出代碼。簡單而實用，API 可以在不同的場景中使用。
-      <a href="https://github.com/aspose-omr/Aspose.OMR-for-.NET">
-       演示材料
-      </a>
-      包含代碼示例和演示模板的代碼可以開箱即用，以展示軟件功能和工作流程。
-     </span>
+   <div class="col-lg-4">
+    <em class="fa fa-folder ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     識別多頁表單和文件夾中的所有圖像
     </p>
    </div>
-   <!--<div class="col-lg-12">
+   <div class="col-lg-4">
+    <em class="fa fa-file ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     支持所有流行的紙張尺寸以及非標準尺寸
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     處理寫入字段和自定義圖紙
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     即使在困難的條件下也具有出色的識別精度
+    </p>
+   </div>
 
-    <h2 class="h2title">Read or Create GIS Data Files</h2>
+<div class="col-lg-12">
+<h2 class="h2title">易於安裝</h2>
+<p>Aspose.OMR for .NET 以輕量級 NuGet 包或具有最小依賴性的<a href="https://releases.aspose.com/omr/net/">可下載文件</a>的形式分發。只需將其<a href="https://docs.aspose.com/omr/net/installation/">安裝</a>到您的項目中，您就可以使用所有 OMR 功能並以任何受支持的格式保存識別結果。</p>
+<p><a href="https://purchase.aspose.com/temporary-license">申請臨時許可證</a>以開始構建功能齊全的 OMR 應用程序，不受任何限制。</p>
+</div>
 
-    <p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+<div class="col-lg-12">
+<h2 class="h2title">便於使用</h2>
+<p>您只需要幾行代碼即可創建像客戶滿意度調查一樣的 OMR 表單，並識別填寫的表單。是的，真的就是這麼簡單！不要相信我們的話，<a href="https://docs.aspose.com/omr/net/hello-world/">自己試試</a>。</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">無限可能</h2>
+<p>光學標記識別 (OMR) 技術有許多應用，當您需要收集和分析手動填寫的數據時，幾乎可以大大簡化您生活中的任何部分。它使該過程完全自動化，每分鐘可以以近 100% 的準確率識別數百張紙，並將結果直接保存到數據庫中以供進一步匯總和分析。應用包括但不限於：</p>
+<ul>
+	<li>教育：答題紙、測試、測驗、SAT 表格等等。</li>
+	<li>問卷：客戶滿意度調查、反饋表、訂單、用餐偏好。</li>
+	<li>應用：保險索賠、財務申請、邊境入境表格。</li>
+	<li>還有很多。</li>
+</ul>
+</div>
 
-    <h2 class="h2title">Format-Independent Object Model</h2>
+<div class="col-lg-12">
+<h2 class="h2title">無需設計工具即可創建表單</h2>
+<p>我們的圖書館支持完整的 OMR 工作流程——從設計表格到識別其填充的硬拷貝。它提供高度靈活的<a href="https://docs.aspose.com/omr/net/design-form/">標記語言</a>，帶有 <b>20</b> 佈局和內容元素，可以相互組合以產生任何佈局形式的複雜性。</p>
+<div>
+	<a href="https://docs.aspose.com/omr/net/showcases/alumni/compact/"><img src="alumni.png" alt="校友測驗" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/satisfaction/grouped/"><img src="car-dealership.png" alt="顧客滿意度調查" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/sat/color/"><img src="sat.png" alt="SAT形式" /></a>
+</div>
+<p>您還可以直接在應用程序代碼中描述 OMR 表單的佈局和內容。當您需要設計具有個性化字段（例如受訪者姓名、照片或唯一 QR 碼）的表單時，這種方法最有效。</p>
+<p>識別結果以最流行的數據存儲格式返回，可以導入任何流行的數據庫或分析系統：JSON、XML 或 CSV。</p>
+</div>
 
-    <p>Aspose.GIS for .NET lets you manage geometries and feature attributes of supported GIS file formats without worrying about the underlying format implementation. The uniform representation of feature attributes for both ESRI Shapefiles and GeoJSON frees you from writing separate code to manage both formats.</p>
+<div class="col-lg-12">
+<h2 class="h2title">無需設備</h2>
+<p>您不再需要專門的掃描儀、獨特的透光紙、磁性墨水和其他“硬件”解決方案。先進的圖像分析和人工智能技術使得使用普通的筆和紙、普通的辦公複印機甚至智能手機攝像頭代替專用設備成為可能，而不會影響識別的準確性和對結果的信心。我們的庫允許構建純軟件 OMR 解決方案，以低得多的成本與傳統的基於硬件的系統競爭。</p>
+<p>OMR API 自動校正旋轉和傾斜的圖像，因此即使是低質量的照片也能以高度的可信度被識別。在困難的情況下，您可以微調表單處理並產生接近 100% 準確度的結果。</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">以身作則</h2>
+<p>Aspose.OMR for .NET 附帶了許多<a href="https://docs.aspose.com/omr/net/showcases/">示例</a>，可讓您快速熟悉其功能和功能，並讓您了解為您的業務需求創建解決方案。</p>
+</div>
 
-    <h2 class="h2title">Support for Spatial Reference System</h2>
-
-    <p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
-
-    </div>-->
   </div>
  </div>
 </div>
@@ -377,7 +346,7 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/omr/net/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-omr/Aspose.OMR-for-.NET" >}}
@@ -389,21 +358,21 @@ description: C# ASP.NET VB.NET OMR 閱讀器和解析 SDK 對從測試考試問�
 {{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="為什麼 Aspose.OMR 用於 .NET？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.OCR 產品系列？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR 為其他流行的開發環境提供單獨的 OMR 處理 API，如下所列：" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose 還為其他流行的編程語言提供原生 OMR API：" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/zh-hant/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -1,79 +1,67 @@
 ---
-title: C# .NET Optical Marks Uznání OMR API - Aspose 
+title: Optical Mark Recognition API pro .NET
 weight: 20
 url: /cs/net/ 
-description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění operací OMR na obrázcích a fotografiích získaných z testů, dotazníků, průzkumů a dalších
+description: Balíček NuGet nebo samostatná knihovna .NET pro vývoj desktopových aplikací a webových služeb, které mohou generovat formuláře OMR a číst optické značky.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET OMR Reader & Parser API" h2="Provádějte operace OMR k rozpoznání dat z fotografií a skenů v běžně používaném obrazovém formátu." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition API pro .NET" h2="Čtěte optické značky z naskenovaných obrázků a fotografií a generujte odpovědi, průzkumy a dotazníky připravené pro OMR ve vašich aplikacích .NET a webových službách." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>
- <span style="font-weight: 400;">
-  Aspose.OMR for .NET je jednoduchý a praktický OMR software pro vytváření a rozpoznávání odpovědních archů, testů, MCQ papírů, kvízů, formulářů zpětné vazby, průzkumů, hlasovacích lístků – všech typů formulářů. Naše rozhraní API pro optické rozpoznávání značek je velmi snadné a umožňuje vám navrhovat, vytvářet a rozpoznávat plně přizpůsobitelné formuláře s různými typy otázek, ikonami, čárovými kódy a dalšími prvky.
- </span>
-</p>
-
-<p>
- <span style="font-weight: 400;">
-  Není potřeba speciálních skenerů, papírů nebo jiného vybavení – Aspose OMR využívá pokročilé algoritmy pro zpracování obrazu ke zpracování fotografií a skenů s vysokou přesností. Poskytujeme jedinečný nástroj GUI pro vytváření značek pro vaše stávající formuláře, aby je bylo možné rozpoznat pomocí softwaru Aspose.OMR.
- </span>
-</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OMR for .NET je spolehlivé a všestranné programovací API pro <b>navrhování</b> a <b>automatické rozpoznávání</b> ručně vyplněných odpovědních archů, průzkumů, testů, hlasovacích lístků, formulářů pro zkoušky SAT, pojistných událostí a podobných dokumentů, ve kterých respondenti odpovídají na otázku vylosováním náhodného označte v kruhu nebo čtverci. Dlouhý a k chybám náchylný proces ručního čtení a agregace výsledků ze stovek a tisíců formulářů sestává z <b>10 řádků kódu</b> v C#, F# nebo Visual Basic, kterému snadno porozumí a podpoří i nezkušení vývojáři.</p>
+<p>Naše knihovna OMR nabízí vysoce flexibilní značkovací jazyk, který vám umožňuje vytvářet formuláře připravené pro OMR jakéhokoli rozvržení a složitosti bez návrhových nástrojů. Můžete kombinovat různé prvky, které nejlépe vyhovují vašemu účelu a cílovému publiku, a dále personalizovat a označovat své formuláře OMR přidáním log, čárových kódů, QR kódů nebo obrázků.</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.OMR pro .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Aspose.OMR for .NET podporuje kompletní pracovní postup OMR – od návrhu formuláře až po rozpoznání jeho vyplněných tištěných kopií." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    Funkce
+    Vytvářejte formuláře OMR
    </header>
    <ul>
-    <li>Vytvářejte a rozpoznávejte vlastní formuláře OMR</li>
-    <li>Zpracovat existující formuláře</li>
-    <li>Vysoká míra přesnosti</li>
-    <li>Výsledky ve formátech CSV a JSON</li>
-    <li>GUI pro úpravu složitých případů</li>
+    <li>Flexibilní značkovací jazyky</li>
+    <li>Programová tvorba formulářů</li>
+    <li>QR kódy a čárové kódy</li>
+    <li>Přidejte obrázky a značku</li>
+    <li>Vícestránkové formuláře</li>
+    <li>Všechny oblíbené velikosti papíru</li>
+    <li>Nejsou potřeba žádné grafické editory</li>
    </ul>
-    <header><i class="fa fa-user-edit">&nbsp;</i>Generace</header>
-    <ul>
-        <li>Vytvářejte vlastní formuláře OMR pomocí textových značek</li>
-        <li>Snadno generujte odpovědní arch, testy, kvízy, průzkumy, hlasovací lístky</li>
-        <li>Podporuje více otázek, prvků, barev, písem, velikostí papíru</li>
-        <li>Generujte formuláře OMR připravené k tisku ve formátu PDF nebo PNG</li>
-    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-eye">
     </i>
-    Uznání
+    Rozpoznat formuláře OMR
    </header>
    <ul>
-    <li>Naskenované obrázky</li>
-    <li>Fotky</li>
-    <li>Zpracujte otočené obrázky</li>
-    <li>Zpracujte snímky prohlížené ze strany</li>
-    <li>Údaje z různých zdrojů</li>
+    <li>Čtení naskenovaných obrázků a fotografií</li>
+    <li>Vynikající přesnost rozpoznávání</li>
+    <li>Není potřeba žádné vybavení</li>
+    <li>Upravte otočené a zkosené obrázky</li>
+    <li>Rozpoznat všechny typy známek</li>
+    <li>Ladění přesnosti v reálném čase</li>
+    <li>Dekódujte QR kódy a čárové kódy</li>
+    <li>Zpracujte pole pro zápis</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="OMR API pro .NET" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -91,27 +79,52 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.OMR for .NET podporuje .NET Framework 4.0 a vyšší" >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.OMR for .NET plně podporuje .NET Framework 4.0 a novější edice." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET implementace
+   </header>
+   <ul>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core 2.0 nebo novější
+    </li>
+    <li>
+     .NET Framework 4.0 nebo novější
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-cubes">
+    <i class="fa fa-laptop">
     </i>
-    .NET Framework
+    Aplikace
    </header>
    <ul>
     <li>
-     Aplikace ASP.NET
+     Desktopové aplikace
     </li>
     <li>
-     Aplikace pro Windows
+     služby Windows
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      Webové služby
+    </li>
+    <li>
+     Cloudové služby
     </li>
    </ul>
   </div>
@@ -119,7 +132,7 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="OMR C# API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="Optické rozpoznávání značek v C#, F# a VB" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -137,18 +150,33 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.OMR pro .NET podporuje populární [formáty souborů](https://docs.aspose.com/omr/net/supported-file-formats/)  vypsáno níže." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Vytvářejte formuláře připravené pro OMR jako obrázky nebo soubory PDF a získejte výsledky rozpoznávání v nejoblíbenějších formátech ukládání dat." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Pouze vstup
+    Tisknutelné formuláře
    </header>
    <ul>
     <li>
-     JPEG, PNG, GIF, TIFF, BMP
+     PDF
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     BMP
     </li>
    </ul>
   </div>
@@ -157,28 +185,19 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Pouze výstup
+    Výsledky rozpoznávání
    </header>
    <ul>
-    <li>
-     CSV
-    </li>
-    <li>
-     JSON
-    </li>
-    <li>
-     PDF
-    </li>
-    <li>
-     PNG
-    </li>
+    <li>CSV</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="Optické rozpoznávání značek pro .NET" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -196,7 +215,7 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -206,169 +225,119 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce rozhraní .NET OMR API
+    Vlastnosti a schopnosti Aspose.OMR pro .NET
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Rozpoznejte skeny a fotografie
+     Podporuje všechny obrazové formáty, které můžete získat ze skeneru nebo fotoaparátu
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-mobile ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Zpracujte otočené a zkreslené obrázky
+     Místo skeneru použijte fotoaparát chytrého telefonu
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Vytvářejte a rozpoznávejte odpovědní archy, testy, zkoušky, hlasovací lístky, dotazníky, průzkumy
-    </p>
-   </div>
-    <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     Podporuje více písem, barev, prvků OMR
-    </p>
-   </div>
-    <div class="col-lg-4">
-        <em class="fa fa-file-pdf ico-blue fa-2x col-lg-2">&nbsp;</em>
-        <p class="col-lg-10">Generujte formuláře OMR ve formátu PDF nebo PNG</p>
-    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-check ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     Vysoká míra přesnosti
+     Čte všechny typy značek nakreslených perem, tužkou nebo fixem
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     GUI pro opravu složitých případů
+     Personalizujte formuláře pomocí čárových kódů, QR kódů, značek a obrázků
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Uložte výsledky do formátu CSV nebo JSON
+     Ladění přesnosti v reálném čase prostřednictvím vizuálního ovládání uživatelského rozhraní
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Jak funguje OMR API
-    </h2>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR for .NET, navržený s ohledem na potřeby uživatelů, je skvělý omr software pro řešení každodenních úkolů. Nastavení řešení a získání výsledků vyžaduje minimální úsilí, bez ohledu na oblast použití. Vysoce přizpůsobitelné generování šablon umožňuje vytvářet vlastní list OMR pro jakýkoli obchodní případ.
-     </span>
-    </p>
-    <p>
-     <strong>
-      Vzdělání
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Jednoduché listy pro testy, zkoušky nebo hodnocení nebo složitější papíry s ID, textovými otázkami a otázkami s výběrem odpovědí, Aspose.OMR pro .NET to všechno zvládne. Je to perfektní software omr pro učitele, protože k vytvoření a rozpoznání formulářů omr jsou vyžadovány minimální znalosti programování.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Přiložte příklad odpovědního listu" height="702" src="AnswerSheet.png" width="497"/>
-      <img alt="Příklad formuláře Aspose Test" height="702" src="OmrTest.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      Surveys
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Provádějte průzkumy jakéhokoli druhu pomocí Aspose.OMR: průzkumy spokojenosti zákazníků, hodnotící průzkumy, veřejné mínění atd.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Příklad formuláře Aspose Survey" height="702" src="OmrSurvey.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      Vytvořte si vlastní šablonu
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR for .NET API poskytuje metody pro generování šablon OMR z textového popisu. Pomocí této funkce mohou vývojáři vytvářet vysoce přizpůsobitelné pěkně vypadající omr listy připravené k tisku. API podporuje několik typů prvků, včetně textu, výběrového pole (otázka), odpovědního listu (několik sloupců otázek), mřížky (komplexní hodnoty, které se skládají z podobných částí). Vygenerované obrázky lze uložit jako soubory PDF připravené k tisku nebo obrázky PNG.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Není třeba začínat z prázdného seznamu! Podívejte se na ukázkové značky a generované obrázky, abyste dobře porozuměli možnostem generování a věcem, se kterými můžete začít. Další podrobnosti o funkcích a nastaveních naleznete v naší dokumentaci.
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "5d0b96a6ec34a40c8aa17fd7897292d5" "create-omr-template-using-text-markup.cs" >}}
-    <p>
-     <strong>
-      Rozpoznejte listy OMR
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Hlavní funkcí Aspose.OMR pro .NET je rozpoznání. API dokáže rozpoznat fotografie a skeny v různých formátech obrázků, včetně JPEG, PNG, GIF, TIFF, BMP. K rozpoznání obrázků vyžaduje OMR engine soubor .omr, což je šablona, která popisuje polohu a obsah formuláře. Generace poskytuje šablonu s každým vytvořeným formulářem a nabízíme GUI aplikaci pro vytvoření šablony z libovolného uživatelského obrázku.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Proces rozpoznávání je rychlý a přesný a trvá jen několik sekund na snímek, v závislosti na kvalitě a velikosti snímku. To umožňuje zpracování velkého množství formulářů v krátkém čase.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Výsledky rozpoznávání lze uložit jako soubory JSON nebo CSV.
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "1e7ebb667a6dca37fc30292c0b41da72" "recognize-omr-sheets.cs" >}}
-    <p>
-     <strong>
-      Snadné použití
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR nabízí intuitivní API se zřejmými podpisy metod. Není třeba trávit hodiny čtením dokumentace nebo snahou přijít na kód. Jednoduché, ale funkční, API lze použít v různých scénářích.
-      <a href="https://github.com/aspose-omr/Aspose.OMR-for-.NET">
-       Demo materiály
-      </a>
-      které zahrnují ukázky kódu a demonstrační šablony lze spustit ihned po vybalení a předvést možnosti softwaru a pracovní postup.
-     </span>
+   <div class="col-lg-4">
+    <em class="fa fa-folder ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Rozpozná vícestránkové formuláře a všechny obrázky ve složce
     </p>
    </div>
-   <!--<div class="col-lg-12">
+   <div class="col-lg-4">
+    <em class="fa fa-file ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Podporuje všechny oblíbené velikosti papíru i nestandardní
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Zpracovává pole pro zápis a vlastní výkresy
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Vynikající přesnost rozpoznávání i v obtížných podmínkách
+    </p>
+   </div>
 
-    <h2 class="h2title">Read or Create GIS Data Files</h2>
+<div class="col-lg-12">
+<h2 class="h2title">Snadná instalace</h2>
+<p>Aspose.OMR for .NET je distribuován jako odlehčený balíček NuGet nebo jako <a href="https://releases.aspose.com/omr/net/">soubor ke stažení</a> s minimálními závislostmi. Jednoduše jej <a href="https://docs.aspose.com/omr/net/installation/">nainstalujte</a> do svého projektu a jste připraveni používat všechny možnosti OMR a ukládat výsledky rozpoznávání v jakémkoli z podporovaných formátů.</p>
+<p><a href="https://purchase.aspose.com/temporary-license">Požádejte o dočasnou licenci</a> , abyste mohli začít budovat plně funkční aplikaci OMR bez jakýchkoli omezení a omezení.</p>
+</div>
 
-    <p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Snadné použití</h2>
+<p>K vytvoření formuláře OMR, jako je průzkum spokojenosti zákazníků, a rozpoznání vyplněného formuláře vám stačí jen několik řádků kódu. Ano, opravdu je to tak jednoduché! Neberte naše slova, <a href="https://docs.aspose.com/omr/net/hello-world/">zkuste to sami</a> .</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">Neomezené možnosti</h2>
+<p>Technologie optického rozpoznávání značek (OMR) má mnoho aplikací a může výrazně zjednodušit téměř jakoukoli část vašeho života, když potřebujete sbírat a analyzovat ručně vyplněná data. Plně automatizuje proces, umožňuje rozpoznání stovek listů za minutu s téměř 100% přesností a ukládá výsledky přímo do databáze pro další agregaci a analýzu. Aplikace zahrnují, ale nejsou omezeny na:</p>
+<ul>
+	<li>Vzdělávání: odpovědní listy, testy, kvízy, formuláře SAT a mnoho dalších.</li>
+	<li>Dotazníky: průzkumy spokojenosti zákazníků, formuláře zpětné vazby, objednávky, preference jídla.</li>
+	<li>Aplikace: pojistné události, finanční žádosti, hraniční vstupní formuláře.</li>
+	<li>A mnoho dalších.</li>
+</ul>
+</div>
 
-    <h2 class="h2title">Format-Independent Object Model</h2>
+<div class="col-lg-12">
+<h2 class="h2title">Vytvářejte formuláře bez návrhových nástrojů</h2>
+<p>Naše knihovna podporuje kompletní pracovní postup OMR – od návrhu formuláře až po rozpoznání jeho vyplněných tištěných kopií. Nabízí vysoce flexibilní <a href="https://docs.aspose.com/omr/net/design-form/">značkovací jazyky</a> s <b>20</b> prvky rozvržení a obsahu, které lze vzájemně kombinovat a vytvářet formy libovolného rozvržení, které mohou být složité.</p>
+<div>
+	<a href="https://docs.aspose.com/omr/net/showcases/alumni/compact/"><img src="alumni.png" alt="Kvíz absolventů" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/satisfaction/grouped/"><img src="car-dealership.png" alt="Průzkum spokojenosti zákazníků" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/sat/color/"><img src="sat.png" alt="SAT formulář" /></a>
+</div>
+<p>Rozvržení a obsah formuláře OMR můžete také popsat přímo v kódu aplikace. Tento přístup funguje nejlépe, když potřebujete navrhnout formuláře s personalizovanými poli, jako je jméno respondenta, fotografie nebo jedinečný QR kód.</p>
+<p>Výsledky rozpoznávání jsou vráceny v nejoblíbenějších formátech pro ukládání dat, které lze importovat do jakékoli populární databáze nebo analytického systému: JSON, XML nebo CSV.</p>
+</div>
 
-    <p>Aspose.GIS for .NET lets you manage geometries and feature attributes of supported GIS file formats without worrying about the underlying format implementation. The uniform representation of feature attributes for both ESRI Shapefiles and GeoJSON frees you from writing separate code to manage both formats.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Není potřeba žádné vybavení</h2>
+<p>Již nepotřebujete specializované skenery, jedinečný transoptický papír, magnetický inkoust a další „hardwarová“ řešení. Pokročilá analýza obrazu a techniky umělé inteligence umožnily místo vyhrazených zařízení použít obyčejnou tužku a papír, běžnou kancelářskou kopírku nebo dokonce fotoaparát chytrého telefonu, aniž by to ovlivnilo přesnost rozpoznávání a důvěru ve výsledek. Naše knihovna umožňuje vytvářet čistě softwarová řešení OMR, která konkurují tradičním hardwarovým systémům za mnohem nižší náklady.</p>
+<p>OMR API automaticky opravuje otočené a zkosené obrázky, takže i fotografie nízké kvality jsou rozpoznány s vysokou mírou spolehlivosti. V těžkých případech můžete doladit zpracování formuláře a produkovat výsledky s téměř 100% přesností.</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">Učte se příkladem</h2>
+<p>Aspose.OMR for .NET přichází s řadou <a href="https://docs.aspose.com/omr/net/showcases/">příkladů</a> , které vám umožní rychle se seznámit s jeho funkcemi a možnostmi a poskytnou vám představu o vytváření řešení pro vaše obchodní potřeby.</p>
+</div>
 
-    <h2 class="h2title">Support for Spatial Reference System</h2>
-
-    <p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
-
-    </div>-->
   </div>
  </div>
 </div>
@@ -377,7 +346,7 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/omr/net/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-omr/Aspose.OMR-for-.NET" >}}
@@ -389,21 +358,21 @@ description: C# ASP.NET VB.NET OMR čtečka a analýza SDK pro provádění oper
 {{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Poznámky k vydání" href="https://docs.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.OMR pro .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč produktová řada Aspose.OCR?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR nabízí individuální rozhraní API pro zpracování OMR pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose také nabízí nativní rozhraní OMR API pro další oblíbené programovací jazyky:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/cs/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

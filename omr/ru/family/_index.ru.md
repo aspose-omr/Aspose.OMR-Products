@@ -1,28 +1,28 @@
 ---
-title: OMR API — API распознавания оптических меток для нескольких платформ 
+title: API оптического распознавания меток для приложений .NET и Java
 weight: 10
 url: /ru/family
-description: OMR .NET SDK для распознавания оптических меток на оцифрованных изображениях листов. Разрабатывайте приложения для Интернета, ПК и мобильных устройств, чтобы сканировать тесты, экзамены, анкеты, опросы.
+description: Создавайте и автоматически распознавайте готовые к OMR формы — от экзаменационных работ до опросов удовлетворенности клиентов и избирательных бюллетеней.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API-интерфейсы OMR для платформ .NET и Java" h2="Собственные API-интерфейсы для распознавания отсканированных документов и фотографий в различных форматах изображений, включая BMP, JPG, TIF, TIFF и GIF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
+{{< blocks/products/pf/upper-banner h1="API-интерфейсы OMR для платформ .NET и Java" h2="Создайте программное обеспечение для оптического распознавания меток (OMR) любого масштаба и сложности, написав всего несколько строк кода. Используйте существующий офисный копировальный аппарат или даже камеру смартфона вместо дорогого сканера OMR." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR High Code API включает" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/ru/net/" >}}
-Ориентируйтесь на Windows Forms, ASP.NET, WPF, WCF или приложения любого типа на основе .NET Framework 4.0 или более поздней версии.
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/net/" >}}
+Пакет NuGet или отдельная библиотека для разработки считывателей оптических меток .NET для настольных компьютеров, Интернета и облака.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/ru/java/" >}}
-Собственные API-интерфейсы Java для настольных компьютеров, Интернета или любых приложений на основе Java SE или EE.
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/java/" >}}
+Собственный API для настольных и веб-приложений OMR, которые могут работать на любой платформе, поддерживающей Java SE или EE.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/omr/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-omr" >}}
@@ -36,13 +36,13 @@ description: OMR .NET SDK для распознавания оптических
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/omr/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему семейство продуктов Aspose.OMR?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему семейство продуктов Aspose.OCR?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr" pricingInformationLink="https://purchase.aspose.com/pricing/omr" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr" pricingInformationLink="https://purchase.aspose.com/pricing/omr" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

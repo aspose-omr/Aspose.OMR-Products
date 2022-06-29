@@ -1,79 +1,67 @@
 ---
-title: C# .NET Optical Marks Erkennung OMR-API - Aspose 
+title: Optische Markierungserkennungs-API für .NET
 weight: 20
 url: /de/net/ 
-description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von OMR-Operationen an Bildern und Fotos, die aus Tests, Prüfungen, Fragebögen, Umfragen und mehr stammen
+description: NuGet-Paket oder eigenständige .NET-Bibliothek zum Entwickeln von Desktopanwendungen und Webdiensten, die OMR-Formulare generieren und optische Markierungen lesen können.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET OMR Reader & Parser-APIs" h2="Führen Sie OMR-Vorgänge durch, um Daten aus Fotos und Scans in häufig verwendeten Bildformaten zu erkennen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Optische Markierungserkennungs-API für .NET" h2="Lesen Sie optische Markierungen aus gescannten Bildern und Fotos und generieren Sie OMR-fähige Antwortbögen, Umfragen und Fragebögen in Ihren .NET-Anwendungen und Webdiensten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>
- <span style="font-weight: 400;">
-  Aspose.OMR für .NET ist eine einfache und praktische OMR-Software zum Erstellen und Erkennen von Antwortbögen, Tests, MCQ-Papieren, Quizfragen, Feedback-Formularen, Umfragen, Stimmzetteln - alle Arten von Formularen. Unsere optische Markierungserkennungs-API ist supereinfach und ermöglicht es Ihnen, vollständig anpassbare Formulare mit verschiedenen Fragetypen, Symbolen, Barcodes und anderen Elementen zu entwerfen, zu erstellen und zu erkennen.
- </span>
-</p>
-
-<p>
- <span style="font-weight: 400;">
-  Keine Notwendigkeit für spezielle Scanner, Papiere oder andere Geräte - Aspose OMR verwendet fortschrittliche Bildverarbeitungsalgorithmen, um Fotos und Scans mit hoher Genauigkeit zu verarbeiten. Wir bieten das einzigartige GUI-Tool zum Erstellen von Markups für Ihre vorhandenen Formulare, damit sie mit der Aspose.OMR-Software erkannt werden können.
- </span>
-</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OMR für .NET ist eine zuverlässige und vielseitige Programmier-API zum <b>Entwerfen</b> und <b>automatischen Erkennen</b> von handgefüllten Antwortbögen, Umfragen, Tests, Stimmzetteln, SAT-Prüfungsformularen, Versicherungsansprüchen und ähnlichen Dokumenten, in denen die Befragten eine Frage beantworten, indem sie eine zufällige ziehen Kreis oder Quadrat markieren. Der lange und fehleranfällige Prozess des manuellen Lesens und Aggregierens von Ergebnissen aus Hunderten und Tausenden von Formularen reduziert sich auf <b>10 Codezeilen</b> in C#, F# oder Visual Basic, die selbst unerfahrene Entwickler leicht verstehen und unterstützen können.</p>
+<p>Unsere OMR-Bibliothek bietet eine hochflexible Auszeichnungssprache, mit der Sie OMR-fähige Formulare mit beliebigem Layout und beliebiger Komplexität ohne Design-Tools erstellen können. Sie können eine Vielzahl von Elementen kombinieren, die am besten zu Ihrem Zweck und Ihrer Zielgruppe passen, und Ihre OMR-Formulare weiter personalisieren und brandmarken, indem Sie Logos, Barcodes, QR-Codes oder Bilder hinzufügen.</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über Aspose.OMR für die .NET-API." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Aspose.OMR für .NET unterstützt den kompletten OMR-Workflow – von der Gestaltung eines Formulars bis zur Erkennung seiner ausgefüllten Ausdrucke." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    Merkmale
+    Erstellen Sie OMR-Formulare
    </header>
    <ul>
-    <li>Erstellen und erkennen Sie benutzerdefinierte OMR-Formulare</li>
-    <li>Vorhandene Formulare verarbeiten</li>
-    <li>Hohe Genauigkeitsrate</li>
-    <li>Ergebnisse im CSV- und JSON-Format</li>
-    <li>GUI zum Bearbeiten komplexer Fälle</li>
+    <li>Flexible Auszeichnungssprachen</li>
+    <li>Programmatische Erstellung von Formularen</li>
+    <li>QR-Codes und Barcodes</li>
+    <li>Fügen Sie Bilder und Branding hinzu</li>
+    <li>Mehrseitige Formulare</li>
+    <li>Alle gängigen Papierformate</li>
+    <li>Keine grafischen Editoren erforderlich</li>
    </ul>
-    <header><i class="fa fa-user-edit">&nbsp;</i>Generation</header>
-    <ul>
-        <li>Erstellen Sie benutzerdefinierte OMR-Formulare mit Textmarkup</li>
-        <li>Erstellen Sie ganz einfach Antwortbögen, Tests, Quizfragen, Umfragen und Stimmzettel</li>
-        <li>Unterstützt mehrere Fragen, Elemente, Farben, Schriftarten und Papierformate</li>
-        <li>Generieren Sie druckfertige OMR-Formulare im PDF- oder PNG-Format</li>
-    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-eye">
     </i>
-    Erkennung
+    OMR-Formulare erkennen
    </header>
    <ul>
-    <li>Gescannte Bilder</li>
-    <li>Fotos</li>
-    <li>Gedrehte Bilder verarbeiten</li>
-    <li>Von der Seite betrachtete Bilder verarbeiten</li>
-    <li>Daten aus verschiedenen Quellen</li>
+    <li>Lesen Sie gescannte Bilder und Fotos</li>
+    <li>Hervorragende Erkennungsgenauigkeit</li>
+    <li>Keine Ausrüstung erforderlich</li>
+    <li>Passen Sie gedrehte und schiefe Bilder an</li>
+    <li>Erkennen Sie alle Arten von Markierungen</li>
+    <li>Echtzeit-Genauigkeits-Tuning</li>
+    <li>Decodieren Sie QR-Codes und Barcodes</li>
+    <li>Einschreibfelder bearbeiten</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR-API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="OMR-API für .NET" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -91,27 +79,52 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.OMR für .NET unterstützt .NET Framework 4.0 und höher" >}}
+{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.OMR für .NET unterstützt vollständig .NET Framework 4.0 und spätere Editionen." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET-Implementierungen
+   </header>
+   <ul>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core 2.0 oder höher
+    </li>
+    <li>
+     .NET Framework 4.0 oder höher
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-cubes">
+    <i class="fa fa-laptop">
     </i>
-    .NET Framework
+    Anwendungen
    </header>
    <ul>
     <li>
-     ASP.NET-Anwendung
+     Desktop-Anwendungen
     </li>
     <li>
-     Windows-Anwendung
+     Windows-Dienste
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      Internetdienste
+    </li>
+    <li>
+     Cloud-Services
     </li>
    </ul>
   </div>
@@ -119,7 +132,7 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="OMR-C#-API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="Optische Markenerkennung in C#, F# und VB" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -137,18 +150,33 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.OMR für .NET unterstützt beliebte [Dateiformate](https://docs.aspose.com/omr/net/supported-file-formats/)  nachfolgend aufgeführten." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Erstellen Sie OMR-fähige Formulare als Bilder oder PDFs und erhalten Sie Erkennungsergebnisse in den gängigsten Datenspeicherformaten." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Nur Eingabe
+    Druckbare Formulare
    </header>
    <ul>
     <li>
-     JPEG, PNG, GIF, TIFF, BMP
+     PDF
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     BMP
     </li>
    </ul>
   </div>
@@ -157,28 +185,19 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Nur Ausgang
+    Erkennungsergebnisse
    </header>
    <ul>
-    <li>
-     CSV
-    </li>
-    <li>
-     JSON
-    </li>
-    <li>
-     PDF
-    </li>
-    <li>
-     PNG
-    </li>
+    <li>CSV</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR-API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="Optische Markenerkennung für .NET" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -196,7 +215,7 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -206,169 +225,119 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced .NET OMR-API Merkmale
+    Merkmale und Fähigkeiten von Aspose.OMR für .NET
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Scans und Fotos erkennen
+     Unterstützt alle Bildformate, die Sie von einem Scanner oder einer Kamera erhalten können
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-mobile ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Verarbeiten Sie gedrehte und schiefe Bilder
+     Verwenden Sie Ihre Smartphone-Kamera anstelle eines Scanners
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Erstellen und erkennen Sie Antwortbögen, Tests, Prüfungen, Stimmzettel, Fragebögen, Umfragen
-    </p>
-   </div>
-    <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     Unterstützt mehrere Schriftarten, Farben und OMR-Elemente
-    </p>
-   </div>
-    <div class="col-lg-4">
-        <em class="fa fa-file-pdf ico-blue fa-2x col-lg-2">&nbsp;</em>
-        <p class="col-lg-10">Generieren Sie OMR-Formulare in PDF oder PNG</p>
-    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-check ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     Hohe Genauigkeitsrate
+     Liest alle Arten von Markierungen, die mit einem Kugelschreiber, Bleistift oder Marker gezeichnet wurden
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     GUI zur Korrektur komplexer Fälle
+     Personalisieren Sie Formulare mit Barcodes, QR-Codes, Branding und Bildern
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Ergebnisse im CSV- oder JSON-Format speichern
+     Echtzeit-Genauigkeits-Tuning durch eine visuelle UI-Steuerung
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Funktionsweise der OMR-API
-    </h2>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR für .NET wurde unter Berücksichtigung der Benutzeranforderungen entwickelt und ist eine großartige OMR-Software zur Lösung täglicher Aufgaben. Es erfordert minimalen Aufwand, die Lösung einzurichten und die Ergebnisse zu erhalten, unabhängig vom Anwendungsbereich. Die hochgradig anpassbare Vorlagengenerierung ermöglicht die Erstellung benutzerdefinierter OMR-Blätter für jeden Geschäftsfall.
-     </span>
-    </p>
-    <p>
-     <strong>
-      Ausbildung
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Einfache Blätter für Tests, Prüfungen oder Beurteilungen oder komplexere Arbeiten mit IDs, Textfragen und Multiple-Choice-Fragen, Aspose.OMR für .NET kann alles bewältigen. Es ist die perfekte Omr-Software für Lehrer, da minimale Programmierkenntnisse erforderlich sind, um Omr-Formulare zu erstellen und zu erkennen.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Beispiel für einen Antwortbogen" height="702" src="AnswerSheet.png" width="497"/>
-      <img alt="Beispiel für ein Aspose-Testformular" height="702" src="OmrTest.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      Surveys
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Führen Sie Umfragen jeglicher Art mit Aspose.OMR durch: Kundenzufriedenheitsumfragen, Bewertungsumfragen, öffentliche Meinungen usw.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Beispiel für ein Aspose-Umfrageformular" height="702" src="OmrSurvey.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      Erstellen Sie Ihre eigene Vorlage
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR for .NET API bietet Methoden zum Generieren von OMR-Vorlagen aus Textbeschreibungen. Mit dieser Funktion können Entwickler hochgradig anpassbare, gut aussehende Omr-Blätter erstellen, die druckfertig sind. Die API unterstützt mehrere Arten von Elementen, einschließlich Text, Auswahlfeld (Frage), Antwortblatt (mehrere Spalten mit Fragen), Raster (komplexe Werte, die aus ähnlichen Abschnitten bestehen). Generierte Bilder können als druckfertige PDF-Dateien oder PNG-Bilder gespeichert werden.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Sie müssen nicht mit einer leeren Liste beginnen! Werfen Sie einen Blick auf Demonstrations-Markups und generierte Bilder, um ein gutes Verständnis der Generierungsfunktionen und Dinge zu erhalten, mit denen Sie beginnen können. Weitere Einzelheiten zu Funktionen und Einstellungen finden Sie in unserer Dokumentation.
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "5d0b96a6ec34a40c8aa17fd7897292d5" "create-omr-template-using-text-markup.cs" >}}
-    <p>
-     <strong>
-      OMR-Blätter erkennen
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Das Hauptmerkmal von Aspose.OMR für .NET ist eine Erkennung. Die API kann Fotos und Scans in mehreren Bildformaten erkennen, darunter JPEG, PNG, GIF, TIFF, BMP. Um Bilder zu erkennen, benötigt die OMR-Engine eine .omr-Datei, bei der es sich um eine Vorlage handelt, die Position und Inhalt des Formulars beschreibt. Generation stellt mit jedem erstellten Formular eine Vorlage bereit, und wir bieten eine GUI-Anwendung zum Erstellen einer Vorlage aus einem beliebigen Benutzerbild an.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Der Erkennungsprozess ist schnell und genau und dauert je nach Bildqualität und -größe nur wenige Sekunden pro Bild. Dadurch können große Mengen an Formularen in kurzer Zeit verarbeitet werden.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Die Erkennungsergebnisse können als JSON- oder CSV-Dateien gespeichert werden.
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "1e7ebb667a6dca37fc30292c0b41da72" "recognize-omr-sheets.cs" >}}
-    <p>
-     <strong>
-      Einfach zu verwenden
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Aspose.OMR bietet eine intuitive API mit offensichtlichen Methodensignaturen. Es besteht keine Notwendigkeit, Stunden damit zu verbringen, die Dokumentation zu lesen oder zu versuchen, den Code herauszufinden. Die einfache, aber funktionale API kann in verschiedenen Szenarien verwendet werden.
-      <a href="https://github.com/aspose-omr/Aspose.OMR-for-.NET">
-       Demo-Materialien
-      </a>
-      die Codebeispiele und Demonstrationsvorlagen enthalten, können sofort gestartet werden, um die Softwarefunktionen und den Arbeitsablauf zu demonstrieren.
-     </span>
+   <div class="col-lg-4">
+    <em class="fa fa-folder ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Erkennt mehrseitige Formulare und alle Bilder in einem Ordner
     </p>
    </div>
-   <!--<div class="col-lg-12">
+   <div class="col-lg-4">
+    <em class="fa fa-file ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Unterstützt alle gängigen Papierformate sowie nicht standardmäßige
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Verarbeitet Eingabefelder und benutzerdefinierte Zeichnungen
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Hervorragende Erkennungsgenauigkeit auch unter schwierigen Bedingungen
+    </p>
+   </div>
 
-    <h2 class="h2title">Read or Create GIS Data Files</h2>
+<div class="col-lg-12">
+<h2 class="h2title">Einfach zu installieren</h2>
+<p>Aspose.OMR für .NET wird als leichtes NuGet-Paket oder als <a href="https://releases.aspose.com/omr/net/">herunterladbare Datei</a> mit minimalen Abhängigkeiten vertrieben. <a href="https://docs.aspose.com/omr/net/installation/">Installieren</a> Sie es einfach in Ihrem Projekt und Sie können alle OMR-Funktionen nutzen und Erkennungsergebnisse in einem der unterstützten Formate speichern.</p>
+<p><a href="https://purchase.aspose.com/temporary-license">Fordern Sie eine temporäre Lizenz</a> an, um mit dem Erstellen einer voll funktionsfähigen OMR-Anwendung ohne Einschränkungen zu beginnen.</p>
+</div>
 
-    <p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Einfach zu verwenden</h2>
+<p>Sie benötigen nur wenige Codezeilen, um ein OMR-Formular wie eine Kundenzufriedenheitsumfrage zu erstellen und das ausgefüllte Formular zu erkennen. Ja, es ist wirklich so einfach! Nehmen Sie nicht unsere Worte, <a href="https://docs.aspose.com/omr/net/hello-world/">probieren Sie es selbst aus</a> .</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">Unbegrenzte Möglichkeiten</h2>
+<p>Die Optical Mark Recognition (OMR)-Technologie hat viele Anwendungen und kann fast jeden Teil Ihres Lebens erheblich vereinfachen, wenn Sie manuell ausgefüllte Daten sammeln und analysieren müssen. Es automatisiert den Prozess vollständig, sodass Hunderte von Blättern pro Minute mit nahezu 100-prozentiger Genauigkeit erkannt werden können, und speichert die Ergebnisse direkt in einer Datenbank zur weiteren Aggregation und Analyse. Zu den Anwendungen gehören unter anderem:</p>
+<ul>
+	<li>Bildung: Antwortbögen, Tests, Quiz, SAT-Formulare und vieles mehr.</li>
+	<li>Fragebögen: Umfragen zur Kundenzufriedenheit, Feedback-Formulare, Bestellungen, Essenspräferenzen.</li>
+	<li>Anträge: Versicherungsansprüche, Finanzanträge, Grenzeinreiseformulare.</li>
+	<li>Und viele mehr.</li>
+</ul>
+</div>
 
-    <h2 class="h2title">Format-Independent Object Model</h2>
+<div class="col-lg-12">
+<h2 class="h2title">Erstellen Sie Formulare ohne Designtools</h2>
+<p>Unsere Bibliothek unterstützt den kompletten OMR-Workflow – vom Entwerfen eines Formulars bis zum Erkennen seiner ausgefüllten Ausdrucke. Es bietet hochflexible <a href="https://docs.aspose.com/omr/net/design-form/">Auszeichnungssprachen</a> mit <b>20</b> Layout- und Inhaltselementen, die miteinander kombiniert werden können, um Formulare beliebiger Layout-Komplexität zu erstellen.</p>
+<div>
+	<a href="https://docs.aspose.com/omr/net/showcases/alumni/compact/"><img src="alumni.png" alt="Alumni-Quiz" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/satisfaction/grouped/"><img src="car-dealership.png" alt="Kundenzufriedenheitsumfrage" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/sat/color/"><img src="sat.png" alt="SAT-Formular" /></a>
+</div>
+<p>Sie können das Layout und den Inhalt eines OMR-Formulars auch direkt im Anwendungscode beschreiben. Dieser Ansatz funktioniert am besten, wenn Sie Formulare mit personalisierten Feldern wie dem Namen eines Befragten, einem Foto oder einem eindeutigen QR-Code entwerfen müssen.</p>
+<p>Erkennungsergebnisse werden in den gängigsten Datenspeicherformaten zurückgegeben, die in jedes gängige Datenbank- oder Analysesystem importiert werden können: JSON, XML oder CSV.</p>
+</div>
 
-    <p>Aspose.GIS for .NET lets you manage geometries and feature attributes of supported GIS file formats without worrying about the underlying format implementation. The uniform representation of feature attributes for both ESRI Shapefiles and GeoJSON frees you from writing separate code to manage both formats.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Keine Ausrüstung erforderlich</h2>
+<p>Sie benötigen keine spezialisierten Scanner, einzigartiges transoptisches Papier, magnetische Tinte und andere „Hardware“-Lösungen mehr. Erweiterte Bildanalyse und Techniken der künstlichen Intelligenz machten es möglich, einen normalen Stift und Papier, einen gewöhnlichen Bürokopierer oder sogar eine Smartphone-Kamera anstelle von dedizierten Geräten zu verwenden, ohne die Erkennungsgenauigkeit und das Vertrauen in das Ergebnis zu beeinträchtigen. Unsere Bibliothek ermöglicht den Aufbau reiner Software-OMR-Lösungen, die mit herkömmlichen hardwarebasierten Systemen zu wesentlich geringeren Kosten konkurrieren können.</p>
+<p>Die OMR-API korrigiert automatisch gedrehte und schiefe Bilder, sodass auch Fotos mit geringer Qualität mit hoher Sicherheit erkannt werden. In schwierigen Fällen können Sie die Formularverarbeitung optimieren und Ergebnisse mit nahezu 100-prozentiger Genauigkeit erzielen.</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">Lernen Sie am Beispiel</h2>
+<p>Aspose.OMR für .NET wird mit einer Reihe von <a href="https://docs.aspose.com/omr/net/showcases/">Beispielen</a> geliefert, die es Ihnen ermöglichen, sich schnell mit seinen Funktionen und Fähigkeiten vertraut zu machen, und Ihnen eine Vorstellung davon vermitteln, wie Sie Lösungen für Ihre Geschäftsanforderungen erstellen können.</p>
+</div>
 
-    <h2 class="h2title">Support for Spatial Reference System</h2>
-
-    <p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
-
-    </div>-->
   </div>
  </div>
 </div>
@@ -377,7 +346,7 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/omr/net/" >}}
 {{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-omr/Aspose.OMR-for-.NET" >}}
@@ -389,21 +358,21 @@ description: C# ASP.NET VB.NET OMR-Reader und -Parsing-SDK zur Durchführung von
 {{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Versionshinweise" href="https://docs.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.OMR für .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Warum die Produktfamilie Aspose.OCR?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR bietet individuelle OMR-Verarbeitungs-APIs für andere gängige Entwicklungsumgebungen, wie unten aufgeführt:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose bietet auch native OMR-APIs für andere gängige Programmiersprachen:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/de/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -1,24 +1,24 @@
 ---
-title: Optical mark recognition on scanned images | photos. Output in CSV 
+title: On premise, cloud and web-based solutions for optical mark recognition (OMR)
 weight: 30
 url: /
-description: On Premise and Cloud APIs for OMR operations on rotated, side viewed, scanned images. Process questionnaires, surveys, MCQs with high accuracy and get result in CSV format.
+description: Create and recognize hand-filled answer sheets, questionnaires, surveys, and similar forms. Build OMR software that compete on par with hardware systems.
 aliases:
     - /page/omr/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition Solution" h2="On Premise & Cloud APIs to perform OMR for capturing human-marked data from document scans or photo." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-brand.svg" imageAlt="Aspose.OMR Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition Solution" h2="Design, generate, and recognize OMR-ready forms. Write your own optical mark reader software with just a few lines of code, or use our free online tools." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-brand.svg" imageAlt="Software OMR that works with scans and photos" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="https://products.aspose.com/omr/net" >}}
-High Code APIs for Optical Mark Recognition features in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 4.0 or later.
+Develop .NET desktop applications and web services for optical mark recognition that work equally well with scanned images and photos and can read any type of marks.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="https://products.aspose.com/omr/java" >}}
-Premise APIs to add Optical Mark Recognition functionality within applications as well as recognize data from photos and scans in most commonly used image formats.
+Create OMR forms and automatically read scanned or photographed surveys on any platform that supports Java. Read optical marks without specialized scanners and accessories.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/omr/family/" innerText="View All High Code APIs" >}}
@@ -28,15 +28,15 @@ Premise APIs to add Optical Mark Recognition functionality within applications a
 {{< blocks/products/pf/product-card-row title="Aspose.OMR Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-curl.png" productLink="https://products.aspose.cloud/omr/curl" >}}
-Optical Mark Recognition on any platform. Just send cURL commands to capture human-marked data from images with high accuracy.
+Use cURL commands and scripts to perform optical mark recognition and generate OMR-ready forms without downloading and installing any software.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-net.png" productLink="https://products.aspose.cloud/omr/net" >}}
-Quickly get started with OMR implementation using our .NET SDK for Aspose.OMR Cloud.
+Interact with cloud-based OMR API from your .NET applications, focusing on business logic rather than technical details.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.OMR" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_omr-for-java.png" productLink="https://products.aspose.cloud/omr/java" >}}
-Use Java language to perform OMR on documents such as surveys and tests in the Cloud using Aspose.OMR RESTFul APIs.
+Simplify API calls to Aspose.OMR Cloud from Java. Perform all API request routines with a few simple and easy to read commands.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/omr/family" innerText="View All Low Code APIs" >}}

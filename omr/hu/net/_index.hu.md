@@ -1,79 +1,67 @@
 ---
-title: C# .NET Optical Marks Elismerés OMR API – Aspose 
+title: Optical Mark Recognition API for .NET
 weight: 20
 url: /hu/net/ 
-description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteket hajtson végre a tesztek vizsgáiból, kérdőíves felmérésekből és egyebekből származó képeken és fényképeken
+description: NuGet-csomag vagy önálló .NET-könyvtár olyan asztali alkalmazások és webszolgáltatások fejlesztésére, amelyek OMR-űrlapokat generálnak és optikai jeleket olvasnak.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET OMR Reader és Parser API-k" h2="Végezzen OMR-műveleteket, hogy felismerje a fényképekből és a gyakran használt képformátumú beolvasásokból származó adatokat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition API for .NET" h2="Olvasson optikai jeleket a beolvasott képekről és fényképekről, és állítson elő OMR-kompatibilis válaszlapokat, felméréseket és kérdőíveket .NET-alkalmazásaiban és webszolgáltatásaiban." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-net.svg" pfName="Aspose.OMR" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/omr/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.OMR/" nugetPackageName="Aspose.OMR" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/omr/net" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>
- <span style="font-weight: 400;">
-  Az Aspose.OMR for .NET egy egyszerű és praktikus OMR-szoftver válaszlapok, tesztek, MCQ-papírok, vetélkedők, visszajelzési űrlapok, felmérések, szavazólapok - minden típusú űrlap létrehozására és felismerésére. Optikai jelfelismerő API-nk rendkívül egyszerű, és lehetővé teszi a teljesen testreszabható űrlapok tervezését, létrehozását és felismerését különféle kérdéstípusokkal, ikonokkal, vonalkódokkal és egyéb elemekkel.
- </span>
-</p>
-
-<p>
- <span style="font-weight: 400;">
-  Nincs szükség speciális szkennerekre, papírokra vagy egyéb berendezésekre – Az Aspose OMR fejlett képfeldolgozó algoritmusokat használ a fényképek és beolvasások nagy pontosságú kezelésére. Egyedülálló grafikus felhasználói felületet biztosítunk a meglévő űrlapok jelöléseinek létrehozásához, hogy azok felismerhetők legyenek az Aspose.OMR szoftverrel.
- </span>
-</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Az Aspose.OMR for .NET egy megbízható és sokoldalú programozási API kézzel kitöltött válaszlapok, felmérések, tesztek, szavazólapok, SAT vizsgaűrlapok, biztosítási igények és hasonló dokumentumok <b>tervezésére</b> és <b>automatikus felismerésére</b> , amelyekben a válaszadók véletlenszerű rajzolással válaszolnak egy kérdésre. jelölje meg egy körben vagy négyzetben. A több száz és több ezer űrlap eredményeinek manuális olvasásának és összesítésének hosszú és hibákra hajlamos folyamata <b>10 sornyi kódot</b> jelent C#, F# vagy Visual Basic nyelven, amit még a tapasztalatlan fejlesztők is könnyen megérthetnek és támogathatnak.</p>
+<p>OMR-könyvtárunk rendkívül rugalmas jelölőnyelvet kínál, amely lehetővé teszi bármilyen elrendezésű és bonyolultságú OMR-kompatibilis formák létrehozását tervezőeszközök nélkül. Különféle elemeket kombinálhat, amelyek a legjobban megfelelnek a célnak és a célközönségnek, és tovább személyre szabhatja és márkajelzéssel látja el OMR-űrlapjait logók, vonalkódok, QR-kódok vagy képek hozzáadásával.</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="Az Aspose.OMR áttekintése .NET API-hoz." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="Az Aspose.OMR for .NET támogatja a teljes OMR-munkafolyamatot – az űrlap tervezésétől a kitöltött nyomtatott példányok felismeréséig." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    Jellemzők
+    Hozzon létre OMR-űrlapokat
    </header>
    <ul>
-    <li>Egyéni OMR-űrlapok létrehozása és felismerése</li>
-    <li>A meglévő űrlapok feldolgozása</li>
-    <li>Nagy pontossági arány</li>
-    <li>Az eredmények CSV és JSON formátumban</li>
-    <li>GUI összetett esetek szerkesztéséhez</li>
+    <li>Rugalmas jelölőnyelvek</li>
+    <li>Űrlapok programozott létrehozása</li>
+    <li>QR kódok és vonalkódok</li>
+    <li>Adjon hozzá képeket és márkajelzést</li>
+    <li>Többoldalas űrlapok</li>
+    <li>Minden népszerű papírméret</li>
+    <li>Nincs szükség grafikus szerkesztőkre</li>
    </ul>
-    <header><i class="fa fa-user-edit">&nbsp;</i>Generáció</header>
-    <ul>
-        <li>Hozzon létre egyéni OMR-űrlapokat szöveges jelöléssel</li>
-        <li>Könnyen generálhat válaszlapot, teszteket, kvízeket, felméréseket, szavazólapokat</li>
-        <li>Több kérdést, elemet, színt, betűtípust, papírméretet támogat</li>
-        <li>Nyomtatásra kész OMR-űrlapok létrehozása PDF vagy PNG formátumban</li>
-    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-eye">
     </i>
-    Elismerés
+    Az OMR formák felismerése
    </header>
    <ul>
-    <li>Szkennelt képek</li>
-    <li>Fényképek</li>
-    <li>Elforgatott képek feldolgozása</li>
-    <li>Oldalnézeti képek feldolgozása</li>
-    <li>Különféle forrásokból származó adatok</li>
+    <li>Olvassa el a beolvasott képeket és fényképeket</li>
+    <li>Kiváló felismerési pontosság</li>
+    <li>Nincs szükség felszerelésre</li>
+    <li>Az elforgatott és ferde képek beállítása</li>
+    <li>Mindenféle jel felismerése</li>
+    <li>Valós idejű pontos hangolás</li>
+    <li>QR-kódok és vonalkódok dekódolása</li>
+    <li>Az írási mezők feldolgozása</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="OMR API .NET-hez" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -91,27 +79,52 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="Az Aspose.OMR for .NET támogatja a .NET Framework 4.0-s és újabb verzióit" >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="Az Aspose.OMR for .NET teljes mértékben támogatja a .NET Framework 4.0-s és újabb kiadásait." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET megvalósítások
+   </header>
+   <ul>
+    <li>
+     .NET 5.0
+    </li>
+    <li>
+     .NET Core 2.0 vagy újabb
+    </li>
+    <li>
+     .NET Framework 4.0 vagy újabb
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-cubes">
+    <i class="fa fa-laptop">
     </i>
-    .NET Framework
+    Alkalmazások
    </header>
    <ul>
     <li>
-     ASP.NET alkalmazás
+     Asztali alkalmazások
     </li>
     <li>
-     Windows alkalmazás
+     Windows szolgáltatások
+    </li>
+    <li>
+     ASP.NET MVC
+    </li>
+    <li>
+     ASP.NET Web API
     </li>
     <li>
      Webszolgáltatások
+    </li>
+    <li>
+     Felhőszolgáltatások
     </li>
    </ul>
   </div>
@@ -119,7 +132,7 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="OMR C# API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="Optikai jelfelismerés C#, F# és VB nyelven" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -137,18 +150,33 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Az Aspose.OMR for .NET támogatja a népszerű [fájlformátumok](https://docs.aspose.com/omr/net/supported-file-formats/)  alább listázva." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Hozzon létre OMR-kompatibilis űrlapokat képként vagy PDF-ként, és kapjon felismerési eredményeket a legnépszerűbb adattárolási formátumokban." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Csak bevitel
+    Nyomtatható űrlapok
    </header>
    <ul>
     <li>
-     JPEG, PNG, GIF, TIFF, BMP
+     PDF
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     BMP
     </li>
    </ul>
   </div>
@@ -157,28 +185,19 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Csak kimenet
+    Az elismerés eredményei
    </header>
    <ul>
-    <li>
-     CSV
-    </li>
-    <li>
-     JSON
-    </li>
-    <li>
-     PDF
-    </li>
-    <li>
-     PNG
-    </li>
+    <li>CSV</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET OMR API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
+  <img width="70" height="75" alt="Optikai jelfelismerés .NET-hez" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -196,7 +215,7 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -206,169 +225,119 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Speciális .NET OMR API-szolgáltatások
+    Az Aspose.OMR .NET-hez szolgáltatásai és képességei
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     A beolvasott anyagok és fényképek felismerése
+     Támogatja az összes képformátumot, amelyet szkennerből vagy fényképezőgépből szerezhet be
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-mobile ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Az elforgatott és ferde képek feldolgozása
+     Használja okostelefonjának kameráját szkenner helyett
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Válaszlapok, tesztek, vizsgák, szavazólapok, kérdőívek, felmérések készítése és felismerése
-    </p>
-   </div>
-    <div class="col-lg-4">
-    <em class="fa fa-font ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     Több betűtípust, színt, OMR-elemet támogat
-    </p>
-   </div>
-    <div class="col-lg-4">
-        <em class="fa fa-file-pdf ico-blue fa-2x col-lg-2">&nbsp;</em>
-        <p class="col-lg-10">OMR-űrlapok létrehozása PDF vagy PNG formátumban</p>
-    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-check ico-blue fa-2x col-lg-2">&nbsp;</em>
-    <p class="col-lg-10">
-     Nagy pontossági arány
+     Mindenféle tollal, ceruzával vagy markerrel rajzolt jelet elolvas
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     GUI az összetett esetek javításához
+     Személyre szabhatja az űrlapokat vonalkódokkal, QR-kódokkal, márkajelzésekkel és képekkel
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file-csv ico-blue fa-2x col-lg-2">&nbsp;</em>
+    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
+    </em>
     <p class="col-lg-10">
-     Az eredmények mentése CSV vagy JSON formátumba
+     Valós idejű pontosság hangolás a vizuális UI vezérlésen keresztül
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Hogyan működik az OMR API
-    </h2>
-    <p>
-     <span style="font-weight: 400;">
-      A felhasználói igényeket szem előtt tartva tervezett Aspose.OMR for .NET nagyszerű omr szoftver a napi feladatok megoldására. A megoldás beállítása és az eredmények elérése minimális erőfeszítést igényel, az alkalmazási területtől függetlenül. A nagymértékben testreszabható sablongenerálás lehetővé teszi egyedi OMR-lap létrehozását bármely üzleti esethez.
-     </span>
-    </p>
-    <p>
-     <strong>
-      Oktatás
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Egyszerű tesztlapok, vizsgák vagy felmérések, vagy összetettebb dolgozatok azonosítókkal, szöveges kérdésekkel és feleletválasztós kérdésekkel, az Aspose.OMR for .NET mindezt képes kezelni. Tökéletes omr szoftver tanárok számára, mivel minimális programozási készség szükséges az omr űrlapok létrehozásához és felismeréséhez.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Aspose válaszlap példa" height="702" src="AnswerSheet.png" width="497"/>
-      <img alt="Aspose Teszt űrlap példa" height="702" src="OmrTest.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      Surveys
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Bármilyen felmérést végezhet az Aspose.OMR segítségével: ügyfél-elégedettségi felmérések, értékelő felmérések, közvélemény stb.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      <img alt="Aspose Survey űrlappélda" height="702" src="OmrSurvey.png" width="497"/>
-     </span>
-    </p>
-    <p>
-     <strong>
-      Hozzon létre saját sablont
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Az Aspose.OMR for .NET API módszereket biztosít az OMR-sablonok szöveges leírásból történő előállításához. Ezzel a funkcióval a fejlesztők nagymértékben testreszabható, szép megjelenésű, nyomtatásra kész OMR lapokat hozhatnak létre. Az API többféle elemet támogat, beleértve a szöveget, a választási mezőt (kérdést), a válaszlapot (több kérdésoszlop), a rácsot (hasonló szakaszokból álló összetett értékeket). A generált képek nyomtatásra kész PDF- vagy PNG-képként menthetők.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Nem kell üres listáról kezdeni! Vessen egy pillantást a bemutató jelölésekre és a generált képekre, hogy jobban megértse a generálási lehetőségeket és a kezdéshez szükséges dolgokat. A funkciókkal és beállításokkal kapcsolatos további részletekért tekintse meg dokumentációnkat.
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "5d0b96a6ec34a40c8aa17fd7897292d5" "create-omr-template-using-text-markup.cs" >}}
-    <p>
-     <strong>
-      Az OMR lapok felismerése
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Az Aspose.OMR for .NET fő jellemzője egy felismerés. Az API többféle képformátumban képes felismerni a fényképeket és beolvasott képeket, beleértve a JPEG, PNG, GIF, TIFF, BMP formátumokat. A képek felismeréséhez az OMR-motorhoz .omr fájlra van szükség, amely egy sablon, amely leírja az űrlap helyzetét és tartalmát. A Generáció minden létrehozott űrlaphoz sablont biztosít, és GUI alkalmazást kínálunk bármilyen felhasználói képből sablon létrehozásához.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      A felismerési folyamat gyors és pontos, és képenként mindössze néhány másodpercet vesz igénybe, a kép minőségétől és méretétől függően. Ez lehetővé teszi nagyszámú űrlap feldolgozását rövid időn belül.
-     </span>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      A felismerési eredmények JSON- vagy CSV-fájlként menthetők.
-     </span>
-    </p>
-    {{< gist "aspose-com-gists" "1e7ebb667a6dca37fc30292c0b41da72" "recognize-omr-sheets.cs" >}}
-    <p>
-     <strong>
-      Könnyen kezelhető
-     </strong>
-    </p>
-    <p>
-     <span style="font-weight: 400;">
-      Az Aspose.OMR egy intuitív API-t kínál nyilvánvaló metódus-aláírásokkal. Nem kell órákat tölteni a dokumentáció olvasásával vagy a kód kitalálásával. Az egyszerű, de működőképes API különféle forgatókönyvekben használható.
-      <a href="https://github.com/aspose-omr/Aspose.OMR-for-.NET">
-       Demo anyagok
-      </a>
-      A kódmintákat és bemutatósablonokat tartalmazó kódmintákat és bemutatósablonokat azonnal elindíthatja a szoftver képességeinek és munkafolyamatainak bemutatása érdekében.
-     </span>
+   <div class="col-lg-4">
+    <em class="fa fa-folder ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Felismeri a többoldalas űrlapokat és a mappában lévő összes képet
     </p>
    </div>
-   <!--<div class="col-lg-12">
+   <div class="col-lg-4">
+    <em class="fa fa-file ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Támogatja az összes népszerű papírméretet, valamint a nem szabványos papírméreteket is
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Beírható mezőket és egyedi rajzokat dolgoz fel
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Kiváló felismerési pontosság még nehéz körülmények között is
+    </p>
+   </div>
 
-    <h2 class="h2title">Read or Create GIS Data Files</h2>
+<div class="col-lg-12">
+<h2 class="h2title">Könnyen telepíthető</h2>
+<p>Az Aspose.OMR for .NET egyszerű NuGet-csomagként vagy <a href="https://releases.aspose.com/omr/net/">letölthető fájlként</a> kerül terjesztésre minimális függőséggel. Egyszerűen <a href="https://docs.aspose.com/omr/net/installation/">telepítse</a> projektjére, és máris használhatja az összes OMR-képességet, és elmentheti a felismerési eredményeket a támogatott formátumok bármelyikében.</p>
+<p><a href="https://purchase.aspose.com/temporary-license">Kérjen ideiglenes licencet</a> egy teljesen működőképes OMR-alkalmazás felépítésének megkezdéséhez korlátok és korlátozások nélkül.</p>
+</div>
 
-    <p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Könnyen kezelhető</h2>
+<p>Csak néhány sornyi kódra van szüksége egy OMR-űrlap (például egy ügyfél-elégedettségi felmérés) létrehozásához és a kitöltött űrlap felismeréséhez. Igen, ez tényleg ilyen egyszerű! Ne fogadd el a szavainkat, <a href="https://docs.aspose.com/omr/net/hello-world/">próbáld ki te is</a> .</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">Korlátlan lehetőségek</h2>
+<p>Az optikai jelfelismerő (OMR) technológia számos alkalmazással rendelkezik, és nagymértékben leegyszerűsítheti az élet szinte bármely részét, amikor manuálisan kitöltött adatokat kell gyűjtenie és elemeznie. Teljesen automatizálja a folyamatot, így percenként több száz lap közel 100%-os pontossággal ismerhető fel, az eredményeket pedig közvetlenül egy adatbázisba menti további összesítés és elemzés céljából. Az alkalmazások magukban foglalják, de nem kizárólagosan:</p>
+<ul>
+	<li>Oktatás: válaszlapok, tesztek, vetélkedők, SAT űrlapok és még sok más.</li>
+	<li>Kérdőívek: ügyfél-elégedettségi felmérések, visszajelzési űrlapok, rendelések, étkezési preferenciák.</li>
+	<li>Jelentkezések: biztosítási igények, pénzügyi kérelmek, határbelépési nyomtatványok.</li>
+	<li>És még sok más.</li>
+</ul>
+</div>
 
-    <h2 class="h2title">Format-Independent Object Model</h2>
+<div class="col-lg-12">
+<h2 class="h2title">Hozzon létre űrlapokat tervezőeszközök nélkül</h2>
+<p>Könyvtárunk támogatja a teljes OMR munkafolyamatot – az űrlap tervezésétől a kitöltött nyomtatott példányok felismeréséig. Rendkívül rugalmas <a href="https://docs.aspose.com/omr/net/design-form/">jelölőnyelveket</a> kínál <b>20</b> elrendezéssel és tartalmi elemekkel, amelyek kombinálhatók egymással, így bármilyen bonyolult elrendezésű formát hozhat létre.</p>
+<div>
+	<a href="https://docs.aspose.com/omr/net/showcases/alumni/compact/"><img src="alumni.png" alt="Öregdiák vetélkedő" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/satisfaction/grouped/"><img src="car-dealership.png" alt="Ügyfél-elégedettségi felmérés" /></a>
+	<a href="https://docs.aspose.com/omr/net/showcases/sat/color/"><img src="sat.png" alt="SAT űrlap" /></a>
+</div>
+<p>Az OMR-űrlap elrendezését és tartalmát közvetlenül az alkalmazáskódban is leírhatja. Ez a megközelítés akkor működik a legjobban, ha olyan űrlapokat kell megterveznie személyre szabott mezőkkel, mint a válaszadó neve, fényképe vagy egyedi QR-kód.</p>
+<p>A felismerési eredmények a legnépszerűbb adattárolási formátumokban jelennek meg, amelyek bármely népszerű adatbázisba vagy elemző rendszerbe importálhatók: JSON, XML vagy CSV.</p>
+</div>
 
-    <p>Aspose.GIS for .NET lets you manage geometries and feature attributes of supported GIS file formats without worrying about the underlying format implementation. The uniform representation of feature attributes for both ESRI Shapefiles and GeoJSON frees you from writing separate code to manage both formats.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Nincs szükség felszerelésre</h2>
+<p>Nincs többé szüksége speciális szkennerekre, egyedi transzoptikus papírra, mágneses tintára és egyéb „hardver” megoldásokra. A fejlett képelemzés és mesterséges intelligencia technikák lehetővé tették, hogy dedikált eszközök helyett hagyományos tollat és papírt, közönséges irodai fénymásolót vagy akár okostelefon kamerát is használjunk, anélkül, hogy a felismerés pontosságát és az eredménybe vetett bizalmat befolyásolták volna. Könyvtárunk lehetővé teszi a tisztán szoftveres OMR megoldások készítését, amelyek a hagyományos hardver alapú rendszerekkel egyenrangúak, sokkal alacsonyabb költséggel.</p>
+<p>Az OMR API automatikusan kijavítja az elforgatott és ferde képeket, így a rossz minőségű fényképek is nagy biztonsággal felismerhetők. Nehéz esetekben finomhangolhatja az űrlapfeldolgozást, és közel 100%-os pontossággal hozhat létre eredményeket.</p>
+</div>
 
-    </div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">Tanulj példával</h2>
+<p>Az Aspose.OMR for .NET számos <a href="https://docs.aspose.com/omr/net/showcases/">példát</a> tartalmaz, amelyek lehetővé teszik, hogy gyorsan megismerkedjen a funkcióival és képességeivel, és ötletet adjon az üzleti igényeinek megfelelő megoldások létrehozásához.</p>
+</div>
 
-    <h2 class="h2title">Support for Spatial Reference System</h2>
-
-    <p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
-
-    </div>-->
   </div>
  </div>
 </div>
@@ -377,7 +346,7 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/omr/net/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-omr/Aspose.OMR-for-.NET" >}}
@@ -389,21 +358,21 @@ description: C# ASP.NET VB.NET OMR olvasó és elemző SDK, hogy OMR-műveleteke
 {{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Kiadási megjegyzések" href="https://docs.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.OMR .NET-hez?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.OCR termékcsalád?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/net" pricingInformationLink="https://purchase.aspose.com/pricing/omr/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Az Aspose.OMR egyedi OMR-feldolgozási API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Az Aspose natív OMR API-kat is kínál más népszerű programozási nyelvekhez:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/hu/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

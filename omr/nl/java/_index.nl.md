@@ -1,78 +1,68 @@
 ---
-title: Java OMR-API - Aspose 
+title: Optical Mark Recognition API voor Java
 weight: 40
 url: /nl/java/ 
-description: Java OMR-lezer en verwerkingsbibliotheek om gescande afbeeldingen en zelfs foto's met hoge nauwkeurigheid te herkennen. API voert bewerkingen uit op afbeeldingen en foto's in op OMR gebaseerde software
+description: Een platformonafhankelijke bibliotheek waarmee Java-toepassingen OMR-klare formulieren voor examens, vragenlijsten, verkiezingen en meer kunnen maken en lezen.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java OMR-herkenning en Parser-API's" h2="Herken optische markeringen van gedigitaliseerde OMR-velafbeeldingen in verschillende formaten van gescande afbeeldingen en foto's." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition API voor Java" h2="Herken optische tekens van scans en foto&#39;s en genereer OMR-klare antwoordbladen, enquêtes, tests en stembiljetten in platformonafhankelijke Java-toepassingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
-{{< blocks/products/pf/i18n/tab-content >}}
-<p>
- Aspose.OMR voor Java is een API voor het herkennen van optische tekens van verschillende afbeeldingen, waaronder PNG, GIF, JPEG, TIFF, BMP. API slaat het resultaat op in CSV- en JSON-indeling en kan de resultaten in tekstindeling weergeven bij het uitvoeren van OMR-bewerkingen. Bovendien legt de OMR-herkennings-API door mensen gemarkeerde gegevens vast uit bestanden van meerdere bronnen, zoals enquêtes, MCQ-papieren, vragenlijsten en meer. Hoge nauwkeurigheid blijft behouden tijdens herkenning van gescande afbeeldingen en zelfs afbeeldingen uit al deze bronnen.
-</p>
-
-{{< /blocks/products/pf/i18n/tab-content >}}
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.OMR voor Java is een snelle, flexibele en kosteneffectieve Java API voor <b>het ontwerpen</b> , <b>genereren</b> en <b>herkennen van</b> antwoordbladen, enquêtes, tests, claims, financiële toepassingen en soortgelijke formulieren waarbij de respondent vragen moet beantwoorden door middel van een cheque teken in een bubbel. U hoeft niet langer handmatig formulieren te digitaliseren en examencijfers te berekenen - een paar regels code die zelfs onervaren ontwikkelaars gemakkelijk kunnen begrijpen en ondersteunen, zijn voldoende om het proces volledig te automatiseren.</p>
+<p>Onze bibliotheek ondersteunt de volledige OMR-workflow - van het ontwerpen van een formulier tot het herkennen van de ingevulde hardcopy&#39;s. U kunt een groot aantal vooraf ingestelde elementen combineren tot formulieren die het beste passen bij uw doelen en doelgroep, en uw OMR-formulieren verder personaliseren en brandmerken door logo&#39;s, streepjescodes, QR-codes of afbeeldingen toe te voegen. Formulieren worden beschreven in platte tekst of JSON-notatie, of direct in de programmacode; geen ontwerptools nodig. Respondenten kunnen formulieren invullen met een pen, potlood of markeerstift en elk type markering gebruiken - kunstmatige intelligentie en geavanceerde nauwkeurigheidskalibratie garanderen betrouwbare herkenningsresultaten, zelfs zonder gespecialiseerde scanners.</p>
+{{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/i18n/carousel >}}
+{{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van Aspose.OMR voor Java API." >}}
+{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Aspose.OMR voor Java kan OMR-formulieren maken en herkennen voor een naadloze workflow zonder externe tools." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    Een uitkering
+    OMR-formulieren maken
    </header>
    <ul>
-    <li>
-     Hoge nauwkeurigheid:
-    </li>
-    <li>
-     Resultaten in CSV-formaat
-    </li>
-    <li>
-     Uitvoer in JSON-indeling
-    </li>
+    <li>Krachtige opmaaktalen</li>
+    <li>Programmatisch maken van formulieren</li>
+    <li>QR-codes en streepjescodes</li>
+    <li>Afbeeldingen en branding toevoegen</li>
+    <li>Tientallen vooraf ingestelde elementen</li>
+    <li>Alle populaire papierformaten</li>
+    <li>Geen grafische editors nodig</li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
+
    <header>
-    <i class="fa fa-cogs">
+    <i class="fa fa-eye">
     </i>
-    Herkenning
+    OMR-formulieren herkennen
    </header>
    <ul>
-    <li>
-     Gescande afbeeldingen
-    </li>
-    <li>
-     Foto's
-    </li>
-    <li>
-     Geroteerde afbeeldingen verwerken
-    </li>
-    <li>
-     Aan de zijkant bekeken afbeeldingen verwerken
-    </li>
-    <li>
-     Gegevens van verschillende bronnen
-    </li>
+    <li>Gescande afbeeldingen en foto&#39;s lezen</li>
+    <li>Superieure herkenningsnauwkeurigheid</li>
+    <li>Geen apparatuur nodig</li>
+    <li>Geroteerde en scheve afbeeldingen aanpassen</li>
+    <li>Herken alle soorten tekens</li>
+    <li>Handmatige nauwkeurigheidsaanpassingen</li>
+    <li>Decodeer QR-codes en barcodes</li>
+    <li>Inschrijfvelden verwerken</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java OMR-verwerkings-API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
+  <img width="70" height="75" alt="OMR-formulieren maken en lezen in Java-toepassingen" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -90,32 +80,29 @@ description: Java OMR-lezer en verwerkingsbibliotheek om gescande afbeeldingen e
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.OMR voor Java ondersteunt de Java-runtime." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Native API voor desktop- en webapplicaties die kunnen draaien op elk platform dat Java SE of EE ondersteunt." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    JSP/JSF-toepassingen
+   </header>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Runtime-omgeving
+    Desktop-applicaties
    </header>
-   <ul>
-    <li>
-     JSP/JSF-toepassing
-    </li>
-    <li>
-     Desktop applicatie
-    </li>
-   </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="OMR-manipulatie-API's" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
+  <img width="70" height="75" alt="Optical Mark Recognition API voor Java" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -133,18 +120,30 @@ description: Java OMR-lezer en verwerkingsbibliotheek om gescande afbeeldingen e
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.OMR voor Java ondersteunt populaire [Beeldbestandsformaten](https://docs.aspose.com/omr/java/supported-file-formats/)  hieronder opgesomd." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Maak OMR-klare formulieren en ontvang herkenningsresultaten in de meest populaire gegevensopslagformaten." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Alleen invoer
+    Afdrukbare formulieren
    </header>
    <ul>
     <li>
-     JPEG, PNG, GIF, TIFF, BMP
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     BMP
     </li>
    </ul>
   </div>
@@ -153,22 +152,19 @@ description: Java OMR-lezer en verwerkingsbibliotheek om gescande afbeeldingen e
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Alleen uitvoer
+    Erkenningsresultaten
    </header>
    <ul>
-    <li>
-     CSV
-    </li>
-    <li>
-     JSON
-    </li>
+    <li>CSV</li>
+    <li>JSON</li>
+    <li>XML</li>
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java OMR-API" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
+  <img width="70" height="75" alt="OMR API voor Java" src="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg"/>
   <header>
    Aspose.OMR
   </header>
@@ -186,7 +182,7 @@ description: Java OMR-lezer en verwerkingsbibliotheek om gescande afbeeldingen e
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/i18n/carousel >}}
+{{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -196,81 +192,109 @@ description: Java OMR-lezer en verwerkingsbibliotheek om gescande afbeeldingen e
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java OMR-verwerkings-API Features
+    Functies en mogelijkheden van Aspose.OMR voor Java
    </h2>
    <p>
    </p>
+
    <div class="col-lg-4">
-    <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Herkent gescande afbeeldingen en foto's
+     Herkent alle formaten van afbeeldingsbestanden van een scanner of camera
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
+    <em class="fa fa-mobile ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verwerk perspectief en gedraaide afbeeldingen.
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Herken gegevens van examens, vragenlijsten, tests, enquêtes.
+     Gebruik je smartphonecamera in plaats van een scanner
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hoge nauwkeurigheid:.
+     Leest alle soorten markeringen die zijn getekend met een pen, potlood of stift
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
+    <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Genereer OMR-sjablonen van TXT-bestanden.
+     Personaliseer formulieren met streepjescodes, QR-codes en afbeeldingen
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-share ico-blue fa-2x col-lg-2">
+    <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sla uitvoer op in CSV- en JSON-indeling.
+     Leest gedraaide en scheve afbeeldingen
     </p>
    </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Hoe OMR API werkt
-    </h2>
-    <p>
-     Voor herkenning wordt sjabloonopmaak gebruikt die de grafische toewijzing van elementen uit de gescande afbeeldingen behoudt.
+   <div class="col-lg-4">
+    <em class="fa fa-sliders ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Biedt flexibele afstemming om complexe gevallen op te lossen
     </p>
    </div>
-   <!--<div class="col-lg-12">
+   <div class="col-lg-4">
+    <em class="fa fa-file ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Ondersteunt alle populaire papierformaten
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Verwerkt inschrijfvelden en aangepaste tekeningen
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Superieure herkenningsnauwkeurigheid, zelfs in moeilijke omstandigheden
+    </p>
+   </div>
 
-<h2 class="h2title">Read or Create GIS Data Files</h2>
+<div class="col-lg-12">
+<h2 class="h2title">Makkelijk te installeren</h2>
+<p>U kunt Java OMR API rechtstreeks vanuit een op <a href="https://repository.aspose.com/omr/">Maven</a> gebaseerd project gebruiken door eenvoudige <a href="https://docs.aspose.com/omr/java/installation/">installatie-instructies te volgen</a> .</p>
+<p><a href="https://purchase.aspose.com/temporary-license">Vraag een tijdelijke licentie</a> aan om te beginnen met het bouwen van een volledig functionele OMR-applicatie zonder enige beperkingen en beperkingen.</p>
+</div>
 
-<p>Aspose.GIS for .NET not only supports loading GIS file formats for manipulation & conversion but it also provides the capability to create GIS data files from scratch. .NET developers can use the API to create basic geometries such as Point, MultiPoint, Line, MultiLine, Polygon and so on, which can be further used to generate complex features.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Maak OMR-formulieren zonder ontwerptools</h2>
+<p>Je hebt maar een paar regels code nodig om een OMR-formulier te maken, zoals een klanttevredenheidsonderzoek of antwoordblad. Aspose.OMR voor Java biedt u verschillende manieren om OMR-formulieren van elke lay-out en complexiteit te maken door vooraf gedefinieerde elementen te combineren. Ze werken allemaal even goed en geven dezelfde resultaten - kies gewoon de aanpak die het beste bij u past.</p>
+</div>
 
-</div>-->
-   <!--<div class="col-lg-12">
+<div class="col-lg-12">
+<h2 class="h2title">Betrouwbare herkenning zonder speciale apparatuur</h2>
+<p>Algoritmen voor voorverwerking en analyse van afbeeldingen maken de noodzaak voor gespecialiseerde OMR-scanners en andere gespecialiseerde hardwareaccessoires overbodig. het resultaat. Met onze bibliotheek kunt u tegen veel lagere kosten OMR-softwareoplossingen maken met de betrouwbaarheid van hardwaresystemen.</p>
+<p>In complexe gevallen kunt u de herkenningsinstellingen verfijnen en resultaten krijgen met bijna 100% nauwkeurigheid.</p>
+<p>Herkenningsresultaten worden geretourneerd in de meest populaire gegevensopslagformaten die kunnen worden geïmporteerd in elke populaire database of analysesysteem: JSON, XML of CSV.</p>
+</div>
 
-<h2 class="h2title">Format-Independent Object Model</h2>
+<div class="col-lg-12">
+<h2 class="h2title">QR-codes en barcodeherkenning</h2>
+<p>Met de bibliotheek kunt u barcodes en QR-codes toevoegen om een formulier te personaliseren of uniek te identificeren. De inhoud van barcodes wordt bij herkenning automatisch gedecodeerd.</p>
+</div>
 
-<p>Aspose.GIS for .NET lets you manage geometries and feature attributes of supported GIS file formats without worrying about the underlying format implementation. The uniform representation of feature attributes for both ESRI Shapefiles and GeoJSON frees you from writing separate code to manage both formats.</p>
+<div class="col-lg-12">
+<h2 class="h2title">Onbeperkte mogelijkheden</h2>
+<p>Optical Mark Recognition (OMR)-technologie heeft veel toepassingen en kan bijna elk deel van uw leven aanzienlijk vereenvoudigen wanneer u handmatig ingevulde gegevens moet verzamelen en analyseren. Het automatiseert het proces volledig, waardoor honderden vellen per minuut kunnen worden herkend met bijna 100% nauwkeurigheid, en slaat de resultaten rechtstreeks op in een database voor verdere aggregatie en analyse. Toepassingen omvatten, maar zijn niet beperkt tot:</p>
+<ul>
+	<li>Onderwijs: antwoordbladen, tests, quizzen, SAT-formulieren en nog veel meer.</li>
+	<li>Vragenlijsten: klanttevredenheidsonderzoeken, feedbackformulieren, bestellingen, maaltijdvoorkeuren.</li>
+	<li>Toepassingen: verzekeringsclaims, financiële toepassingen, formulieren voor grensinvoer.</li>
+	<li>En nog veel meer.</li>
+</ul>
+</div>
 
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Support for Spatial Reference System</h2>
-
-<p>Aspose.GIS for .NET supports Spatial Reference System. .NET GIS API allows you to create spatial reference system from Well-known Text (WKT) as well as provides the ability to export the spatial reference system to WKT. Furthermore, you may also compare spatial reference systems or create one with custom parameters as per application requirements.</p>
-
-</div>-->
   </div>
  </div>
 </div>
@@ -279,33 +303,33 @@ description: Java OMR-lezer en verwerkingsbibliotheek om gescande afbeeldingen e
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/omr/java/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-omr/Aspose.OMR-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API-referenties" href="https://apireference.aspose.com/java/omr" >}}
-{{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Instructievideo&#39;s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/omr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release-opmerkingen" href="https://docs.aspose.com/omr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.OMR voor Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.OCR-productfamilie?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/i18n/support-learning-resources >}}
+{{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/java" pricingInformationLink="https://purchase.aspose.com/pricing/omr/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/omr/java" pricingInformationLink="https://purchase.aspose.com/pricing/omr/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose.OMR biedt individuele OMR-verwerkings-API's voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose biedt ook native OMR API&#39;s voor andere populaire programmeertalen:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/nl/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
