@@ -317,7 +317,7 @@ description: NuGet package or standalone .NET library for developing desktop app
 
 <div class="col-lg-12">
 <h2 class="h2title">Create forms without design tools</h2>
-<p>Our library supports the complete OMR workflow - from designing a form to recognizing its filled hardcopies. It offers highly flexible <a href="https://docs.aspose.com/omr/net/design-form/">markup languages</a> with <b>20</b> layout and content elements that can be combined with each other to produce forms of any layout can complexity.</p>
+<p>Our library supports the complete OMR workflow - from designing a form to recognizing its filled hardcopies. It offers highly flexible <a href="https://docs.aspose.com/omr/net/design-form/">markup languages</a> with <b>20</b> layout and content elements that can be combined with each other to produce forms of any layout can complexity. <b>See our ready-made templates </b><a href="https://docs.aspose.com/omr/net/showcases/">here</a></p>
 <div>
 	<a href="https://docs.aspose.com/omr/net/showcases/alumni/compact/"><img src="alumni.png" alt="Alumni questionnaire" /></a>
 	<a href="https://docs.aspose.com/omr/net/showcases/satisfaction/grouped/"><img src="car-dealership.png" alt="Customer satisfaction survey" /></a>

@@ -269,7 +269,7 @@ description: A cross-platform library that allows Java applications to create an
 
 <div class="col-lg-12">
 <h2 class="h2title">Create OMR forms without design tools</h2>
-<p>You only need a few lines of code to create an OMR form such as a customer satisfaction survey or answer sheet. Aspose.OMR for Java offers you several ways to create OMR forms of any layout and complexity by combining predefined elements. They all work equally well and give the same results - just choose the approach that works best for you.</p>
+<p>You only need a few lines of code to create an OMR form such as a customer satisfaction survey or answer sheet. Aspose.OMR for Java offers you several ways to create OMR forms of any layout and complexity by combining predefined elements. They all work equally well and give the same results - just choose the approach that works best for you. <b>See our ready-made templates </b><a href="https://docs.aspose.com/omr/net/showcases/">here</a></p>
 </div>
 
 <div class="col-lg-12">
