@@ -27,7 +27,7 @@ otherformats: BMP JPEG GIF PNG
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java OMR API" %}}
-You can easily use Aspose.OMR for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr) based project and include libraries in your pom.xml.
+You can easily use Aspose.OMR for Java directly from a [Aspose Maven Repository](https://repository.aspose.com/omr/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -10,7 +10,7 @@ description: Multiplatformní knihovna, která umožňuje aplikacím Java vytvá
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/omr/" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR for Java je rychlé, flexibilní a cenově výhodné Java API pro <b>navrhování</b> , <b>generování</b> a <b>rozpoznávání</b> odpovědních listů, průzkumů, testů, nároků, finančních aplikací a podobných formulářů, které vyžadují, aby respondent odpovídal na otázky ručním nakreslením šeku. značka v bublině. Již nemusíte ručně digitalizovat formuláře a počítat známky ze zkoušek – k plné automatizaci procesu stačí pár řádků kódu, kterému snadno porozumí i nezkušení vývojáři.</p>

@@ -27,6 +27,7 @@ Native API for desktop and web OMR applications that can run on any platform tha
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/omr/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/omr" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Optical Mark Recognition API for .NET
 weight: 20
-url: /net/ 
+url: /net/
 description: NuGet package or standalone .NET library for developing desktop applications and web services that can generate OMR forms and read optical marks.
 ---
 
@@ -351,6 +351,7 @@ description: NuGet package or standalone .NET library for developing desktop app
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/omr/net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr/Aspose.OMR-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/omr" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

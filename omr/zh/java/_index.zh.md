@@ -10,7 +10,7 @@ description: 一个跨平台库，允许 Java 应用程序为考试、问卷调�
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/omr/" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR for Java 是一种快速、灵活且具有成本效益的 Java API，用于<b>设计</b>、<b>生成</b>和<b>识别</b>答卷、调查、测试、索赔、财务应用程序以及需要受访者通过手绘支票回答问题的类似表格在气泡中标记。您不再需要手动数字化表格和计算考试成绩 - 即使是没有经验的开发人员也可以轻松理解和支持的几行代码足以使流程完全自动化。</p>

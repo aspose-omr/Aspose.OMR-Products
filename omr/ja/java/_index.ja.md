@@ -10,7 +10,7 @@ description: Javaアプリケーションが試験、アンケート、選挙な
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/omr/" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR for Javaは、回答シート、調査、テスト、クレーム、財務アプリケーション、および回答者が小切手を手書きして質問に回答する必要がある同様のフォームを<b>設計</b>、<b>生成</b>、および<b>認識</b>するための、高速で柔軟性があり費用効果の高いJavaAPIです。バブルにマークを付けます。フォームを手動でデジタル化し、試験の成績を計算する必要がなくなりました。経験の浅い開発者でも簡単に理解してサポートできる数行のコードで、プロセスを完全に自動化できます。</p>

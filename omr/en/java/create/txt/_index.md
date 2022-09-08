@@ -27,7 +27,7 @@ otherformats: TIFF JPEG GIF PNG
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Creation Requirements" %}}
-Use Aspose.OMR for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr) based project and include libraries in your pom.xml.
+Use Aspose.OMR for Java directly from a [Aspose Maven Repository](https://repository.aspose.com/omr/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/omr/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

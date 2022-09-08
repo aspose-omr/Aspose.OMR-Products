@@ -10,7 +10,7 @@ description: مكتبة عبر الأنظمة الأساسية تسمح لتطب
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/omr/" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p style=";text-align:right;direction:rtl"><b>Aspose.OMR</b> for Java هي واجهة برمجة تطبيقات Java سريعة ومرنة وفعالة من حيث التكلفة <b>لتصميم</b> وإنشاء <b>والتعرف</b> على أوراق الإجابة والاستطلاعات والاختبارات والمطالبات والتطبيقات المالية والنماذج المماثلة التي تتطلب من المستجيب الإجابة عن الأسئلة عن طريق رسم شيك يدويًا علامة في فقاعة. لم تعد بحاجة إلى رقمنة النماذج يدويًا وحساب درجات الامتحان - بضعة أسطر من التعليمات البرمجية التي يمكن للمطورين عديمي الخبرة فهمها ودعمها بسهولة كافية لأتمتة العملية بالكامل.</p>

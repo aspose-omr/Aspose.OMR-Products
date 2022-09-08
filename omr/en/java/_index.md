@@ -1,7 +1,7 @@
 ---
 title: Optical Mark Recognition API for Java
 weight: 40
-url: /java/ 
+url: /java/
 description: A cross-platform library that allows Java applications to create and read OMR-ready forms for exams, questionnaires, elections, and more.
 ---
 
@@ -10,7 +10,7 @@ description: A cross-platform library that allows Java applications to create an
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/omr/" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR for Java is a fast, flexible and cost-effective Java API for <b>designing</b>, <b>generating</b> and <b>recognizing</b> answer sheets, surveys, tests, claims, financial applications, and similar forms that require the respondent to answer questions by hand-drawing a check mark in a bubble. You no longer need to manually digitize forms and calculate exam grades - a few lines of code that even inexperienced developers can easily understand and support are enough to fully automate the process.</p>
@@ -308,6 +308,7 @@ description: A cross-platform library that allows Java applications to create an
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/omr/java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-omr/Aspose.OMR-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/omr" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/omr/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

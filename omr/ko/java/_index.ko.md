@@ -10,7 +10,7 @@ description: Java 애플리케이션이 시험, 설문지, 선거 등에 대한 
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-omr" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" liveDemosLink="https://products.aspose.app/omr/family" PricingLink="https://purchase.aspose.com/pricing/omr/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/omr/java/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/omr/" directDownloadLink="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.OMR for Java는 답안지, 설문조사, 테스트, 청구, 재무 애플리케이션 및 응답자가 수표를 직접 그려 질문에 답해야 하는 유사한 형식을 <b>설계</b> , <b>생성</b> 및 <b>인식</b> 하기 위한 빠르고 유연하며 비용 효율적인 Java API입니다. 거품에 표시하십시오. 더 이상 수동으로 양식을 디지털화하고 시험 점수를 계산할 필요가 없습니다. 경험이 없는 개발자도 쉽게 이해하고 지원할 수 있는 몇 줄의 코드로 프로세스를 완전히 자동화할 수 있습니다.</p>
