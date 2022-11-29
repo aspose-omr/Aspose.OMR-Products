@@ -4,7 +4,7 @@ weight: 3920
 url: /cs/exam/neet/
 lang: cs
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Stáhněte si připravený list OMR NEET ve formátu PDF pro procvičování a koučování. Zpracujte desítky vyplněných formulářů NEET za minutu.
 ---
 
@@ -36,13 +36,13 @@ description: Stáhněte si připravený list OMR NEET ve formátu PDF pro procvi
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Chcete-li jej přidat do svého projektu, stačí do projektu nainstalovat balíček *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) pomocí následujícího příkazu:
+Chcete-li jej přidat do svého projektu, stačí do projektu nainstalovat balíček *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) pomocí následujícího příkazu:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 
@@ -74,7 +74,7 @@ Při používání, přizpůsobení a čtení formuláře zkoušky NEET pomocí 
 <ul type="1">
 	<li>Otevřete zdrojový kód formuláře NEET (neet.txt) pomocí libovolného textového editoru.</li>
 	<li>Změňte zdrojový kód podle pokynů.</li>
-	<li>Přizpůsobte si velikost papíru, barvu bublin, písmo a další globální nastavení stránky.</li>
+	<li>Přizpůsobte velikost papíru, barvu bublin, písmo a další globální nastavení stránky.</li>
 </ul>
 
 <p><b>Po dokončení spusťte následující kód a vygenerujte tisknutelnou šablonu pro formulář NEET:</b></p>

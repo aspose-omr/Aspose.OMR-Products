@@ -4,7 +4,7 @@ weight: 3920
 url: /sk/exam/neet/
 lang: sk
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Stiahnite si hotový hárok OMR NEET vo formáte PDF na cvičenie a koučovanie. Spracujte desiatky vyplnených formulárov NEET za minútu.
 ---
 
@@ -36,13 +36,13 @@ description: Stiahnite si hotový hárok OMR NEET vo formáte PDF na cvičenie a
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Ak ho chcete pridať do svojho projektu, stačí si do projektu nainštalovať balík *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) pomocou nasledujúceho príkazu:
+Ak ho chcete pridať do svojho projektu, stačí si do projektu nainštalovať balík *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) pomocou nasledujúceho príkazu:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 

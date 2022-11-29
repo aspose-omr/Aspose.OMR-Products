@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/exam/neet/
 lang: lt
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Atsisiųskite paruoštą OMR NEET lapą PDF formatu praktikai ir mokymui. Per minutę apdorokite dešimtis užpildytų NEET formų.
 ---
 
@@ -36,13 +36,13 @@ description: Atsisiųskite paruoštą OMR NEET lapą PDF formatu praktikai ir mo
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Norėdami pridėti jį prie projekto, jums tereikia įdiegti *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) paketą savo projekte naudodami šią komandą:
+Norėdami pridėti jį prie projekto, jums tereikia įdiegti *Aspose.OMR* [NuGet] (https://www.nuget.org/packages/aspose.omr) paketą savo projekte naudodami šią komandą:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
-```cs
+``` cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 
@@ -115,7 +115,7 @@ Vadovaukitės toliau pateiktomis gairėmis, kaip naudoti, tinkinti ir skaityti N
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/neet.omr"><b>neet.omr</b></a> faile yra atpažinimo šablonas, kuris naudojamas norint gauti labai tikslius rezultatus naudojant Aspose.OMR atpažinimo variklį. Jis generuojamas kartu su spausdinamu NEET šablonu; įsitikinkite, kad to failo neištrinate ir nepakeisite. </p>
+<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/neet.omr"><b>neet.omr</b></a> faile yra atpažinimo šablonas, naudojamas norint gauti labai tikslius rezultatus naudojant Aspose.OMR atpažinimo variklį. Jis generuojamas kartu su spausdinamu NEET šablonu; įsitikinkite, kad to failo neištrinate ir nepakeisite. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

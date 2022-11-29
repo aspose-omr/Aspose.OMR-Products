@@ -4,7 +4,7 @@ weight: 3920
 url: /ro/exam/neet/
 lang: ro
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Descărcați o fișă gata făcută OMR NEET în format PDF pentru exersare și antrenament. Procesați zeci de formulare NEET completate pe minut.
 ---
 
@@ -16,7 +16,7 @@ description: Descărcați o fișă gata făcută OMR NEET în format PDF pentru 
 
 {{% blocks/products/pf/agp/content h2="National Eligibility cum Entrance Test" %}}
 
-<p>Testul național de eligibilitate cu intrare (NEET) este examenul de admitere uniform pentru admiterea la MBBS, BDS, BAMS, BSMS, BUMS, BHMS și alte cursuri medicale în colegii, universități și institute din India. Un rezultat de succes al testului este o necesitate pentru studenții postuniversitari și de licență care urmează o educație medicală primară în străinătate. NEET este un examen pe hârtie și pix cu 180 de întrebări, ceea ce face aproape imposibilă verificarea și evaluarea manuală a rezultatelor. Citirea automată a formularelor (OMR) devine un element critic al evaluării.</p>
+<p>Testul național de eligibilitate cu intrare (NEET) este examenul de admitere uniform pentru admiterea la MBBS, BDS, BAMS, BSMS, BUMS, BHMS și alte cursuri medicale în colegii, universități și institute din India. Un rezultat de succes al testului este o necesitate pentru studenții postuniversitari și de licență care urmează studii medicale primare în străinătate. NEET este un examen pe hârtie cu 180 de întrebări, ceea ce face aproape imposibilă verificarea și evaluarea manuală a rezultatelor. Citirea automată a formularelor (OMR) devine un element critic al evaluării.</p>
 
 <p>Aspose.OMR este un motor puternic de recunoaștere optică a mărcilor (OMR) care poate converti un computer obișnuit într-un cititor optic/mașină de notare. Crearea, recunoașterea și notarea testelor cu variante multiple devine o sarcină banală, chiar și pentru cei cu cunoștințe minime de limbaje de programare. Uitați de notarea manuală plictisitoare și predispusă la erori a foilor de răspuns OMR sau de așteptarea unui dispozitiv Scantron. Doar faceți o fotografie a unui formular OMR completat în clasă și obțineți instantaneu un rezultat.</p>
 
@@ -36,13 +36,13 @@ description: Descărcați o fișă gata făcută OMR NEET în format PDF pentru 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Pentru a-l adăuga la proiect, trebuie doar să instalați pachetul *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) în proiect cu următoarea comandă:
+Pentru a-l adăuga în proiect, trebuie doar să instalați pachetul *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) în proiect cu următoarea comandă:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 

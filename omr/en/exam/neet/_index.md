@@ -4,7 +4,7 @@ weight: 3920
 url: /exam/neet/
 lang: en
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Download a ready-made OMR NEET sheet in PDF format for practicing and coaching. Process dozens of completed NEET forms per minute.
 ---
 
@@ -36,13 +36,13 @@ description: Download a ready-made OMR NEET sheet in PDF format for practicing a
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-To add it to your project, you just need to install the *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) package in your project with the following command:
+To add it to your project, you just need to install the *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) package in your project with the following command:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /ja/exam/neet/
 lang: ja
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: 練習とコーチングのために、既製の OMR NEET シートを PDF 形式でダウンロードします。 1 分間に数十件の記入済みニート フォームを処理します。
 ---
 
@@ -36,13 +36,13 @@ description: 練習とコーチングのために、既製の OMR NEET シート
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-これをプロジェクトに追加するには、次のコマンドを使用して *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) パッケージをプロジェクトにインストールするだけです。
+これをプロジェクトに追加するには、次のコマンドを使用して *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) パッケージをプロジェクトにインストールするだけです。
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> インストール-パッケージ Aspose.OMR
  
 ```
 
@@ -67,7 +67,7 @@ Aspose.OMR での NEET 試験フォームの使用、カスタマイズ、およ
 
 <h3>ニートシートのカスタマイズ</h3>
 
-<p>ニート試験は、物理学、化学、植物学、動物学のセクションに分かれた 180 の質問からなる統一された形式です。トレーニングの元のパターンに従うことを強くお勧めしますが、セクションを削除したり、セクション内の回答の数を変更したりすることで、テストの特定の領域に焦点を当てるようにフォームを簡単に調整できます。</p>
+<p>ニート試験は、物理学、化学、植物学、動物学のセクションに分かれた 180 の質問からなる統一形式です。トレーニングの元のパターンに従うことを強くお勧めしますが、セクションを削除したり、セクション内の回答の数を変更したりすることで、テストの特定の領域に焦点を当てるようにフォームを簡単に調整できます。</p>
 
 <p><b>NEET シートをカスタマイズします。</b></p>
 
@@ -186,7 +186,7 @@ Aspose.OMR での NEET 試験フォームの使用、カスタマイズ、およ
         <em class="fa fa-bold ico-blue fa-2x col-lg-2">
         </em>
         <p class="col-lg-10">
-        ニート フォームを QR コード、バーコード、画像でカスタマイズします。
+        QR コード、バーコード、画像を使用してニート フォームをパーソナライズします。
         </p>
    </div>
    </div>
@@ -195,7 +195,7 @@ Aspose.OMR での NEET 試験フォームの使用、カスタマイズ、およ
         <em class="fa fa-image ico-blue fa-2x col-lg-2">
         </em>
         <p class="col-lg-10">
-        すべての一般的な用紙サイズだけでなく、多数の非標準サイズもサポートしています。
+        すべての一般的な用紙サイズだけでなく、多くの非標準サイズもサポートしています。
         </p>
    </div>
    <div class="col">
@@ -219,8 +219,8 @@ Aspose.OMR での NEET 試験フォームの使用、カスタマイズ、およ
 * 厳しい条件下でも完璧な結果を得るためにさらに微調整できる優れた認識精度。
 * 機器は必要ありません。高価な OMR スキャナーの代わりに、オフィスの既存のコピー機やスマートフォンのカメラを使用できます。回転した画像や歪んだ画像を処理することもできます。
 * 柔軟なマークアップ言語により、任意のレイアウトと複雑さの機械可読 OMR フォームを設計できます。ニートシートはユースケースの1つに過ぎません。
-* ニート フォームを QR コード、バーコード、画像でカスタマイズします。
-* すべての一般的な用紙サイズだけでなく、多数の非標準サイズもサポートしています。
+* QR コード、バーコード、画像を使用してニート フォームをパーソナライズします。
+* すべての一般的な用紙サイズだけでなく、多くの非標準サイズもサポートしています。
 * 完成した NEET フォームを読み、結果を JSON、XML、または CSV 形式で保存します。これらは、プログラムで分析、スコア付けし、任意のリレーショナル データベースまたは NoSQL データベースにインポートできます。
 
 {{% /blocks/products/pf/feature-page-section %}}

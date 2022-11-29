@@ -4,7 +4,7 @@ weight: 3920
 url: /hr/exam/neet/
 lang: hr
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Preuzmite gotovu OMR NEET tablicu u PDF formatu za vježbanje i podučavanje. Obradite desetke ispunjenih NEET obrazaca u minuti.
 ---
 
@@ -18,7 +18,7 @@ description: Preuzmite gotovu OMR NEET tablicu u PDF formatu za vježbanje i pod
 
 <p>Nacionalni prijemni ispit (NEET) jedinstveni je prijemni ispit za upis na MBBS, BDS, BAMS, BSMS, BUMS, BHMS i druge medicinske tečajeve na fakultetima, sveučilištima i institutima u Indiji. Uspješan rezultat testa neophodan je za studente poslijediplomskih i dodiplomskih studija koji pohađaju osnovno medicinsko obrazovanje u inozemstvu. NEET je ispit s olovkom i papirom sa 180 pitanja, zbog čega je gotovo nemoguće ručno provjeriti i ocijeniti rezultate. Automatizirano čitanje obrazaca (OMR) postaje kritični element procjene.</p>
 
-<p>Aspose.OMR je snažan mehanizam za prepoznavanje optičkih oznaka (OMR) koji može pretvoriti obično računalo u optički čitač/stroj za bodovanje. Izrada, prepoznavanje i bodovanje testova višestrukog izbora postaje trivijalan zadatak, čak i za one s minimalnim znanjem programskih jezika. Zaboravite zamorno ručno bodovanje OMR listova s ​​odgovorima sklono pogreškama ili čekanje Scantron uređaja. Dovoljno je fotografirati ispunjeni OMR obrazac u razredu i odmah dobiti rezultat.</p>
+<p>Aspose.OMR je snažan mehanizam za prepoznavanje optičkih oznaka (OMR) koji može pretvoriti obično računalo u optički čitač/stroj za bodovanje. Izrada, prepoznavanje i bodovanje testova višestrukog izbora postaje trivijalan zadatak, čak i za one s minimalnim znanjem programskih jezika. Zaboravite zamorno ručno bodovanje OMR lista s odgovorima sklono pogreškama ili čekanje Scantron uređaja. Dovoljno je fotografirati ispunjeni OMR obrazac u razredu i odmah dobiti rezultat.</p>
 
 <p>Preuzmite obrazac za vježbanje NEET ispita u školama, institutima i centrima za obuku. Koristite ga za samostalnu vježbu, kao i za obuku NEET kandidata. Obrazac za preuzimanje potpuno je besplatan za korištenje prema vlastitom nahođenju.</p>
 
@@ -36,13 +36,13 @@ description: Preuzmite gotovu OMR NEET tablicu u PDF formatu za vježbanje i pod
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Da biste ga dodali u svoj projekt, samo trebate instalirati *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) paket u svoj projekt sa sljedećom naredbom:
+Da biste ga dodali u svoj projekt, samo trebate instalirati *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) paket u svoj projekt sa sljedećom naredbom:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Instalacija paketa Aspose.OMR
  
 ```
 
@@ -62,7 +62,7 @@ Slijedite donje smjernice o korištenju, prilagodbi i čitanju obrasca NEET ispi
 	<li>Samo jedan oblačić treba biti ispunjen po pitanju.</li>
 	<li>Krug mjehurića treba u potpunosti ispuniti olovkom ili crnim markerom.</li>
 	<li>Izbjegavajte zalutale oznake, osobito one koje prelaze mjehuriće ili crtični kod.</li>
-	<li>Da biste unijeli učenikovo ime i podatke za kontakt, označite oblačić slovom ili brojem po stupcu.</li>
+	<li>Da biste unijeli ime učenika i podatke za kontakt, označite oblačić slovom ili brojem po stupcu.</li>
 </ul>
 
 <h3>Prilagodba NEET lista</h3>
@@ -163,7 +163,7 @@ Slijedite donje smjernice o korištenju, prilagodbi i čitanju obrasca NEET ispi
         <em class="fa fa-globe ico-blue fa-2x col-lg-2">
         </em>
         <p class="col-lg-10">
-        Vrhunska točnost prepoznavanja koja se može dodatno fino podesiti za savršene rezultate čak i pod izazovnim uvjetima.
+        Vrhunska točnost prepoznavanja koja se može dodatno fino podesiti za savršene rezultate čak i pod zahtjevnim uvjetima.
         </p>
    </div>
    <div class="col">
@@ -186,7 +186,7 @@ Slijedite donje smjernice o korištenju, prilagodbi i čitanju obrasca NEET ispi
         <em class="fa fa-bold ico-blue fa-2x col-lg-2">
         </em>
         <p class="col-lg-10">
-        Personalizirajte NEET obrazac QR kodovima, crtičnim kodovima i slikama.
+        Personalizirajte obrazac NEET s QR kodovima, crtičnim kodovima i slikama.
         </p>
    </div>
    </div>
@@ -216,10 +216,10 @@ Slijedite donje smjernice o korištenju, prilagodbi i čitanju obrasca NEET ispi
 
 * Preuzmite gotovu OMR NEET tablicu u PDF formatu za vježbanje i podučavanje.
 * Obradite desetke ispunjenih NEET obrazaca u minuti
-* Vrhunska točnost prepoznavanja koja se može dodatno fino podesiti za savršene rezultate čak i pod izazovnim uvjetima.
+* Vrhunska točnost prepoznavanja koja se može dodatno fino podesiti za savršene rezultate čak i pod zahtjevnim uvjetima.
 * Nije potrebna oprema. Koristite svoj postojeći uredski fotokopirni uređaj ili čak kameru pametnog telefona umjesto skupog OMR skenera. Možete čak i obraditi rotirane i iskrivljene slike.
 * Fleksibilni označni jezik omogućuje vam da dizajnirate strojno čitljive OMR oblike bilo kojeg izgleda i složenosti. NEET list samo je jedan od slučajeva korištenja.
-* Personalizirajte NEET obrazac QR kodovima, crtičnim kodovima i slikama.
+* Personalizirajte obrazac NEET s QR kodovima, crtičnim kodovima i slikama.
 * Podrška za sve popularne veličine papira kao i niz nestandardnih.
 * Pročitajte ispunjeni obrazac NEET i spremite rezultate u JSON, XML ili CSV formate. Mogu se programski analizirati, bodovati i uvesti u bilo koju relacijsku ili NoSQL bazu podataka.
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /lv/exam/neet/
 lang: lv
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Lejupielādējiet gatavu OMR NEET lapu PDF formātā praksei un apmācībai. Apstrādājiet desmitiem aizpildītu NEET veidlapu minūtē.
 ---
 
@@ -16,7 +16,7 @@ description: Lejupielādējiet gatavu OMR NEET lapu PDF formātā praksei un apm
 
 {{% blocks/products/pf/agp/content h2="National Eligibility cum Entrance Test" %}}
 
-<p>Valsts atbilstības cum iestājpārbaudījums (NEET) ir vienots iestājpārbaudījums uzņemšanai MBBS, BDS, BAMS, BSMS, BUMS, BHMS un citos medicīnas kursos Indijas koledžās, universitātēs un institūtos. Veiksmīgs testa rezultāts ir obligāts pēcdiploma un bakalaura studiju programmas studentiem, kuri iegūst primāro medicīnisko izglītību ārzemēs. NEET ir pildspalvas un papīra eksāmens ar 180 jautājumiem, kas padara gandrīz neiespējamu manuāli pārbaudīt un novērtēt rezultātus. Automātiskā formu lasīšana (OMR) kļūst par kritisku novērtējuma elementu.</p>
+<p>Valsts atbilstības cum iestājpārbaudījums (NEET) ir vienots iestājpārbaudījums uzņemšanai MBBS, BDS, BAMS, BSMS, BUMS, BHMS un citos medicīnas kursos Indijas koledžās, universitātēs un institūtos. Veiksmīgs testa rezultāts ir obligāts pēcdiploma un bakalaura studiju programmas studentiem, kuri iegūst primāro medicīnisko izglītību ārzemēs. NEET ir pildspalvas un papīra eksāmens ar 180 jautājumiem, tāpēc ir gandrīz neiespējami manuāli pārbaudīt un novērtēt rezultātus. Automātiskā formu lasīšana (OMR) kļūst par kritisku novērtējuma elementu.</p>
 
 <p>Aspose.OMR ir jaudīgs optisko zīmju atpazīšanas (OMR) dzinējs, kas var pārvērst parastu datoru par optisko lasītāju/vērtēšanas iekārtu. Atbilžu variantu testu izveide, atpazīšana un vērtēšana kļūst par triviālu uzdevumu pat tiem, kam ir minimālas programmēšanas valodu zināšanas. Aizmirstiet par garlaicīgo un kļūdām pakļauto manuālo OMR atbilžu lapu vērtēšanu vai Scantron ierīces gaidīšanu. Vienkārši nofotografējiet aizpildītu OMR veidlapu klasē un uzreiz iegūstiet rezultātu.</p>
 
@@ -30,19 +30,19 @@ description: Lejupielādējiet gatavu OMR NEET lapu PDF formātā praksei un apm
 	</div>
 </div>
 
-<p>Izmantojiet Aspose.OMR, lai pielāgotu katru NEET OMR veidlapas aspektu, tostarp krāsu un fontu, un pievienotu savu zīmolu. Vienkārši mainiet avota failus un ģenerējiet PDF lapu vai drukājamu PNG attēlu jūsu vēlamajam papīra veidam. Lai praktizētu noteiktas testa jomas, varat pat mainīt jautājumu skaitu un izslēgt noteiktas sadaļas, piemēram, fiziku, ķīmiju vai bioloģiju.</p> 
+<p>Izmantojiet Aspose.OMR, lai pielāgotu katru NEET OMR veidlapas aspektu, tostarp krāsu un fontu, un pievienotu savu zīmolu. Vienkārši modificējiet avota failus un ģenerējiet PDF lapu vai drukājamu PNG attēlu jūsu vēlamajam papīra veidam. Lai praktizētu noteiktas testa jomas, varat pat mainīt jautājumu skaitu un izslēgt noteiktas sadaļas, piemēram, fiziku, ķīmiju vai bioloģiju.</p> 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Lai to pievienotu savam projektam, jums vienkārši jāinstalē *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) pakotne savā projektā ar šādu komandu:
+Lai to pievienotu savam projektam, jums vienkārši jāinstalē *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) pakotne savā projektā ar šādu komandu:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
-```cs
+``` cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 
@@ -72,7 +72,7 @@ Izpildiet tālāk sniegtos norādījumus par NEET eksāmena veidlapas lietošanu
 <p><b>Pielāgojiet NEET lapu:</b></p>
 
 <ul type="1">
-	<li>Atveriet NEET veidlapas avota kodu (neet.txt) ar jebkuru vienkārša teksta redaktoru.</li>
+	<li>Atveriet NEET veidlapas pirmkodu (neet.txt) ar jebkuru vienkārša teksta redaktoru.</li>
 	<li>Mainiet avota kodu saskaņā ar vadlīnijām.</li>
 	<li>Pielāgojiet papīra izmēru, burbuļa krāsu, fontu un citus globālos lapas iestatījumus.</li>
 </ul>
@@ -115,7 +115,7 @@ Izpildiet tālāk sniegtos norādījumus par NEET eksāmena veidlapas lietošanu
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/neet.omr"><b>neet.omr</b></a> fails satur atpazīšanas modeli, kas tiek izmantots, lai iegūtu ļoti precīzus rezultātus ar atpazīšanas programmu Aspose.OMR. Tas tiek ģenerēts kopā ar drukājamu NEET veidni; pārliecinieties, ka neizdzēšat vai neaizstājāt šo failu. </p>
+<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/neet.omr"><b>neet.omr</b></a> fails satur atpazīšanas modeli, kas tiek izmantots, lai iegūtu ļoti precīzus rezultātus ar atpazīšanas programmu Aspose.OMR. Tas tiek ģenerēts līdzās drukājamai NEET veidnei; pārliecinieties, ka neizdzēšat vai neaizstājāt šo failu. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}
@@ -147,7 +147,7 @@ Izpildiet tālāk sniegtos norādījumus par NEET eksāmena veidlapas lietošanu
         <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
         </em>
         <p class="col-lg-10">
-        Praktizēšanai un apmācībai lejupielādējiet gatavu OMR NEET lapu PDF formātā.
+        Lejupielādējiet gatavu OMR NEET lapu PDF formātā praksei un apmācībai.
         </p>
    </div>
    <div class="col">
@@ -214,7 +214,7 @@ Izpildiet tālāk sniegtos norādījumus par NEET eksāmena veidlapas lietošanu
 <!--Feature-section Start - plain list
 {{% blocks/products/pf/feature-page-section  h2="Ieguvumi" %}}
 
-* Praktizēšanai un apmācībai lejupielādējiet gatavu OMR NEET lapu PDF formātā.
+* Lejupielādējiet gatavu OMR NEET lapu PDF formātā praksei un apmācībai.
 * Apstrādājiet desmitiem aizpildītu NEET veidlapu minūtē
 * Izcila atpazīšanas precizitāte, ko var vēl vairāk pielāgot, lai iegūtu perfektus rezultātus pat sarežģītos apstākļos.
 * Nav nepieciešams aprīkojums. Izmantojiet savu esošo biroja kopētāju vai pat viedtālruņa kameru, nevis dārgu OMR skeneri. Varat pat apstrādāt pagrieztus un sašķiebtus attēlus.

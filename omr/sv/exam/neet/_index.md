@@ -4,7 +4,7 @@ weight: 3920
 url: /sv/exam/neet/
 lang: sv
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Ladda ner ett färdigt OMR NEET-blad i PDF-format för övning och coachning. Behandla dussintals ifyllda NEET-formulär per minut.
 ---
 
@@ -36,13 +36,13 @@ description: Ladda ner ett färdigt OMR NEET-blad i PDF-format för övning och 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-För att lägga till det i ditt projekt behöver du bara installera paketet *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) i ditt projekt med följande kommando:
+För att lägga till det i ditt projekt behöver du bara installera paketet *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) i ditt projekt med följande kommando:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Installationspaket Aspose.OMR
  
 ```
 
@@ -56,7 +56,7 @@ Följ riktlinjerna nedan för att använda, anpassa och läsa NEET-examensformul
 
 <h3>Fyller i NEET-arket</h3>
 
-<p>NEET är en enhetlig tentamen med ett fast mönster. Sålunda måste kandidater följa exakta instruktioner under utbildningstesten för att bekanta sig med de faktiska testförväntningarna:</p>
+<p>NEET är en enhetlig tentamen med ett fast mönster. Således måste kandidater följa exakta instruktioner under utbildningstesten för att bekanta sig med de faktiska testförväntningarna:</p>
 <ul>
 	<li>Den maximala provtiden är 3 timmar 20 minuter (200 minuter).</li>
 	<li>Endast en bubbla ska fyllas per fråga.</li>

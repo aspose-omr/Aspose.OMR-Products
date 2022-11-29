@@ -4,7 +4,7 @@ weight: 3920
 url: /hu/exam/neet/
 lang: hu
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Töltsön le egy kész OMR NEET lapot PDF formátumban gyakorláshoz és coachinghoz. Percenként több tucat kitöltött NEET-űrlap feldolgozása.
 ---
 
@@ -16,11 +16,11 @@ description: Töltsön le egy kész OMR NEET lapot PDF formátumban gyakorlásho
 
 {{% blocks/products/pf/agp/content h2="National Eligibility cum Entrance Test" %}}
 
-<p>A National Eligibility cum Entrance Test (NEET) az egységes felvételi vizsga az MBBS, BDS, BAMS, BSMS, BUMS, BHMS és más orvosi kurzusok felvételéhez India főiskoláin, egyetemein és intézetein. A sikeres teszteredmény kötelező a külföldön alapfokú orvosi képzést folytató posztgraduális és egyetemi hallgatók számára. A NEET egy tollal-papírral végzett vizsga 180 kérdésből, ami szinte lehetetlenné teszi az eredmények kézi ellenőrzését és értékelését. Az automatizált űrlapolvasás (OMR) az értékelés kritikus elemévé válik.</p>
+<p>A National Eligibility cum Entrance Test (NEET) az egységes felvételi vizsga az MBBS, BDS, BAMS, BSMS, BUMS, BHMS és más orvosi kurzusok felvételéhez India főiskoláin, egyetemein és intézetein. A sikeres teszteredmény kötelező a külföldön egészségügyi alapképzést folytató posztgraduális és egyetemi hallgatók számára. A NEET egy tollal-papírral végzett vizsga 180 kérdésből, ami szinte lehetetlenné teszi az eredmények kézi ellenőrzését és értékelését. Az automatizált űrlapolvasás (OMR) az értékelés kritikus elemévé válik.</p>
 
 <p>Az Aspose.OMR egy nagy teljesítményű optikai jelfelismerő (OMR) motor, amely egy hagyományos számítógépet optikai olvasóvá/pontozó géppé tud alakítani. A feleletválasztós tesztek készítése, felismerése és pontozása triviális feladattá válik, még azok számára is, akik minimálisan ismerik a programozási nyelveket. Felejtsd el az OMR válaszlapok fárasztó és hibákra hajlamos kézi pontozását vagy a Scantron készülékre való várakozást. Csak készítsen fényképet egy kitöltött OMR-űrlapról az órán, és azonnal megkapja az eredményt.</p>
 
-<p>Töltse le az űrlapot a NEET vizsga gyakorlásához iskolákban, intézetekben és edzői központokban. Használja önálló gyakorlásra, valamint a NEET-aspiránsok képzésére. A letölthető űrlapot saját belátása szerint teljesen ingyenesen használhatja.</p>
+<p>Töltse le az űrlapot a NEET vizsga gyakorlásához iskolákban, intézetekben és edzői központokban. Használja önálló gyakorlásra, valamint a NEET-aspiránsok képzésére. A letölthető űrlapot teljesen ingyenesen használhatja, saját belátása szerint.</p>
 
 <div class="col-lg-12">
 	<div class="row">
@@ -36,13 +36,13 @@ description: Töltsön le egy kész OMR NEET lapot PDF formátumban gyakorlásho
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Ha hozzá szeretné adni a projekthez, csak telepítenie kell az *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) csomagot a projektben a következő paranccsal:
+Ha hozzá szeretné adni a projekthez, csak telepítenie kell az *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) csomagot a projektben a következő paranccsal:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
-```cs
+``` cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 
@@ -170,7 +170,7 @@ Kövesse az alábbi irányelveket a NEET vizsgaűrlap használatára, testreszab
         <em class="fa fa-language ico-blue fa-2x col-lg-2">
         </em>
         <p class="col-lg-10">
-        Nincs szükség felszerelésre. Használja meglévő irodai másolóját vagy akár okostelefon kameráját egy drága OMR szkenner helyett. Még az elforgatott és ferde képeket is feldolgozhatja.
+        Nincs szükség felszerelésre. Használja meglévő irodai fénymásolóját vagy akár okostelefon kameráját egy drága OMR szkenner helyett. Még az elforgatott és ferde képeket is feldolgozhatja.
         </p>
    </div>
    </div>
@@ -217,7 +217,7 @@ Kövesse az alábbi irányelveket a NEET vizsgaűrlap használatára, testreszab
 * Töltsön le egy kész OMR NEET lapot PDF formátumban gyakorláshoz és coachinghoz.
 * Percenként több tucat kitöltött NEET-űrlap feldolgozása
 * Kiváló felismerési pontosság, amely tovább finomítható a tökéletes eredmény érdekében még kihívásokkal teli körülmények között is.
-* Nincs szükség felszerelésre. Használja meglévő irodai másolóját vagy akár okostelefon kameráját egy drága OMR szkenner helyett. Még az elforgatott és ferde képeket is feldolgozhatja.
+* Nincs szükség felszerelésre. Használja meglévő irodai fénymásolóját vagy akár okostelefon kameráját egy drága OMR szkenner helyett. Még az elforgatott és ferde képeket is feldolgozhatja.
 * A rugalmas jelölőnyelv lehetővé teszi bármilyen elrendezésű és bonyolultságú géppel olvasható OMR-formák tervezését. A NEET lap csak egy a használati esetek közül.
 * Tegye személyre a NEET űrlapot QR-kódokkal, vonalkódokkal és képekkel.
 * Támogatja az összes népszerű papírméretet, valamint számos nem szabványos papírméretet.

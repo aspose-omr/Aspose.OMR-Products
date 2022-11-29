@@ -1,15 +1,15 @@
 ﻿---
-title: Créer et lire des fiches NEET lisibles par machine
+title: Création et lecture de fiches NEET lisibles par machine
 weight: 3920
 url: /fr/exam/neet/
 lang: fr
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Téléchargez une fiche OMR NEET prête à l'emploi au format PDF pour la pratique et le coaching. Traitez des dizaines de formulaires NEET remplis par minute.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Fiche OMR NEET" h2="Créer et lire des fiches NEET lisibles par machine" pfName="Aspose.OMR" subTitlepfName="Faire le formulaire NEET d'examen OMR" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg">}}
+{{< blocks/products/pf/upper-banner h1="Fiche OMR NEET" h2="Création et lecture de fiches NEET lisibles par machine" pfName="Aspose.OMR" subTitlepfName="Faire le formulaire NEET d'examen OMR" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/ocr/headers/aspose_ocr-for-net.svg">}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="Faire le formulaire NEET d'examen OMR" >}}
 
@@ -36,13 +36,13 @@ description: Téléchargez une fiche OMR NEET prête à l'emploi au format PDF p
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Pour l'ajouter à votre projet, il vous suffit d'installer le package *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) dans votre projet avec la commande suivante :
+Pour l'ajouter à votre projet, il vous suffit d'installer le package *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) dans votre projet avec la commande suivante :
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Install-Package Aspose.OMR
  
 ```
 

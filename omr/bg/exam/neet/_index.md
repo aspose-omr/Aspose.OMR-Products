@@ -4,7 +4,7 @@ weight: 3920
 url: /bg/exam/neet/
 lang: bg
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Изтеглете готов лист за OMR NEET в PDF формат за практикуване и обучение. Обработвайте десетки попълнени NEET формуляри за минута.
 ---
 
@@ -36,13 +36,13 @@ description: Изтеглете готов лист за OMR NEET в PDF фор�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-За да го добавите към проекта си, трябва само да инсталирате пакета *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) във вашия проект със следната команда:
+За да го добавите към проекта си, просто трябва да инсталирате пакета *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) във вашия проект със следната команда:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Инсталиране на пакет Aspose.OMR
  
 ```
 

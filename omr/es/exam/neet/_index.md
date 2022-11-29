@@ -4,7 +4,7 @@ weight: 3920
 url: /es/exam/neet/
 lang: es
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Descargue una hoja OMR NEET lista para usar en formato PDF para practicar y entrenar. Procese docenas de formularios NEET completos por minuto.
 ---
 
@@ -18,9 +18,9 @@ description: Descargue una hoja OMR NEET lista para usar en formato PDF para pra
 
 <p>La Prueba Nacional de Elegibilidad con Ingreso (NEET) es el examen de ingreso uniforme para la admisión a MBBS, BDS, BAMS, BSMS, BUMS, BHMS y otros cursos de medicina en colegios, universidades e institutos de la India. Un resultado exitoso de la prueba es imprescindible para los estudiantes de posgrado y pregrado que buscan una educación médica primaria en el extranjero. El NEET es un examen de lápiz y papel con 180 preguntas, lo que hace que sea casi imposible verificar y evaluar los resultados manualmente. La lectura automática de formularios (OMR) se convierte en un elemento crítico de la evaluación.</p>
 
-<p>Aspose.OMR es un potente motor de reconocimiento óptico de marcas (OMR) que puede convertir una computadora normal en un lector óptico/máquina de puntuación. Crear, reconocer y puntuar exámenes de opción múltiple se convierte en una tarea trivial, incluso para aquellos con conocimientos mínimos de lenguajes de programación. Olvídese de la puntuación manual tediosa y propensa a errores de las hojas de respuestas OMR o de esperar a que llegue un dispositivo Scantron. Simplemente tome una foto de un formulario OMR completado en clase y obtenga un resultado al instante.</p>
+<p>Aspose.OMR es un potente motor de reconocimiento óptico de marcas (OMR) que puede convertir una computadora normal en un lector óptico/máquina de puntuación. Crear, reconocer y puntuar pruebas de opción múltiple se convierte en una tarea trivial, incluso para aquellos con conocimientos mínimos de lenguajes de programación. Olvídese de la puntuación manual tediosa y propensa a errores de las hojas de respuestas de OMR o de la espera de un dispositivo Scantron. Simplemente tome una foto de un formulario OMR completado en clase y obtenga un resultado al instante.</p>
 
-<p>Descarga el formulario para practicar el examen NEET en escuelas, institutos y centros de entrenamiento. Úselo para la práctica personal, así como para capacitar a los aspirantes NINI. El formulario descargable es de uso completamente gratuito a su discreción.</p>
+<p>Descarga el formulario para practicar el examen NEET en escuelas, institutos y centros de entrenamiento. Úselo para la práctica personal, así como para capacitar a los aspirantes NEET. El formulario descargable es de uso completamente gratuito a su discreción.</p>
 
 <div class="col-lg-12">
 	<div class="row">
@@ -30,19 +30,19 @@ description: Descargue una hoja OMR NEET lista para usar en formato PDF para pra
 	</div>
 </div>
 
-<p>Use Aspose.OMR para personalizar cada aspecto del formulario NEET OMR, incluidos el color y la fuente, y agregue su marca. Simplemente modifique los archivos de origen y genere una página PDF o una imagen PNG imprimible para su tipo de papel preferido. Para practicar áreas específicas de la prueba, puede incluso cambiar el número de preguntas y excluir ciertas secciones, como Física, Química o Biología.</p> 
+<p>Use Aspose.OMR para personalizar cada aspecto del formulario NEET OMR, incluidos el color y la fuente, y agregue su marca. Simplemente modifique los archivos de origen y genere una página PDF o una imagen PNG imprimible para su tipo de papel preferido. Para practicar áreas específicas de la prueba, puedes incluso cambiar el número de preguntas y excluir ciertas secciones, como Física, Química o Biología.</p> 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Para agregarlo a su proyecto, solo necesita instalar el paquete *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) en su proyecto con el siguiente comando:
+Para agregarlo a su proyecto, solo necesita instalar el paquete *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) en su proyecto con el siguiente comando:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Paquete de instalación Aspose.OMR
  
 ```
 
@@ -54,7 +54,7 @@ Para agregarlo a su proyecto, solo necesita instalar el paquete *Aspose.OCR* [Nu
 {{% blocks/products/pf/feature-page-section  h2="Instrucciones" %}}
 Siga las pautas a continuación sobre el uso, la personalización y la lectura del formulario de examen NEET con Aspose.OMR.
 
-<h3>Llenar la hoja NINI</h3>
+<h3>Llenar la hoja NEET</h3>
 
 <p>NEET es un examen uniforme con un patrón fijo. Por lo tanto, los candidatos deben seguir instrucciones precisas durante las pruebas de capacitación para familiarizarse con las expectativas reales de la prueba:</p>
 <ul>

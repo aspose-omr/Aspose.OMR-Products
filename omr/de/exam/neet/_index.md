@@ -4,7 +4,7 @@ weight: 3920
 url: /de/exam/neet/
 lang: de
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Laden Sie ein vorgefertigtes OMR NEET-Blatt im PDF-Format zum Üben und Coaching herunter. Verarbeiten Sie Dutzende ausgefüllter NEET-Formulare pro Minute.
 ---
 
@@ -36,13 +36,13 @@ description: Laden Sie ein vorgefertigtes OMR NEET-Blatt im PDF-Format zum Üben
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Um es zu Ihrem Projekt hinzuzufügen, müssen Sie nur das Paket *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) in Ihrem Projekt mit dem folgenden Befehl installieren:
+Um es zu Ihrem Projekt hinzuzufügen, müssen Sie nur das Paket *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) in Ihrem Projekt mit dem folgenden Befehl installieren:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
-```cs
+„cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Installationspaket Aspose.OMR
  
 ```
 
@@ -99,7 +99,7 @@ Befolgen Sie die nachstehenden Richtlinien zum Verwenden, Anpassen und Lesen des
 
 <h3>Erkennen des ausgefüllten NEET-Bogens</h3>
 
-<p>Um ein ausgefülltes NEET-Formular zu erkennen, digitalisieren Sie es in einem der unterstützten Formate. Ein teurer Hardwareleser wie Scantron ist nicht erforderlich. Für beste Ergebnisse reicht ein einfacher Büroscanner oder Multifunktionskopierer aus. Wenn Sie keinen Scanner haben, fotografieren Sie das Formular einfach mit einem modernen Smartphone oder einer Kamera.</p>
+<p>Um ein ausgefülltes NEET-Formular zu erkennen, digitalisieren Sie es in einem der unterstützten Formate. Ein teures Hardware-Lesegerät wie Scantron ist nicht erforderlich. Für beste Ergebnisse reicht ein einfacher Büroscanner oder Multifunktionskopierer aus. Wenn Sie keinen Scanner haben, fotografieren Sie das Formular einfach mit einem modernen Smartphone oder einer Kamera.</p>
 <p>Verwenden Sie den folgenden Code, um das ausgefüllte NEET-Blatt zu lesen:</p>
 
 {{% blocks/products/pf/agp/code-block title="C#-Code zum Erkennen eines ausgefüllten NEET-Formulars" offSpacer="true" %}}
@@ -115,7 +115,7 @@ Befolgen Sie die nachstehenden Richtlinien zum Verwenden, Anpassen und Lesen des
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/neet.omr"><b>neet.omr</b></a> Datei enthält ein Erkennungsmuster, das verwendet wird, um hochpräzise Ergebnisse mit der Aspose.OMR-Erkennungsengine zu erzeugen. Es wird zusammen mit der druckbaren NEET-Vorlage generiert; Stellen Sie sicher, dass Sie diese Datei nicht löschen oder ersetzen. </p>
+<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/neet.omr"><b>neet.omr</b></a> Datei enthält ein Erkennungsmuster, das verwendet wird, um hochpräzise Ergebnisse mit der Aspose.OMR-Erkennungs-Engine zu erzeugen. Es wird zusammen mit der druckbaren NEET-Vorlage generiert; Stellen Sie sicher, dass Sie diese Datei nicht löschen oder ersetzen. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

@@ -4,7 +4,7 @@ weight: 3920
 url: /sl/exam/neet/
 lang: sl
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Prenesite že pripravljen list OMR NEET v formatu PDF za vadbo in inštruiranje. Obdelajte na desetine izpolnjenih obrazcev NEET na minuto.
 ---
 
@@ -36,13 +36,13 @@ description: Prenesite že pripravljen list OMR NEET v formatu PDF za vadbo in i
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Če ga želite dodati svojemu projektu, morate samo namestiti paket *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) v svoj projekt z naslednjim ukazom:
+Če ga želite dodati svojemu projektu, morate samo namestiti paket *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) v svoj projekt z naslednjim ukazom:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Namestitev paketa Aspose.OMR
  
 ```
 
@@ -52,7 +52,7 @@ description: Prenesite že pripravljen list OMR NEET v formatu PDF za vadbo in i
 
 
 {{% blocks/products/pf/feature-page-section  h2="Navodila" %}}
-Upoštevajte spodnje smernice o uporabi, prilagajanju in branju obrazca za izpit NEET z Aspose.OMR.
+Sledite spodnjim smernicam o uporabi, prilagajanju in branju obrazca za izpit NEET z Aspose.OMR.
 
 <h3>Izpolnjevanje lista NEET</h3>
 
@@ -102,7 +102,7 @@ Upoštevajte spodnje smernice o uporabi, prilagajanju in branju obrazca za izpit
 <p>Če želite prepoznati izpolnjen NEET obrazec, ga digitalizirajte v enem od podprtih formatov. Ni potrebe po dragem čitalniku strojne opreme, kot je Scantron. Za najboljše rezultate zadostuje že osnovni pisarniški skener ali večnamenski kopirni stroj. Če nimate optičnega bralnika, preprosto fotografirajte obrazec s katerim koli sodobnim pametnim telefonom ali fotoaparatom.</p>
 <p>Za branje izpolnjenega lista NEET uporabite naslednjo kodo:</p>
 
-{{% blocks/products/pf/agp/code-block title="Koda C# za prepoznavanje izpolnjenega NEET obrazca" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Koda C# za prepoznavanje izpolnjenega obrazca NEET" offSpacer="true" %}}
 
 ```cs
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /kn/exam/neet/
 lang: kn
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: ಅಭ್ಯಾಸ ಮತ್ತು ತರಬೇತಿಗಾಗಿ PDF ಸ್ವರೂಪದಲ್ಲಿ ಸಿದ್ಧ OMR NEET ಹಾಳೆಯನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ. ಪ್ರತಿ ನಿಮಿಷಕ್ಕೆ ಡಜನ್‌ಗಟ್ಟಲೆ NEET ಫಾರ್ಮ್‌ಗಳನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಿ.
 ---
 
@@ -36,13 +36,13 @@ description: ಅಭ್ಯಾಸ ಮತ್ತು ತರಬೇತಿಗಾಗಿ P
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-ಇದನ್ನು ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು, ನೀವು ಈ ಕೆಳಗಿನ ಆಜ್ಞೆಯೊಂದಿಗೆ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) ಪ್ಯಾಕೇಜ್ ಅನ್ನು ಸ್ಥಾಪಿಸಬೇಕು:
+ಇದನ್ನು ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು, ನೀವು ಈ ಕೆಳಗಿನ ಆಜ್ಞೆಯೊಂದಿಗೆ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) ಪ್ಯಾಕೇಜ್ ಅನ್ನು ಸ್ಥಾಪಿಸಬೇಕು:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
-```cs
+``` ಸಿಎಸ್
 
-  PM> Install-Package Aspose.OCR
+  PM> ಇನ್‌ಸ್ಟಾಲ್-ಪ್ಯಾಕೇಜ್ Aspose.OMR
  
 ```
 

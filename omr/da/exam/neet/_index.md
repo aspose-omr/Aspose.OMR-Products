@@ -4,7 +4,7 @@ weight: 3920
 url: /da/exam/neet/
 lang: da
 langdirlevel: 2
-locales: ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
+locales: as,he,or,pa,ru,ar,fa,bg,cs,da,de,es,el,hu,hr,fr,nl,id,it,lt,lv,mk,pl,pt,ro,sk,sl,sv,sr,vi,th,tr,ko,ja,bn,gu,hi,kn,mr,ne,ta,te,ur,sd
 description: Download et færdigt OMR NEET ark i PDF-format til øvelse og coaching. Behandl snesevis af udfyldte NEET-formularer i minuttet.
 ---
 
@@ -36,13 +36,13 @@ description: Download et færdigt OMR NEET ark i PDF-format til øvelse og coach
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-For at tilføje det til dit projekt skal du blot installere pakken *Aspose.OCR* [NuGet](https://www.nuget.org/packages/aspose.ocr) i dit projekt med følgende kommando:
+For at tilføje det til dit projekt, skal du blot installere pakken *Aspose.OMR* [NuGet](https://www.nuget.org/packages/aspose.omr) i dit projekt med følgende kommando:
 
 {{% blocks/products/pf/agp/code-block title="" offSpacer="true" %}}
 
 ```cs
 
-  PM> Install-Package Aspose.OCR
+  PM> Installer-pakke Aspose.OMR
  
 ```
 
@@ -56,7 +56,7 @@ Følg nedenstående retningslinjer for brug, tilpasning og læsning af NEET eksa
 
 <h3>Udfyldelse af NEET-arket</h3>
 
-<p>NEET er en ensartet eksamen med et fast mønster. Således skal kandidater følge præcise instruktioner under træningsprøverne for at sætte sig ind i de faktiske testforventninger:</p>
+<p>NEET er en ensartet eksamen med et fast mønster. Således skal kandidater følge præcise instruktioner under træningsprøverne for at gøre sig bekendt med de faktiske testforventninger:</p>
 <ul>
 	<li>Den maksimale eksamensvarighed er 3 timer 20 minutter (200 minutter).</li>
 	<li>Der skal kun udfyldes én boble pr. spørgsmål.</li>
@@ -179,7 +179,7 @@ Følg nedenstående retningslinjer for brug, tilpasning og læsning af NEET eksa
         <em class="fa fa-font ico-blue fa-2x col-lg-2">
         </em>
         <p class="col-lg-10">
-        Fleksibelt markup-sprog giver dig mulighed for at designe maskinlæsbare OMR-former af enhver layout og kompleksitet. NEET ark er blot et af anvendelsesmulighederne.
+        Fleksibelt markup-sprog giver dig mulighed for at designe maskinlæsbare OMR-former af enhver layout og kompleksitet. NEET-ark er blot et af anvendelsesmulighederne.
         </p>
    </div>
    <div class="col">
@@ -218,7 +218,7 @@ Følg nedenstående retningslinjer for brug, tilpasning og læsning af NEET eksa
 * Behandl snesevis af udfyldte NEET-formularer i minuttet
 * Overlegen genkendelsesnøjagtighed, der kan finjusteres yderligere for perfekte resultater selv under udfordrende forhold.
 * Intet udstyr nødvendigt. Brug din eksisterende kontorkopimaskine eller endda et smartphone-kamera i stedet for en dyr OMR-scanner. Du kan endda behandle roterede og skæve billeder.
-* Fleksibelt markup-sprog giver dig mulighed for at designe maskinlæsbare OMR-former af enhver layout og kompleksitet. NEET ark er blot et af anvendelsesmulighederne.
+* Fleksibelt markup-sprog giver dig mulighed for at designe maskinlæsbare OMR-former af enhver layout og kompleksitet. NEET-ark er blot et af anvendelsesmulighederne.
 * Tilpas NEET-formularen med QR-koder, stregkoder og billeder.
 * Understøttelse af alle populære papirstørrelser samt en række ikke-standardiserede.
 * Læs den udfyldte NEET-formular, og gem resultaterne i JSON-, XML- eller CSV-formater. De kan programmatisk analyseres, scores og importeres til enhver relationel eller NoSQL-database.
