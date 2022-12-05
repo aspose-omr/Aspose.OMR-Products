@@ -26,9 +26,10 @@ description: Atsisiųskite paruoštą OMR CBSE lapą PDF formatu praktikai ir mo
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Galite visiškai tinkinti OMR formą pakeisdami anksčiau pateiktus šaltinius ir iš naujo sugeneruodami lapą pageidaujamam popieriaus tipui. Galite keisti klausimų skaičių ir tvarką bei sukurti konkrečių dalykų formas, puikiai pritaikytas jūsų mokymo programai.</p>
@@ -119,7 +120,7 @@ Vadovaukitės toliau pateiktomis gairėmis, kaip naudoti, tinkinti ir skaityti C
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> yra vadinamasis atpažinimo šablonas – specialus failas, naudojamas labai tiksliems rezultatams gauti naudojant Aspose.OMR atpažinimo variklį. Jis generuojamas kartu su spausdinamu CBSE šablonu, įsitikinkite, kad neištrinate ir nepakeisite to failo. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> yra vadinamasis atpažinimo šablonas – specialus failas, naudojamas labai tiksliems rezultatams gauti naudojant Aspose.OMR atpažinimo variklį. Jis generuojamas kartu su spausdinamu CBSE šablonu, įsitikinkite, kad neištrinate ir nepakeisite to failo. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

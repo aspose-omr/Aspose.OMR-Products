@@ -26,9 +26,10 @@ description: Download a ready-made OMR CBSE sheet in PDF format for practicing a
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>You can completely customize the OMR form by changing the sources above and re-generating the sheet for your preferred paper type. You can change the number and order of questions and create subject-specific forms that are perfectly tailored to your curriculum.</p>
@@ -119,7 +120,7 @@ Follow the guidelines below on using, customizing, and reading the CBSE exam for
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> is so-called recognition pattern – a special file that is used to produce highly accurate results with the Aspose.OMR recognition engine. It is generated alongside the printable CBSE template,  make sure you do not delete or replace that file. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> is so-called recognition pattern – a special file that is used to produce highly accurate results with the Aspose.OMR recognition engine. It is generated alongside the printable CBSE template,  make sure you do not delete or replace that file. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

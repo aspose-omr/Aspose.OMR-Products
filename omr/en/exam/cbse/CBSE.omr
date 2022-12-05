@@ -1,0 +1,721 @@
+{
+	"Version": "1.0",
+	"Name": "MyTemplate",
+	"Pages": [
+		{
+			"Height": 3295,
+			"Width": 2551,
+			"Elements": [
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question1",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "1385",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1385",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1459",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1533",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1607",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question2",
+					"Width": "662",
+					"Height": "214",
+					"Top": "1846",
+					"Left": "559",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1846",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1920",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1994",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2068",
+							"Left": "559",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question3",
+					"Width": "662",
+					"Height": "214",
+					"Top": "2815",
+					"Left": "559",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2815",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2889",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2963",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "3037",
+							"Left": "559",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "BarcodeDownloadable",
+					"Name": "Page1",
+					"Width": "150",
+					"Height": "150",
+					"Top": "1572",
+					"Left": "2391",
+					"BarcodeType": "QR",
+					"QrVersion": 0
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint0",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint1",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint2",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint3",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint4",
+					"Width": "128",
+					"Height": "178",
+					"Top": "331",
+					"Left": "2398",
+					"ReferenceType": "Rotation"
+				}
+			],
+			"ImageFormat": ".png",
+			"ImageName": null,
+			"RotationPointPosition": "TopRight1"
+		},
+		{
+			"Height": 0,
+			"Width": 0,
+			"Elements": [
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question4",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "184",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "184",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "258",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "332",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "406",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question5",
+					"Width": "662",
+					"Height": "214",
+					"Top": "634",
+					"Left": "559",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "634",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "708",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "782",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "856",
+							"Left": "559",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question6",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "1383",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1383",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1457",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1531",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1605",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question7",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "1764",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1764",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1838",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1912",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1986",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question8",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "2194",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2194",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2268",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2342",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2416",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question9",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "2575",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2575",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2649",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2723",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2797",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question10",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "2956",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2956",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "3030",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "3104",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "3178",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "BarcodeDownloadable",
+					"Name": "Page2",
+					"Width": "150",
+					"Height": "150",
+					"Top": "1572",
+					"Left": "2391",
+					"BarcodeType": "QR",
+					"QrVersion": 0
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint0",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint1",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint2",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint3",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint4",
+					"Width": "128",
+					"Height": "178",
+					"Top": "331",
+					"Left": "2398",
+					"ReferenceType": "Rotation"
+				}
+			],
+			"ImageFormat": null,
+			"ImageName": null,
+			"RotationPointPosition": "TopRight1"
+		},
+		{
+			"Height": 0,
+			"Width": 0,
+			"Elements": [
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question11",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "677",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "677",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "751",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "825",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "899",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question12",
+					"Width": "662",
+					"Height": "214",
+					"Top": "1127",
+					"Left": "559",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1127",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1201",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1275",
+							"Left": "559",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1349",
+							"Left": "559",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Question13",
+					"Width": "1828",
+					"Height": "214",
+					"Top": "2637",
+					"Left": "539",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 60,
+					"BubbleWidth": 60,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2637",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2711",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2785",
+							"Left": "539",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2859",
+							"Left": "539",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "BarcodeDownloadable",
+					"Name": "Page3",
+					"Width": "150",
+					"Height": "150",
+					"Top": "1572",
+					"Left": "2391",
+					"BarcodeType": "QR",
+					"QrVersion": 0
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint0",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint1",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint2",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint3",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint4",
+					"Width": "128",
+					"Height": "178",
+					"Top": "331",
+					"Left": "2398",
+					"ReferenceType": "Rotation"
+				}
+			],
+			"ImageFormat": null,
+			"ImageName": null,
+			"RotationPointPosition": "TopRight1"
+		}
+	],
+	"TemplateId": "",
+	"FinalizationComplete": false,
+	"IsGenerated": true
+}

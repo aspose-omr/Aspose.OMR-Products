@@ -26,9 +26,10 @@ description: Preuzmite gotovu OMR CBSE tablicu u PDF formatu za vježbanje i tre
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>OMR obrazac možete potpuno prilagoditi promjenom gore navedenih izvora i ponovnim generiranjem lista za željenu vrstu papira. Možete promijeniti broj i redoslijed pitanja i izraditi obrasce specifične za predmet koji su savršeno prilagođeni vašem nastavnom planu i programu.</p>
@@ -119,7 +120,7 @@ Slijedite donje smjernice o korištenju, prilagodbi i čitanju obrasca za CBSE i
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> je takozvani uzorak prepoznavanja – posebna datoteka koja se koristi za proizvodnju vrlo preciznih rezultata s Aspose.OMR mehanizmom za prepoznavanje. Generira se uz CBSE predložak za ispis, pazite da ne izbrišete ili zamijenite tu datoteku. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> je takozvani uzorak prepoznavanja – posebna datoteka koja se koristi za proizvodnju vrlo preciznih rezultata s Aspose.OMR mehanizmom za prepoznavanje. Generira se uz CBSE predložak za ispis, pazite da ne izbrišete ili zamijenite tu datoteku. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

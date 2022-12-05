@@ -26,9 +26,10 @@ description: Stáhněte si připravený list OMR CBSE ve formátu PDF pro procvi
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Formulář OMR můžete zcela přizpůsobit změnou výše uvedených zdrojů a opětovným vygenerováním listu pro preferovaný typ papíru. Můžete změnit počet a pořadí otázek a vytvořit tematické formuláře, které jsou dokonale přizpůsobeny vašemu učebnímu plánu.</p>
@@ -119,7 +120,7 @@ Při používání, přizpůsobení a čtení formuláře zkoušky CBSE pomocí 
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> je tzv. rozpoznávací vzor – speciální soubor, který se používá k vytváření vysoce přesných výsledků s rozpoznávacím jádrem Aspose.OMR. Generuje se spolu s tisknutelnou šablonou CBSE, ujistěte se, že tento soubor neodstraníte ani nenahradíte. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> je tzv. rozpoznávací vzor – speciální soubor, který se používá k vytváření vysoce přesných výsledků s rozpoznávacím jádrem Aspose.OMR. Generuje se spolu s tisknutelnou šablonou CBSE, ujistěte se, že tento soubor neodstraníte ani nenahradíte. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

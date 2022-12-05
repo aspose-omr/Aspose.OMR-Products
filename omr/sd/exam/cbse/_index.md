@@ -26,9 +26,10 @@ description: ڊائون لوڊ ڪريو تيار ٿيل OMR CBSE شيٽ PDF فا
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>توھان مٿي ڏنل ماخذن کي تبديل ڪندي ۽ پنھنجي پسند جي ڪاغذ جي قسم لاءِ شيٽ کي ٻيهر ٺاھيندي OMR فارم کي مڪمل طور تي ترتيب ڏئي سگھو ٿا. توهان سوالن جو تعداد ۽ ترتيب تبديل ڪري سگهو ٿا ۽ مضمونن جي مخصوص فارم ٺاهي سگهو ٿا جيڪي مڪمل طور تي توهان جي نصاب جي مطابق آهن.</p>
@@ -119,7 +120,7 @@ Aspose.OMR سان CBSE امتحاني فارم استعمال ڪرڻ، ترتي�
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> نام نهاد سڃاڻپ وارو نمونو آهي - هڪ خاص فائل جيڪا Aspose.OMR شناخت انجڻ سان انتهائي درست نتيجا پيدا ڪرڻ لاءِ استعمال ڪئي ويندي آهي. اھو ٺاھيو ويو آھي پرنٽ لائق CBSE ٽيمپليٽ سان گڏ، پڪ ڪريو ته توھان ان فائل کي حذف يا تبديل نه ڪيو. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> نام نهاد سڃاڻپ وارو نمونو آهي - هڪ خاص فائل جيڪا Aspose.OMR شناخت انجڻ سان انتهائي درست نتيجا پيدا ڪرڻ لاءِ استعمال ڪئي ويندي آهي. اھو ٺاھيو ويو آھي پرنٽ لائق CBSE ٽيمپليٽ سان گڏ، پڪ ڪريو ته توھان ان فائل کي حذف يا تبديل نه ڪيو. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

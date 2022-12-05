@@ -26,9 +26,10 @@ description: הורד גיליון OMR CBSE מוכן בפורמט PDF לתרגו
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>אתה יכול להתאים אישית לחלוטין את טופס OMR על ידי שינוי המקורות לעיל והפקה מחדש של הגיליון עבור סוג הנייר המועדף עליך. אתה יכול לשנות את מספר וסדר השאלות וליצור טפסים ספציפיים לנושא המותאמים בצורה מושלמת לתוכנית הלימודים שלך.</p>
@@ -119,7 +120,7 @@ description: הורד גיליון OMR CBSE מוכן בפורמט PDF לתרגו
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> הוא מה שנקרא תבנית זיהוי - קובץ מיוחד המשמש להפקת תוצאות מדויקות ביותר עם מנוע הזיהוי Aspose.OMR. הוא נוצר לצד תבנית ה-CBSE הניתנת להדפסה, ודא שאינך מוחק או מחליף את הקובץ. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> הוא מה שנקרא תבנית זיהוי - קובץ מיוחד המשמש להפקת תוצאות מדויקות ביותר עם מנוע הזיהוי Aspose.OMR. הוא נוצר לצד תבנית ה-CBSE הניתנת להדפסה, ודא שאינך מוחק או מחליף את הקובץ. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

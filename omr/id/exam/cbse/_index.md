@@ -26,9 +26,10 @@ description: Unduh lembar CBSE OMR yang sudah jadi dalam format PDF untuk latiha
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Anda dapat sepenuhnya menyesuaikan formulir OMR dengan mengubah sumber di atas dan membuat ulang lembaran untuk jenis kertas pilihan Anda. Anda dapat mengubah jumlah dan urutan pertanyaan serta membuat formulir khusus mata pelajaran yang disesuaikan dengan sempurna untuk kurikulum Anda.</p>
@@ -119,7 +120,7 @@ Ikuti panduan di bawah ini untuk menggunakan, menyesuaikan, dan membaca formulir
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> yang disebut pola pengenalan – file khusus yang digunakan untuk menghasilkan hasil yang sangat akurat dengan mesin pengenalan Aspose.OMR. Itu dihasilkan bersama template CBSE yang dapat dicetak, pastikan Anda tidak menghapus atau mengganti file itu. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> yang disebut pola pengenalan – file khusus yang digunakan untuk menghasilkan hasil yang sangat akurat dengan mesin pengenalan Aspose.OMR. Itu dihasilkan bersama template CBSE yang dapat dicetak, pastikan Anda tidak menghapus atau mengganti file itu. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

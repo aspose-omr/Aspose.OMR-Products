@@ -26,9 +26,10 @@ description: 練習と指導のために、既製の OMR CBSE シートを PDF �
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>上記のソースを変更し、好みの用紙タイプのシートを再生成することで、OMR フォームを完全にカスタマイズできます。質問の数と順序を変更し、カリキュラムに完全に合わせた科目固有のフォームを作成できます。</p>
@@ -119,7 +120,7 @@ Aspose.OMR での CBSE 試験フォームの使用、カスタマイズ、およ
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> いわゆる認識パターンです。これは、Aspose.OMR 認識エンジンで非常に正確な結果を生成するために使用される特別なファイルです。これは、印刷可能な CBSE テンプレートと一緒に生成されます。そのファイルを削除したり置き換えたりしないでください。 </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> いわゆる認識パターンです。これは、Aspose.OMR 認識エンジンで非常に正確な結果を生成するために使用される特別なファイルです。これは、印刷可能な CBSE テンプレートと一緒に生成されます。そのファイルを削除したり置き換えたりしないでください。 </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

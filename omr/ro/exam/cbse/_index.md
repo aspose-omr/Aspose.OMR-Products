@@ -26,9 +26,10 @@ description: Descărcați o fișă OMR CBSE gata făcută în format PDF pentru 
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Puteți personaliza complet formularul OMR schimbând sursele de mai sus și regenerând foaia pentru tipul de hârtie preferat. Puteți modifica numărul și ordinea întrebărilor și puteți crea formulare specifice disciplinei, care sunt perfect adaptate curriculum-ului dvs.</p>
@@ -119,7 +120,7 @@ Urmați instrucțiunile de mai jos privind utilizarea, personalizarea și citire
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> este așa-numitul model de recunoaștere – un fișier special care este utilizat pentru a produce rezultate extrem de precise cu motorul de recunoaștere Aspose.OMR. Este generat alături de șablonul CBSE imprimabil, asigurați-vă că nu ștergeți sau înlocuiți acel fișier. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> este așa-numitul model de recunoaștere – un fișier special care este utilizat pentru a produce rezultate extrem de precise cu motorul de recunoaștere Aspose.OMR. Este generat alături de șablonul CBSE imprimabil, asigurați-vă că nu ștergeți sau înlocuiți acel fișier. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

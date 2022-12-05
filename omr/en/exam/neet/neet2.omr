@@ -1,0 +1,9342 @@
+{
+	"Version": "1.0",
+	"Name": "MyTemplate",
+	"Pages": [
+		{
+			"Height": 3295,
+			"Width": 2551,
+			"Elements": [
+				{
+					"Type": "CompositeGridOmr:#Aspose.OMR.TemplateModel",
+					"Name": "Candidate UID",
+					"Width": "205",
+					"Height": "40",
+					"Top": "248",
+					"Left": "1322",
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1322",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1322",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1377",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1377",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1432",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1432",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1487",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1487",
+								"IsValid": true
+							}
+						]
+					]
+				},
+				{
+					"Type": "CompositeGridOmr:#Aspose.OMR.TemplateModel",
+					"Name": "Centre Code",
+					"Width": "205",
+					"Height": "40",
+					"Top": "248",
+					"Left": "1590",
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1590",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1590",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1645",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1645",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1700",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1700",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1755",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1755",
+								"IsValid": true
+							}
+						]
+					]
+				},
+				{
+					"Type": "CompositeGridOmr:#Aspose.OMR.TemplateModel",
+					"Name": "Roll No.",
+					"Width": "205",
+					"Height": "40",
+					"Top": "248",
+					"Left": "1843",
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1843",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1843",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1898",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1898",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "1953",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "1953",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "2008",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "2008",
+								"IsValid": true
+							}
+						]
+					]
+				},
+				{
+					"Type": "CompositeGridOmr:#Aspose.OMR.TemplateModel",
+					"Name": "11th Marks (%)",
+					"Width": "95",
+					"Height": "40",
+					"Top": "248",
+					"Left": "2150",
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "2150",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "2150",
+								"IsValid": true
+							}
+						],
+						[
+							{
+								"Value": "0",
+								"Top": "310",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "1",
+								"Top": "380",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "2",
+								"Top": "450",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "3",
+								"Top": "520",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "4",
+								"Top": "590",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "5",
+								"Top": "660",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "6",
+								"Top": "730",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "7",
+								"Top": "800",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "8",
+								"Top": "870",
+								"Left": "2205",
+								"IsValid": true
+							},
+							{
+								"Value": "9",
+								"Top": "940",
+								"Left": "2205",
+								"IsValid": true
+							}
+						]
+					]
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_1",
+					"Width": "403",
+					"Height": "0",
+					"Top": "1085",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1092",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1092",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1092",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1092",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1092",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_2",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1140",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1147",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1147",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1147",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1147",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1147",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_3",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1195",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1202",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1202",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1202",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1202",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1202",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_4",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1250",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1257",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1257",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1257",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1257",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1257",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_5",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1305",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1312",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1312",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1312",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1312",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1312",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_6",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1360",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1367",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1367",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1367",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1367",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1367",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_7",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1415",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1422",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1422",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1422",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1422",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1422",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_8",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1470",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1477",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1477",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1477",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1477",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1477",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_9",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1525",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1532",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1532",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1532",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1532",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1532",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_10",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1580",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1587",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1587",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1587",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1587",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1587",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_11",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1635",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1642",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1642",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1642",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1642",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1642",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_12",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1690",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1697",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1697",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1697",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1697",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1697",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_13",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1745",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1752",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1752",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1752",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1752",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1752",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_14",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1800",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1807",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1807",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1807",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1807",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1807",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_15",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1855",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1862",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1862",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1862",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1862",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1862",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_16",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1910",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1917",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1917",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1917",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1917",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1917",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_17",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1965",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1972",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1972",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1972",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1972",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1972",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_18",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2020",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2027",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2027",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2027",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2027",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2027",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_19",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2075",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2082",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2082",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2082",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2082",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2082",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_20",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2130",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2137",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2137",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2137",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2137",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2137",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_21",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2185",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2192",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2192",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2192",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2192",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2192",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_22",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2240",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2247",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2247",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2247",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2247",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2247",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_23",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2295",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2302",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2302",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2302",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2302",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2302",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_24",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2350",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2357",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2357",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2357",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2357",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2357",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_25",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2405",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2412",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2412",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2412",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2412",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2412",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_26",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2460",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2467",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2467",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2467",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2467",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2467",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_27",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2515",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2522",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2522",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2522",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2522",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2522",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_28",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2570",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2577",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2577",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2577",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2577",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2577",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_29",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2625",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2632",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2632",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2632",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2632",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2632",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_30",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2680",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2687",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2687",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2687",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2687",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2687",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_31",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2735",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2742",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2742",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2742",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2742",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2742",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_32",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2790",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2797",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2797",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2797",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2797",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2797",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_33",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2845",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2852",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2852",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2852",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2852",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2852",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_34",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2900",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2907",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2907",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2907",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2907",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2907",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_35",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2955",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2962",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2962",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2962",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2962",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2962",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_36",
+					"Width": "403",
+					"Height": "55",
+					"Top": "3010",
+					"Left": "230",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "3017",
+							"Left": "323",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "3017",
+							"Left": "388",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "3017",
+							"Left": "453",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "3017",
+							"Left": "517",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "3017",
+							"Left": "582",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_37",
+					"Width": "403",
+					"Height": "0",
+					"Top": "1085",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1092",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1092",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1092",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1092",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1092",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_38",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1140",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1147",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1147",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1147",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1147",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1147",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_39",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1195",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1202",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1202",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1202",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1202",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1202",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_40",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1250",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1257",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1257",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1257",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1257",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1257",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_41",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1305",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1312",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1312",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1312",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1312",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1312",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_42",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1360",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1367",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1367",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1367",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1367",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1367",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_43",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1415",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1422",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1422",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1422",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1422",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1422",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_44",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1470",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1477",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1477",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1477",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1477",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1477",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_45",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1525",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1532",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1532",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1532",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1532",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1532",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_46",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1580",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1587",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1587",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1587",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1587",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1587",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_47",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1635",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1642",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1642",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1642",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1642",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1642",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_48",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1690",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1697",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1697",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1697",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1697",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1697",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_49",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1745",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1752",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1752",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1752",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1752",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1752",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_50",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1800",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1807",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1807",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1807",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1807",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1807",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_51",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1855",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1862",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1862",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1862",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1862",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1862",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_52",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1910",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1917",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1917",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1917",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1917",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1917",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_53",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1965",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1972",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1972",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1972",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1972",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1972",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_54",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2020",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2027",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2027",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2027",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2027",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2027",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_55",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2075",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2082",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2082",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2082",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2082",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2082",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_56",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2130",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2137",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2137",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2137",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2137",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2137",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_57",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2185",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2192",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2192",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2192",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2192",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2192",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_58",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2240",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2247",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2247",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2247",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2247",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2247",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_59",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2295",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2302",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2302",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2302",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2302",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2302",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_60",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2350",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2357",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2357",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2357",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2357",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2357",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_61",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2405",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2412",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2412",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2412",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2412",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2412",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_62",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2460",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2467",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2467",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2467",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2467",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2467",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_63",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2515",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2522",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2522",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2522",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2522",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2522",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_64",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2570",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2577",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2577",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2577",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2577",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2577",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_65",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2625",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2632",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2632",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2632",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2632",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2632",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_66",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2680",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2687",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2687",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2687",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2687",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2687",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_67",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2735",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2742",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2742",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2742",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2742",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2742",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_68",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2790",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2797",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2797",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2797",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2797",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2797",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_69",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2845",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2852",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2852",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2852",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2852",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2852",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_70",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2900",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2907",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2907",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2907",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2907",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2907",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_71",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2955",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2962",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2962",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2962",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2962",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2962",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_72",
+					"Width": "403",
+					"Height": "55",
+					"Top": "3010",
+					"Left": "653",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "3017",
+							"Left": "746",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "3017",
+							"Left": "811",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "3017",
+							"Left": "876",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "3017",
+							"Left": "940",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "3017",
+							"Left": "1005",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_73",
+					"Width": "403",
+					"Height": "0",
+					"Top": "1085",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1092",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1092",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1092",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1092",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1092",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_74",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1140",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1147",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1147",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1147",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1147",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1147",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_75",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1195",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1202",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1202",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1202",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1202",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1202",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_76",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1250",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1257",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1257",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1257",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1257",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1257",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_77",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1305",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1312",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1312",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1312",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1312",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1312",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_78",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1360",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1367",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1367",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1367",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1367",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1367",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_79",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1415",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1422",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1422",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1422",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1422",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1422",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_80",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1470",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1477",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1477",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1477",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1477",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1477",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_81",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1525",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1532",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1532",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1532",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1532",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1532",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_82",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1580",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1587",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1587",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1587",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1587",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1587",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_83",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1635",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1642",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1642",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1642",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1642",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1642",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_84",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1690",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1697",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1697",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1697",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1697",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1697",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_85",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1745",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1752",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1752",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1752",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1752",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1752",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_86",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1800",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1807",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1807",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1807",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1807",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1807",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_87",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1855",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1862",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1862",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1862",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1862",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1862",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_88",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1910",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1917",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1917",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1917",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1917",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1917",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_89",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1965",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1972",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1972",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1972",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1972",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1972",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_90",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2020",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2027",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2027",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2027",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2027",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2027",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_91",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2075",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2082",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2082",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2082",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2082",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2082",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_92",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2130",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2137",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2137",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2137",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2137",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2137",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_93",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2185",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2192",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2192",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2192",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2192",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2192",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_94",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2240",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2247",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2247",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2247",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2247",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2247",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_95",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2295",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2302",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2302",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2302",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2302",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2302",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_96",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2350",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2357",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2357",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2357",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2357",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2357",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_97",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2405",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2412",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2412",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2412",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2412",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2412",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_98",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2460",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2467",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2467",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2467",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2467",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2467",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_99",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2515",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2522",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2522",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2522",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2522",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2522",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_100",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2570",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2577",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2577",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2577",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2577",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2577",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_101",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2625",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2632",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2632",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2632",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2632",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2632",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_102",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2680",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2687",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2687",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2687",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2687",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2687",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_103",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2735",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2742",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2742",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2742",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2742",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2742",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_104",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2790",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2797",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2797",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2797",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2797",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2797",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_105",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2845",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2852",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2852",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2852",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2852",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2852",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_106",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2900",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2907",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2907",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2907",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2907",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2907",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_107",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2955",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2962",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2962",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2962",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2962",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2962",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_108",
+					"Width": "403",
+					"Height": "55",
+					"Top": "3010",
+					"Left": "1075",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "3017",
+							"Left": "1168",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "3017",
+							"Left": "1233",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "3017",
+							"Left": "1298",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "3017",
+							"Left": "1362",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "3017",
+							"Left": "1427",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_109",
+					"Width": "403",
+					"Height": "0",
+					"Top": "1085",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1092",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1092",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1092",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1092",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1092",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_110",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1140",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1147",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1147",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1147",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1147",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1147",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_111",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1195",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1202",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1202",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1202",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1202",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1202",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_112",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1250",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1257",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1257",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1257",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1257",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1257",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_113",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1305",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1312",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1312",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1312",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1312",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1312",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_114",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1360",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1367",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1367",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1367",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1367",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1367",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_115",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1415",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1422",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1422",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1422",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1422",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1422",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_116",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1470",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1477",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1477",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1477",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1477",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1477",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_117",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1525",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1532",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1532",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1532",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1532",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1532",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_118",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1580",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1587",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1587",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1587",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1587",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1587",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_119",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1635",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1642",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1642",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1642",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1642",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1642",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_120",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1690",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1697",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1697",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1697",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1697",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1697",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_121",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1745",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1752",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1752",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1752",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1752",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1752",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_122",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1800",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1807",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1807",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1807",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1807",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1807",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_123",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1855",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1862",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1862",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1862",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1862",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1862",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_124",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1910",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1917",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1917",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1917",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1917",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1917",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_125",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1965",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1972",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1972",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1972",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1972",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1972",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_126",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2020",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2027",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2027",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2027",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2027",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2027",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_127",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2075",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2082",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2082",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2082",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2082",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2082",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_128",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2130",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2137",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2137",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2137",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2137",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2137",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_129",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2185",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2192",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2192",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2192",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2192",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2192",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_130",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2240",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2247",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2247",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2247",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2247",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2247",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_131",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2295",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2302",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2302",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2302",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2302",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2302",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_132",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2350",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2357",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2357",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2357",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2357",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2357",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_133",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2405",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2412",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2412",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2412",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2412",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2412",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_134",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2460",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2467",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2467",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2467",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2467",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2467",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_135",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2515",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2522",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2522",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2522",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2522",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2522",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_136",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2570",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2577",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2577",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2577",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2577",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2577",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_137",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2625",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2632",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2632",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2632",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2632",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2632",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_138",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2680",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2687",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2687",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2687",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2687",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2687",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_139",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2735",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2742",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2742",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2742",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2742",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2742",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_140",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2790",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2797",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2797",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2797",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2797",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2797",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_141",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2845",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2852",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2852",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2852",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2852",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2852",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_142",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2900",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2907",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2907",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2907",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2907",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2907",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_143",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2955",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2962",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2962",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2962",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2962",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2962",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_144",
+					"Width": "403",
+					"Height": "55",
+					"Top": "3010",
+					"Left": "1497",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "3017",
+							"Left": "1590",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "3017",
+							"Left": "1655",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "3017",
+							"Left": "1720",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "3017",
+							"Left": "1784",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "3017",
+							"Left": "1849",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_145",
+					"Width": "403",
+					"Height": "0",
+					"Top": "1085",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1092",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1092",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1092",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1092",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1092",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_146",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1140",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1147",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1147",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1147",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1147",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1147",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_147",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1195",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1202",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1202",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1202",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1202",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1202",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_148",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1250",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1257",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1257",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1257",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1257",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1257",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_149",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1305",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1312",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1312",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1312",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1312",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1312",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_150",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1360",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1367",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1367",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1367",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1367",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1367",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_151",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1415",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1422",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1422",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1422",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1422",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1422",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_152",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1470",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1477",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1477",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1477",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1477",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1477",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_153",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1525",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1532",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1532",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1532",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1532",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1532",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_154",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1580",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1587",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1587",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1587",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1587",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1587",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_155",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1635",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1642",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1642",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1642",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1642",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1642",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_156",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1690",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1697",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1697",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1697",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1697",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1697",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_157",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1745",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1752",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1752",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1752",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1752",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1752",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_158",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1800",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1807",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1807",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1807",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1807",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1807",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_159",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1855",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1862",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1862",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1862",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1862",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1862",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_160",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1910",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1917",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1917",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1917",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1917",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1917",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_161",
+					"Width": "403",
+					"Height": "55",
+					"Top": "1965",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1972",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1972",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1972",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1972",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1972",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_162",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2020",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2027",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2027",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2027",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2027",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2027",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_163",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2075",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2082",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2082",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2082",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2082",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2082",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_164",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2130",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2137",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2137",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2137",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2137",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2137",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_165",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2185",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2192",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2192",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2192",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2192",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2192",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_166",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2240",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2247",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2247",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2247",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2247",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2247",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_167",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2295",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2302",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2302",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2302",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2302",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2302",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_168",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2350",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2357",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2357",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2357",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2357",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2357",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_169",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2405",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2412",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2412",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2412",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2412",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2412",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_170",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2460",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2467",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2467",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2467",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2467",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2467",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_171",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2515",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2522",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2522",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2522",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2522",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2522",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_172",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2570",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2577",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2577",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2577",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2577",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2577",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_173",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2625",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2632",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2632",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2632",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2632",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2632",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_174",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2680",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2687",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2687",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2687",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2687",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2687",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_175",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2735",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2742",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2742",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2742",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2742",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2742",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_176",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2790",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2797",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2797",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2797",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2797",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2797",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_177",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2845",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2852",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2852",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2852",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2852",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2852",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_178",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2900",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2907",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2907",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2907",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2907",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2907",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_179",
+					"Width": "403",
+					"Height": "55",
+					"Top": "2955",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2962",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2962",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2962",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2962",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2962",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "Section 1_180",
+					"Width": "403",
+					"Height": "55",
+					"Top": "3010",
+					"Left": "1919",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 40,
+					"BubbleWidth": 40,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "3017",
+							"Left": "2012",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "3017",
+							"Left": "2077",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "3017",
+							"Left": "2142",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "3017",
+							"Left": "2206",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "3017",
+							"Left": "2271",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ClipArea",
+					"Name": "Name",
+					"Width": "1026",
+					"Height": "145",
+					"Top": "254",
+					"Left": "230",
+					"BubbleHeight": 0,
+					"BubbleWidth": 0,
+					"Bubbles": [
+						
+					],
+					"JpegQuality": 0,
+					"Required": true
+				},
+				{
+					"Type": "ClipArea",
+					"Name": "Student Signature",
+					"Width": "1026",
+					"Height": "187",
+					"Top": "439",
+					"Left": "230",
+					"BubbleHeight": 0,
+					"BubbleWidth": 0,
+					"Bubbles": [
+						
+					],
+					"JpegQuality": 0,
+					"Required": true
+				},
+				{
+					"Type": "ClipArea",
+					"Name": "Invigilator Signature",
+					"Width": "1026",
+					"Height": "187",
+					"Top": "626",
+					"Left": "230",
+					"BubbleHeight": 0,
+					"BubbleWidth": 0,
+					"Bubbles": [
+						
+					],
+					"JpegQuality": 0,
+					"Required": true
+				},
+				{
+					"Type": "ClipArea",
+					"Name": "Thumbprint",
+					"Width": "1026",
+					"Height": "187",
+					"Top": "813",
+					"Left": "230",
+					"BubbleHeight": 0,
+					"BubbleWidth": 0,
+					"Bubbles": [
+						
+					],
+					"JpegQuality": 0,
+					"Required": true
+				},
+				{
+					"Type": "ClipArea",
+					"Name": "Candidate UID",
+					"Width": "257",
+					"Height": "790",
+					"Top": "218",
+					"Left": "1296",
+					"BubbleHeight": 0,
+					"BubbleWidth": 0,
+					"Bubbles": [
+						
+					],
+					"JpegQuality": 0,
+					"Required": true
+				},
+				{
+					"Type": "BarcodeDownloadable",
+					"Name": "sheet id",
+					"Width": "526",
+					"Height": "150",
+					"Top": "3105",
+					"Left": "1012",
+					"BarcodeType": "Code39Standard"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint0",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint1",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint2",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "25",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint3",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "2398",
+					"ReferenceType": "Corner"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint4",
+					"Width": "128",
+					"Height": "178",
+					"Top": "331",
+					"Left": "2398",
+					"ReferenceType": "Rotation"
+				}
+			],
+			"ImageFormat": ".png",
+			"ImageName": null
+		}
+	],
+	"TemplateId": "",
+	"FinalizationComplete": false,
+	"IsGenerated": true
+}

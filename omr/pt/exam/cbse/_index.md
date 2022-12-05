@@ -26,9 +26,10 @@ description: Faça o download de uma planilha OMR CBSE pronta em formato PDF par
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Você pode personalizar completamente o formulário OMR alterando as fontes acima e gerando novamente a folha para seu tipo de papel preferido. Você pode alterar o número e a ordem das perguntas e criar formulários específicos de assunto que são perfeitamente adaptados ao seu currículo.</p>
@@ -119,7 +120,7 @@ Siga as orientações abaixo sobre como usar, personalizar e ler o formulário d
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> é o chamado padrão de reconhecimento – um arquivo especial usado para produzir resultados altamente precisos com o mecanismo de reconhecimento Aspose.OMR. Ele é gerado juntamente com o modelo CBSE imprimível, certifique-se de não excluir ou substituir esse arquivo. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> é o chamado padrão de reconhecimento – um arquivo especial usado para produzir resultados altamente precisos com o mecanismo de reconhecimento Aspose.OMR. Ele é gerado juntamente com o modelo CBSE imprimível, certifique-se de não excluir ou substituir esse arquivo. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

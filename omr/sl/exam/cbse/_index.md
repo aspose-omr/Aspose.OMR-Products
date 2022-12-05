@@ -26,9 +26,10 @@ description: Prenesite že pripravljen list OMR CBSE v formatu PDF za vadbo in i
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Obrazec OMR lahko popolnoma prilagodite tako, da spremenite zgornje vire in ponovno ustvarite list za želeno vrsto papirja. Spremenite lahko število in vrstni red vprašanj ter ustvarite obrazce za posamezne predmete, ki so popolnoma prilagojeni vašemu učnemu načrtu.</p>
@@ -119,7 +120,7 @@ Upoštevajte spodnje smernice o uporabi, prilagajanju in branju izpitnega obrazc
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> je tako imenovani vzorec za prepoznavanje – posebna datoteka, ki se uporablja za ustvarjanje zelo natančnih rezultatov z mehanizmom za prepoznavanje Aspose.OMR. Ustvari se skupaj s predlogo CBSE za tiskanje, pazite, da te datoteke ne izbrišete ali zamenjate. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> je tako imenovani vzorec za prepoznavanje – posebna datoteka, ki se uporablja za ustvarjanje zelo natančnih rezultatov z mehanizmom za prepoznavanje Aspose.OMR. Ustvari se skupaj s predlogo CBSE za tiskanje, pazite, da te datoteke ne izbrišete ali zamenjate. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

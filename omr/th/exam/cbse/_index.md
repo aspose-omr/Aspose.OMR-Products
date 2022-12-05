@@ -26,9 +26,10 @@ description: ดาวน์โหลดแผ่น OMR CBSE สำเร็จ
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>คุณสามารถปรับแต่งแบบฟอร์ม OMR ได้อย่างสมบูรณ์โดยเปลี่ยนแหล่งที่มาด้านบนและสร้างแผ่นงานใหม่สำหรับประเภทกระดาษที่คุณต้องการ คุณสามารถเปลี่ยนจำนวนและลำดับของคำถาม และสร้างแบบฟอร์มเฉพาะเรื่องที่เหมาะกับหลักสูตรของคุณได้อย่างสมบูรณ์แบบ</p>
@@ -119,7 +120,7 @@ description: ดาวน์โหลดแผ่น OMR CBSE สำเร็จ
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> เรียกว่ารูปแบบการรับรู้ – ไฟล์พิเศษที่ใช้เพื่อสร้างผลลัพธ์ที่แม่นยำสูงด้วยกลไกการจดจำ Aspose.OMR มันถูกสร้างขึ้นพร้อมกับเทมเพลต CBSE ที่พิมพ์ได้ ตรวจสอบให้แน่ใจว่าคุณไม่ได้ลบหรือแทนที่ไฟล์นั้น </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> เรียกว่ารูปแบบการรับรู้ – ไฟล์พิเศษที่ใช้เพื่อสร้างผลลัพธ์ที่แม่นยำสูงด้วยกลไกการจดจำ Aspose.OMR มันถูกสร้างขึ้นพร้อมกับเทมเพลต CBSE ที่พิมพ์ได้ ตรวจสอบให้แน่ใจว่าคุณไม่ได้ลบหรือแทนที่ไฟล์นั้น </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

@@ -26,9 +26,10 @@ description: Scarica un foglio OMR CBSE già pronto in formato PDF per la pratic
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Puoi personalizzare completamente il modulo OMR modificando le fonti sopra e rigenerando il foglio per il tipo di carta che preferisci. Puoi modificare il numero e l'ordine delle domande e creare moduli specifici per materia perfettamente adattati al tuo curriculum.</p>
@@ -119,7 +120,7 @@ Segui le linee guida di seguito sull'utilizzo, la personalizzazione e la lettura
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> è il cosiddetto modello di riconoscimento - un file speciale che viene utilizzato per produrre risultati estremamente accurati con il motore di riconoscimento Aspose.OMR. Viene generato insieme al modello CBSE stampabile, assicurati di non eliminare o sostituire quel file. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> è il cosiddetto modello di riconoscimento - un file speciale che viene utilizzato per produrre risultati estremamente accurati con il motore di riconoscimento Aspose.OMR. Viene generato insieme al modello CBSE stampabile, assicurati di non eliminare o sostituire quel file. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

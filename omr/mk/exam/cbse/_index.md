@@ -26,9 +26,10 @@ description: Преземете готов лист OMR CBSE во PDF форма
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Можете целосно да го приспособите формуларот OMR со менување на изворите погоре и повторно генерирање на листот за вашиот претпочитан тип хартија. Можете да го промените бројот и редоследот на прашањата и да креирате форми специфични за предметот кои се совршено приспособени на вашата наставна програма.</p>
@@ -119,7 +120,7 @@ description: Преземете готов лист OMR CBSE во PDF форма
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> е таканаречен модел за препознавање – специјална датотека што се користи за производство на високо прецизни резултати со моторот за препознавање Aspose.OMR. Се генерира заедно со шаблонот CBSE за печатење, погрижете се да не ја избришете или замените таа датотека. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> е таканаречен модел за препознавање – специјална датотека што се користи за производство на високо прецизни резултати со моторот за препознавање Aspose.OMR. Се генерира заедно со шаблонот CBSE за печатење, погрижете се да не ја избришете или замените таа датотека. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

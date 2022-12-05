@@ -26,9 +26,10 @@ description: Lejupielādējiet gatavu OMR CBSE lapu PDF formātā praksei un apm
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Varat pilnībā pielāgot OMR veidlapu, mainot iepriekš minētos avotus un atkārtoti ģenerējot lapu savam vēlamajam papīra veidam. Varat mainīt jautājumu skaitu un secību, kā arī izveidot mācību priekšmetam atbilstošas ​​veidlapas, kas ir ideāli pielāgotas jūsu mācību programmai.</p>
@@ -119,7 +120,7 @@ Izpildiet tālāk sniegtās vadlīnijas par CBSE eksāmena veidlapas lietošanu,
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> ir tā sauktais atpazīšanas modelis – īpašs fails, ko izmanto, lai ar Aspose.OMR atpazīšanas dzinēju iegūtu ļoti precīzus rezultātus. Tas tiek ģenerēts kopā ar drukājamo CBSE veidni, pārliecinieties, ka neizdzēšat vai neaizstājāt šo failu. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> ir tā sauktais atpazīšanas modelis – īpašs fails, ko izmanto, lai ar Aspose.OMR atpazīšanas dzinēju iegūtu ļoti precīzus rezultātus. Tas tiek ģenerēts kopā ar drukājamo CBSE veidni, pārliecinieties, ka neizdzēšat vai neaizstājāt šo failu. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

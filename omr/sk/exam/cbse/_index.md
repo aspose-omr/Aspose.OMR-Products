@@ -26,9 +26,10 @@ description: Stiahnite si hotový hárok OMR CBSE vo formáte PDF na cvičenie a
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Formulár OMR môžete úplne prispôsobiť tak, že zmeníte vyššie uvedené zdroje a znova vygenerujete hárok pre preferovaný typ papiera. Môžete zmeniť počet a poradie otázok a vytvoriť formuláre špecifické pre daný predmet, ktoré sú dokonale prispôsobené vášmu učebnému plánu.</p>
@@ -119,7 +120,7 @@ Pri používaní, prispôsobení a čítaní formulára skúšky CBSE pomocou As
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> je takzvaný rozpoznávací vzor – špeciálny súbor, ktorý sa používa na vytváranie vysoko presných výsledkov pomocou rozpoznávacieho mechanizmu Aspose.OMR. Generuje sa spolu so šablónou CBSE na tlač, uistite sa, že tento súbor neodstránite ani nenahradíte. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> je takzvaný rozpoznávací vzor – špeciálny súbor, ktorý sa používa na vytváranie vysoko presných výsledkov pomocou rozpoznávacieho mechanizmu Aspose.OMR. Generuje sa spolu so šablónou CBSE na tlač, uistite sa, že tento súbor neodstránite ani nenahradíte. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

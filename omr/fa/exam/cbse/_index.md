@@ -26,9 +26,10 @@ description: دانلود برگه آماده OMR CBSE با فرمت PDF جهت 
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>می توانید با تغییر منابع بالا و ایجاد مجدد برگه برای نوع کاغذ دلخواه خود، فرم OMR را کاملاً سفارشی کنید. می‌توانید تعداد و ترتیب سؤال‌ها را تغییر دهید و فرم‌های موضوعی را ایجاد کنید که کاملاً متناسب با برنامه درسی شما باشد.</p>
@@ -119,7 +120,7 @@ description: دانلود برگه آماده OMR CBSE با فرمت PDF جهت 
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> به اصطلاح الگوی تشخیص است - یک فایل ویژه که برای تولید نتایج بسیار دقیق با موتور تشخیص Aspose.OMR استفاده می شود. در کنار قالب قابل چاپ CBSE ایجاد می شود، مطمئن شوید که آن فایل را حذف یا جایگزین نکنید. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> به اصطلاح الگوی تشخیص است - یک فایل ویژه که برای تولید نتایج بسیار دقیق با موتور تشخیص Aspose.OMR استفاده می شود. در کنار قالب قابل چاپ CBSE ایجاد می شود، مطمئن شوید که آن فایل را حذف یا جایگزین نکنید. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

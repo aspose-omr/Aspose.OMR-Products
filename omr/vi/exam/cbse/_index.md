@@ -26,9 +26,10 @@ description: Tải xuống bảng OMR CBSE làm sẵn ở định dạng PDF đ�
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Bạn hoàn toàn có thể tùy chỉnh biểu mẫu OMR bằng cách thay đổi các nguồn ở trên và tạo lại trang tính cho loại giấy ưa thích của mình. Bạn có thể thay đổi số lượng và thứ tự câu hỏi cũng như tạo các biểu mẫu theo chủ đề cụ thể phù hợp hoàn hảo với chương trình giảng dạy của bạn.</p>
@@ -119,7 +120,7 @@ Thực hiện theo các hướng dẫn bên dưới về cách sử dụng, tùy
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> được gọi là mẫu nhận dạng – một tệp đặc biệt được sử dụng để tạo ra kết quả có độ chính xác cao với công cụ nhận dạng Aspose.OMR. Nó được tạo cùng với mẫu CBSE có thể in được, đảm bảo bạn không xóa hoặc thay thế tệp đó. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> được gọi là mẫu nhận dạng – một tệp đặc biệt được sử dụng để tạo ra kết quả có độ chính xác cao với công cụ nhận dạng Aspose.OMR. Nó được tạo cùng với mẫu CBSE có thể in được, đảm bảo bạn không xóa hoặc thay thế tệp đó. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

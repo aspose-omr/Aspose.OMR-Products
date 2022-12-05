@@ -1,0 +1,591 @@
+?page=first page
+?text=Sample Question Paper (TERM – I) 2021-22
+	font_style=bold
+	font_size=15
+	color=DarkGreen
+	align=center
+?text=Class X
+	font_style=bold
+	font_size=12
+	align=center
+?text=Science (086)
+	font_style=bold
+	font_size=12
+	align=center
+?text=Time: 90 Minutes
+	font_style=bold
+	font_size=12
+	align=left
+?text=General Instructions:
+	font_style=bold
+	font_size=12
+	align=left
+?text=1. The Question Paper contains three sections.
+	font_size=12
+	align=left
+?text=2. Section A has 24 questions. Attempt any 20 questions.
+	font_size=12
+	align=left
+?text=3. Section B has 24 questions. Attempt any 20 questions.
+	font_size=12
+	align=left
+?text=4. Section C has 12 questions. Attempt any 10 questions.
+	font_size=12
+	align=left
+?text=5. All questions carry equal marks.
+	font_size=12
+	align=left
+?text=6. There is no negative marking.
+	font_size=12
+	align=left
+?container=Section A Header
+	columns_count=1
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?text=SECTION - A
+	font_size=15
+	font_style=bold
+	align=center
+?text=Section – A consists of 24 questions. Attempt any 20 questions from this section. 
+	font_size=12
+?text=The first attempted 20 questions would be evaluated.
+	font_style=underline
+	font_size=12
+&block
+&container
+?container=1 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=1.
+	font_size=10
+	align=center
+?empty_line=
+	height=329
+&block
+?block=choicebox
+	column=2
+	border=square
+#Reema took 5ml of Lead Nitrate solution in a beaker and added approximately 4ml of Potassium Iodide solution to it. 
+What would she observe?
+	display_number=false
+	font_size=8
+	() The solution turned red.
+	() Yellow precipitate was formed.
+	() White precipitate was formed.
+	() The reaction mixture became hot.
+&block
+&container
+?container=2 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=2.
+	font_size=10
+	align=center
+?empty_line=
+	height=423
+&block
+?block=choicebox2
+	column=2
+	border=square
+?container=inner2
+	columns_proportions=40%-60%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+?empty_line=
+	height=60
+#Identify gas A in the following experiment:
+	display_number=false
+	font_size=8
+	() The solution turned red.
+	() Yellow precipitate was formed.
+	() White precipitate was formed.
+	() The reaction mixture became hot.
+&block
+?block=
+	column=2
+?image=2.png
+	height=444
+	width=759
+&block
+&container
+&block
+&container
+?container=3 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=3.
+	font_size=10
+	align=center
+?empty_line=
+	height=868
+&block
+?block=choicebox3
+	column=2
+	border=square
+
+?container=table
+	columns_proportions=33%-34%-33%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+	
+	
+?block=
+	column=1
+	border=square
+?content=M
+	color=white
+&block
+?block=
+	column=2
+	border=square
+?content=Metal
+	align=center
+	font_style=bold
+&block
+?block=
+	column=3
+	border=square
+?content=Gas Evolved
+	align=center
+	font_style=bold
+&block
+
+?block=
+	column=1
+	border=square
+?content=I
+	align=center
+&block
+?block=
+	column=2
+	border=square
+?content=Copper
+	align=center
+&block
+?block=
+	column=3
+	border=square
+?content=Yes
+	align=center
+&block
+
+?block=
+	column=1
+	border=square
+?content=II
+	align=center
+&block
+?block=
+	column=2
+	border=square
+?content=Iron
+	align=center
+&block
+?block=
+	column=3
+	border=square
+?content=Yes
+	align=center
+&block
+
+?block=
+	column=1
+	border=square
+?content=III
+	align=center
+&block
+?block=
+	column=2
+	border=square
+?content=Magnesium
+	align=center
+&block
+?block=
+	column=3
+	border=square
+?content=No
+	align=center
+&block
+
+?block=
+	column=1
+	border=square
+?content=IIV
+	align=center
+&block
+?block=
+	column=2
+	border=square
+?content=Zinc
+	align=center
+&block
+?block=
+	column=3
+	border=square
+?content=Yes
+	align=center
+&block
+
+&container
+
+?container=answers
+	columns_proportions=40%-60%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+?empty_line=
+	height=60
+#Which of the two combinations above are correct?
+	display_number=false
+	font_size=8
+	() I and III
+	() I and IV
+	() II and III
+	() II and IV
+&block
+?block=
+	column=2
+?image=3.png
+	height=444
+	width=650
+&block
+&container
+&block
+&container
+&page
+?page=second page
+?container=4 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=4.
+	font_size=10
+	align=center
+?empty_line=
+	height=280
+&block
+?block=choicebox4
+	column=2
+	border=square
+#Which of the following correctly represents a balanced chemical equation?
+	display_number=false
+	font_size=8
+	() Fe[s] + 4H₂O[g] → Fe₃O₄ [s] + 4H₂[g] 
+	() 3Fe[s] + 4H₂O[g] → Fe₃O₄ [s] + 4H₂[g] 
+	() 3Fe[s] + H₂O[g] → Fe₃O₄ [s] + H₂[g]
+	() 3Fe[s] + 4H₂O[g] → Fe₃O₄ [s] + H₂[g]
+&block
+&container
+?container=5 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=5.
+	font_size=10
+	align=center
+?empty_line=
+	height=570
+&block
+?block=choicebox2
+	column=2
+	border=square
+?container=inner2
+	columns_proportions=40%-60%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+#Which letter denotes the area of the graph 
+where both acid and salt are present?
+	display_number=false
+	font_size=8
+	(A) A.
+	(B) B.
+	(C) C.
+	(D) D.
+&block
+?block=
+	column=2
+?content=The graph given below depicts a neutralization reaction
+?content=(acid + alkali → salt + water). The pH of a solution changes as we add excess of acid to an alkali. 
+?image=5.png
+	height=444
+	width=759
+&block
+&container
+&block
+&container
+?container=6 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=6.
+	font_size=10
+	align=center
+?empty_line=
+	height=427
+&block
+?block=choicebox3
+	column=2
+	border=square
+?content=In the reaction of iron with copper sulphate solution:
+?content=CuSO₄ + Fe ---> Cu + FeSO₄
+#Which option in the given table correctly represents the substance oxidised and the
+reducing agent?
+	display_number=false
+	font_size=8
+	() Substance Oxidized - Fe.    Reducing Agent - Fe.
+	() Substance Oxidized - Fe.    Reducing Agent - FeSO₄.
+	() Substance Oxidized - Cu.    Reducing Agent - Fe.
+	() Substance Oxidized - CuSO₄. Reducing Agent - Fe.
+&block
+&container
+?container=7 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=7.
+	font_size=10
+	align=center
+?empty_line=
+	height=280
+&block
+?block=choicebox3
+	column=2
+	border=square
+#The chemical reaction between copper and oxygen can be categorized as:
+	display_number=false
+	font_size=8
+	() Displacement reaction
+	() Decomposition reaction
+	() Combination reaction
+	() Double displacement reaction
+&block
+&container
+?container=8 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=8.
+	font_size=10
+	align=center
+?empty_line=
+	height=329
+&block
+?block=choicebox3
+	column=2
+	border=square
+#Which of the given options correctly represents theParent acid and base of Calcium
+Carbonate? 
+	display_number=false
+	font_size=8
+	() Parent Acid - HCl. Parent Base - NaOH.
+	() Parent Acid - H₂CO₃. Parent Base - Ca[OH]₂.
+	() Parent Acid - H₃PO₃. Parent Base - CaSO₄.
+	() Parent Acid - H₂SO₄. Parent Base - CaSO₄.
+&block
+&container
+?container=9 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=9.
+	font_size=10
+	align=center
+?empty_line=
+	height=280
+&block
+?block=choicebox3
+	column=2
+	border=square
+#How will you protect yourself from the heat generated while diluting a concentrated acid? 
+	display_number=false
+	font_size=8
+	() By adding acid to water with constant stirring.
+	() By adding water to acid with constant stirring.
+	() By adding water to acid followed by base.
+	() By adding base to acid with constant stirring.
+&block
+&container
+?container=10 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=10.
+	font_size=10
+	align=center
+?empty_line=
+	height=280
+&block
+?block=choicebox3
+	column=2
+	border=square
+#Why is it important to balance a skeletal chemical equation?
+	display_number=false
+	font_size=8
+	() To verify law of conservation of energy.
+	() To verify the law of constant proportion.
+	() To verify the law of conservation of mass.
+	() To verify the law of conservation of momentum.
+&block
+&container
+&page
+?page=
+?container=11 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=11.
+	font_size=10
+	align=center
+?empty_line=
+	height=773
+&block
+?block=choicebox11
+	column=2
+	border=square
+?content=Carefully study the diagram of the human respiratory system with labels A, B, C and D. 
+?image=11.png
+	height=444
+	width=759
+#Select the option which gives correct identification and main function and /or characteristic.
+	display_number=false
+	font_size=8
+	(A) [i] Trachea: It is supported by bony rings for conducting inspired air.
+	(B) [ii] Ribs: When we breathe out, ribs are lifted.
+	(C) [iii] Alveoli: Thin-walled sac like structures for exchange of gases
+	(D) [iv] Diaphragm: It is pulled up when we breathe in.
+&block
+&container
+?container=12 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=12.
+	font_size=10
+	align=center
+?empty_line=
+	height=829
+&block
+?block=choicebox2
+	column=2
+	border=square
+?container=inner2
+	columns_proportions=40%-60%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+#Identify the option that indicates the correct enzyme 
+that is secreted in location A, B and C. 
+	display_number=false
+	font_size=8
+	(A) [i]-lipase, [ii]-trypsin, [iii]-pepsin
+	(B) [i]-amylase, [ii]-pepsin, [iii]-trypsin
+	(C) [i]-trypsin, [ii]-amylase, [iii]-carboxylase
+	(D) [i]-permease, [ii]-carboxylase, [iii]-oxidase
+&block
+?block=
+	column=2
+?image=12.png
+	height=850
+	width=600
+&block
+&container
+&block
+&container
+?container=13 - Section A Body
+	columns_proportions=10%-90%
+	block_top_padding=0
+	block_right_margin=0
+	block_bottom_margin=0
+?block=
+	column=1
+	border=square
+?content=13.
+	font_size=10
+	align=center
+?empty_line=
+	height=929
+&block
+?block=choicebox11
+	column=2
+	border=square
+?content=The figure given below shows a schematic plan of blood circulation in humans with labels
+(i) to (iv).
+?image=13.png
+	height=600
+	width=550
+#Identify the correct label with its functions?
+	display_number=false
+	font_size=8
+	(A) [i] Pulmonary vein - takes impure blood from body part.
+	(B) [ii] Pulmonary artery - takes blood from lung to heart.
+	(C) [iii] Aorta - takes blood from heart to body parts
+	(D) [iv] Vena cava takes - blood from body parts to right auricle.
+&block
+&container
+&page

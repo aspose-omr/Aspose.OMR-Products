@@ -26,9 +26,10 @@ description: پریکٹس اور کوچنگ کے لیے پی ڈی ایف فار�
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>آپ اوپر دیے گئے ذرائع کو تبدیل کرکے اور اپنے پسندیدہ کاغذ کی قسم کے لیے شیٹ کو دوبارہ تخلیق کرکے OMR فارم کو مکمل طور پر اپنی مرضی کے مطابق بنا سکتے ہیں۔ آپ سوالات کی تعداد اور ترتیب کو تبدیل کر سکتے ہیں اور موضوع کے لحاظ سے مخصوص فارم بنا سکتے ہیں جو بالکل آپ کے نصاب کے مطابق ہیں۔</p>
@@ -119,7 +120,7 @@ Aspose.OMR کے ساتھ CBSE امتحانی فارم کو استعمال کرن
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> نام نہاد شناختی پیٹرن ہے – ایک خاص فائل جو Aspose.OMR شناختی انجن کے ساتھ انتہائی درست نتائج پیدا کرنے کے لیے استعمال ہوتی ہے۔ یہ پرنٹ ایبل CBSE ٹیمپلیٹ کے ساتھ تیار کیا گیا ہے، یقینی بنائیں کہ آپ اس فائل کو حذف یا تبدیل نہیں کرتے ہیں۔ </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> نام نہاد شناختی پیٹرن ہے – ایک خاص فائل جو Aspose.OMR شناختی انجن کے ساتھ انتہائی درست نتائج پیدا کرنے کے لیے استعمال ہوتی ہے۔ یہ پرنٹ ایبل CBSE ٹیمپلیٹ کے ساتھ تیار کیا گیا ہے، یقینی بنائیں کہ آپ اس فائل کو حذف یا تبدیل نہیں کرتے ہیں۔ </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

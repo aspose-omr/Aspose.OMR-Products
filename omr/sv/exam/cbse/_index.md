@@ -26,9 +26,10 @@ description: Ladda ner ett färdigt OMR CBSE-blad i PDF-format för övning och 
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Du kan helt och hållet anpassa OMR-formuläret genom att ändra källorna ovan och återskapa arket för din föredragna papperstyp. Du kan ändra antalet och ordningen på frågor och skapa ämnesspecifika formulär som är perfekt anpassade till din läroplan.</p>
@@ -119,7 +120,7 @@ Följ riktlinjerna nedan för att använda, anpassa och läsa CBSE-examensformul
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> är så kallat igenkänningsmönster – en speciell fil som används för att producera mycket exakta resultat med igenkänningsmotorn Aspose.OMR. Den genereras tillsammans med den utskrivbara CBSE-mallen, se till att du inte tar bort eller ersätter den filen. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> är så kallat igenkänningsmönster – en speciell fil som används för att producera mycket exakta resultat med igenkänningsmotorn Aspose.OMR. Den genereras tillsammans med den utskrivbara CBSE-mallen, se till att du inte tar bort eller ersätter den filen. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

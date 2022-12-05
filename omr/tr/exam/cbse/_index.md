@@ -26,9 +26,10 @@ description: Pratik yapmak ve koçluk yapmak için hazır bir OMR CBSE sayfasın
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Yukarıdaki kaynakları değiştirerek ve sayfayı tercih ettiğiniz kağıt türü için yeniden oluşturarak OMR formunu tamamen özelleştirebilirsiniz. Soruların sayısını ve sırasını değiştirebilir ve müfredatınıza mükemmel şekilde uyarlanmış, konuya özel formlar oluşturabilirsiniz.</p>
@@ -119,7 +120,7 @@ Aspose.OMR ile CBSE sınav formunu kullanma, özelleştirme ve okuma konusunda a
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> Aspose.OMR tanıma motoruyla son derece doğru sonuçlar üretmek için kullanılan özel bir dosya olan tanıma kalıbıdır. Yazdırılabilir CBSE şablonuyla birlikte oluşturulur, bu dosyayı silmediğinizden veya değiştirmediğinizden emin olun. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> Aspose.OMR tanıma motoruyla son derece doğru sonuçlar üretmek için kullanılan özel bir dosya olan tanıma kalıbıdır. Yazdırılabilir CBSE şablonuyla birlikte oluşturulur, bu dosyayı silmediğinizden veya değiştirmediğinizden emin olun. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

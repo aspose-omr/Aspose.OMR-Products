@@ -1,0 +1,283 @@
+?empty_line=
+	height=1
+	columns_proportions=49%-2%-49%
+	block_top_padding=0
+	block_bottom_margin=0
+	block_right_margin=0
+?block=
+	column=1
+?content=NEET SAMPLE
+	color=Orange
+	align=left
+	font_size=24
+?content=OMR Sheet 2022
+	color=Orange
+	align=left
+	font_size=16
+&block
+?block=
+	column=3
+?paragraph=
+	type=Inline
+	vertical_align=center
+?paragraph=text	
+?content=Aspose OMR
+	color=Black
+	font_size=18
+	align=center
+?content=Best OMR solutions for you
+	color=Black
+	font_size=8
+	align=center
+&paragraph
+?image=logo.jpg
+	width=200
+	height=200
+&paragraph
+&block
+&container
+?container=Persons info
+	columns_proportions=50%-50%
+	block_top_padding=0
+	block_bottom_margin=0
+	block_right_margin=0
+?block=left name
+	column=1
+?container=left name wrapper
+	columns_count=1
+	block_top_padding=0
+	block_bottom_margin=0
+	block_right_margin=0
+?block=
+	column=1
+	background_color=Moccasin
+	border_color=Orange
+	border=square
+	border_size=5
+?content=Candidate's Name
+	color=Orange
+	font_size=12
+	font_style=bold
+&block
+?block=Name
+	column=1
+	border=square
+	border_size=5
+	border_color=Orange
+	is_clipped=true
+?empty_line=
+	height=20
+?content=_____________________________________
+	font_size=14
+	color=orange
+&block	
+&container
+&block
+?block=left signatures
+	column=1
+?container=
+	columns_count=1
+	block_top_padding=0
+	block_bottom_margin=0
+	block_right_margin=0
+?block=Student Signature
+	column=1
+	border=square
+	border_size=5
+	border_color=Orange
+	is_clipped=true
+?empty_line=
+	height=110
+?content=Student Signature
+	color=Orange
+	font_size=6
+	font_style=bold
+	align=right
+&block
+?block=Invigilator Signature
+	column=1
+	border=square
+	border_size=5
+	border_color=Orange
+	is_clipped=true
+?empty_line=
+	height=110
+?content=Invigilator Signature
+	color=Orange
+	font_size=6
+	font_style=bold
+	align=right
+&block
+?block=Thumbprint
+	column=1
+	border=square
+	border_size=5
+	border_color=Orange
+	is_clipped=true
+?empty_line=
+	height=110
+?content=Candidate's left hand thumb impression
+	color=Orange
+	font_size=6
+	font_style=bold
+	align=right
+&block
+&container
+&block
+?block=right UID
+	column=2
+?container=
+	columns_proportions=25%-1%-25%-1%-22%-1%-25%
+	block_top_padding=0
+	block_bottom_margin=0
+	block_right_margin=0
+?block=
+	column=1
+	background_color=Moccasin
+	border_color=Orange
+	border=square
+	border_size=5
+?content=Candidate ID
+	color=Orange
+	font_size=6
+	font_style=bold
+&block
+?block=Candidate UID
+	column=1
+	border=square
+	border_size=5
+	border_color=Orange
+	is_clipped=true
+?empty_line=
+	height=10
+?composite_grid=Candidate UID
+	display_hint=false
+	header_type=Square
+	header_border_color=Orange
+	align=center
+	columns_count=4
+	bubble_size=extrasmall
+	values=(0) (1) (2) (3) (4) (5) (6) (7) (8) (9)
+&block	
+?block=
+	column=3
+	border=square
+	border_size=5
+	border_color=Orange	
+	background_color=Moccasin
+?content=Centre Code
+	color=Orange
+	font_size=6
+	font_style=bold
+&block
+?block=
+	column=3
+	border=square
+	border_size=5
+	border_color=Orange
+?empty_line=
+	height=10
+?composite_grid=Centre Code
+	display_hint=false
+	header_type=Square
+	header_border_color=Orange
+	align=center
+	columns_count=4
+	bubble_size=extrasmall
+	values=(0) (1) (2) (3) (4) (5) (6) (7) (8) (9)
+&block
+?block=
+	column=5
+	border=square
+	border_size=5
+	border_color=Orange	
+	background_color=Moccasin
+?content=Roll No.
+	color=Orange
+	font_style=bold
+	font_size=6
+&block
+?block=
+	column=5
+	border=square
+	border_size=5
+	border_color=Orange
+?empty_line=
+	height=10
+?composite_grid=Roll No.
+	display_hint=false
+	header_type=Square
+	header_border_color=Orange
+	align=center
+	columns_count=4
+	bubble_size=extrasmall
+	values=(0) (1) (2) (3) (4) (5) (6) (7) (8) (9)
+&block
+?block=
+	column=7
+	border=square
+	border_size=5
+	border_color=Orange	
+	background_color=Moccasin
+?content=Marks (%)
+	color=Orange
+	font_style=bold
+	font_size=6
+&block
+?block=
+	column=7
+	border=square
+	border_size=5
+	border_color=Orange
+?empty_line=
+	height=10
+?composite_grid=11th Marks (%)
+	display_hint=false
+	header_type=Square
+	header_border_color=Orange
+	align=center
+	columns_count=2
+	bubble_size=extrasmall
+	values=(0) (1) (2) (3) (4) (5) (6) (7) (8) (9)
+&block
+&container
+&block
+&container
+?container=QuestionsWrapper
+	columns_count=1
+?block=
+	column=1
+?custom_answer_sheet=Section 1
+	border=rounded
+	amount=180
+	columns_count=5
+	row_proportions=20%-80%
+	border_color=DarkOrange
+?header=123
+?column=QNo.
+	font_size=6
+	font_style=bold
+	align=center
+?column=Answer Options
+	font_size=6
+	font_style=bold
+	align=center
+&header
+?custom_row=row_%index%
+?content=%index%
+	font_size=6
+	align=center
+?bubble_array=b_%index%
+	answers_list=(A)(B)(C)(D)(E)
+	bubble_size=extrasmall
+	font_size=6
+&custom_row
+&custom_answer_sheet
+&block
+&container
+?barcode=sheet id
+	value=4321
+	height=150
+	codetext=true
+	align=center
+	barcode_type=code39StanDard

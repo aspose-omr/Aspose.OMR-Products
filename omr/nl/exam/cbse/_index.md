@@ -26,9 +26,10 @@ description: Download een kant-en-klaar OMR CBSE-blad in PDF-formaat om te oefen
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>U kunt het OMR-formulier volledig aanpassen door de bovenstaande bronnen te wijzigen en het blad opnieuw te genereren voor uw gewenste papiersoort. Je kunt het aantal en de volgorde van vragen wijzigen en vakspecifieke formulieren maken die perfect zijn afgestemd op jouw curriculum.</p>
@@ -119,7 +120,7 @@ Volg de onderstaande richtlijnen voor het gebruiken, aanpassen en lezen van het 
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> is een zogenaamd herkenningspatroon - een speciaal bestand dat wordt gebruikt om zeer nauwkeurige resultaten te produceren met de Aspose.OMR-herkenningsengine. Het wordt gegenereerd naast de afdrukbare CBSE-sjabloon, zorg ervoor dat u dat bestand niet verwijdert of vervangt. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> is een zogenaamd herkenningspatroon - een speciaal bestand dat wordt gebruikt om zeer nauwkeurige resultaten te produceren met de Aspose.OMR-herkenningsengine. Het wordt gegenereerd naast de afdrukbare CBSE-sjabloon, zorg ervoor dat u dat bestand niet verwijdert of vervangt. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

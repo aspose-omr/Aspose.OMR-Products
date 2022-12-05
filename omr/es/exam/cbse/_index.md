@@ -26,9 +26,10 @@ description: Descargue una hoja OMR CBSE lista para usar en formato PDF para pra
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>Puede personalizar completamente el formulario OMR cambiando las fuentes anteriores y volviendo a generar la hoja para su tipo de papel preferido. Puede cambiar el número y el orden de las preguntas y crear formularios específicos de la materia que se adapten perfectamente a su plan de estudios.</p>
@@ -119,7 +120,7 @@ Siga las pautas a continuación sobre el uso, la personalización y la lectura d
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> es el llamado patrón de reconocimiento: un archivo especial que se utiliza para producir resultados muy precisos con el motor de reconocimiento Aspose.OMR. Se genera junto con la plantilla CBSE imprimible, asegúrese de no eliminar ni reemplazar ese archivo. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> es el llamado patrón de reconocimiento: un archivo especial que se utiliza para producir resultados muy precisos con el motor de reconocimiento Aspose.OMR. Se genera junto con la plantilla CBSE imprimible, asegúrese de no eliminar ni reemplazar ese archivo. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}

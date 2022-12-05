@@ -26,9 +26,10 @@ description: 연습 및 코칭을 위해 기성품 OMR CBSE 시트를 PDF 형식
 
 <div class="col-lg-12">
 	<div class="row">
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet_520.jpg" width="100%"   title="Click to download"/></a></div>
-	<div class="col-4"><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse2.png"><img alt="" src="https://www.aspose.cloud/templates/aspose/img/products/omr/neet2_520.jpg" width="100%" title="Click to download"/></a></div>
-	</div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage1.png"><img alt="" src="/omr/exam/cbse/CBSEPage1_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage2.png"><img alt="" src="/omr/exam/cbse/CBSEPage2_520.webp" width="100%" title="Click to download"/></a></div>
+	<div class="col-4"><a href="/omr/exam/cbse/CBSEPage3.png"><img alt="" src="/omr/exam/cbse/CBSEPage3_520.webp" width="100%" title="Click to download"/></a></div>
+    </div>
 </div>
 
 <p>위의 소스를 변경하고 선호하는 용지 유형에 대한 시트를 다시 생성하여 OMR 양식을 완전히 사용자 정의할 수 있습니다. 질문의 수와 순서를 변경하고 커리큘럼에 완벽하게 맞는 주제별 양식을 만들 수 있습니다.</p>
@@ -119,7 +120,7 @@ Aspose.OMR로 CBSE 시험 양식을 사용, 사용자 지정 및 읽는 방법�
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-<p><a href="https://www.aspose.cloud/templates/aspose/img/products/omr/cbse.omr"><b>template.omr </b></a> Aspose.OMR 인식 엔진으로 매우 정확한 결과를 생성하는 데 사용되는 특수 파일인 소위 인식 패턴입니다. 인쇄 가능한 CBSE 템플릿과 함께 생성되므로 해당 파일을 삭제하거나 바꾸지 마십시오. </p>
+<p><a href="/omr/exam/cbse/cbse.zip"><b>template.omr </b></a> Aspose.OMR 인식 엔진으로 매우 정확한 결과를 생성하는 데 사용되는 특수 파일인 소위 인식 패턴입니다. 인쇄 가능한 CBSE 템플릿과 함께 생성되므로 해당 파일을 삭제하거나 바꾸지 마십시오. </p>
 
 
 {{% /blocks/products/pf/feature-page-section %}}
