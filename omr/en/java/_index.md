@@ -6,7 +6,7 @@ description: A cross-platform library that allows Java applications to create an
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition API for Java" h2="Recognize optical marks from scans and photos and generate OMR-ready answer sheets, surveys, tests, and ballots in cross-platform Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/headers/aspose_omr-for-java.svg" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
+{{< blocks/products/pf/upper-banner h1="Optical Mark Recognition API for Java" h2="Recognize optical marks from scans and photos and generate OMR-ready answer sheets, surveys, tests, and ballots in cross-platform Java applications." logoImageSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-java-product.svg" pfName="Aspose.OMR" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/omr/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.OMR" subTitlepfName="for Java" >}}
 

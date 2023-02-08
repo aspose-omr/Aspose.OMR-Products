@@ -1,22 +1,26 @@
 ---
-title: Optical Mark Recognition API for .NET and Java applications
+title: Optical Mark Recognition API for .NET Java and C++ applications
 weight: 10
 url: /family
 description: Generate and automatically recognize OMR-ready forms - from examination papers to customer satisfaction surveys and election ballots.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="OMR APIs for .NET & Java Platforms" h2="Build optical mark recognition (OMR) software of any scale and complexity in a few lines of code. Use your existing office copier or even a smartphone camera instead of an expensive OMR scanner." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
+{{< blocks/products/pf/upper-banner h1="OMR APIs for .NET, Java & C++ Platforms" h2="Build optical mark recognition (OMR) software of any scale and complexity in a few lines of code. Use your existing office copier or even a smartphone camera instead of an expensive OMR scanner." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr.svg" pfName="Aspose.OMR" downloadUrl="https://downloads.aspose.com/omr" tryOnlineUrl="https://products.aspose.app/omr/family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="/omr/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title=".NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-net.svg" productLink="/omr/net/" >}}
 NuGet package or standalone library for developing .NET optical mark readers for desktop, web and cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="/omr/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title="Java" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-java.svg" productLink="/omr/java/" >}}
 Native API for desktop and web OMR applications that can run on any platform that supports Java SE or EE.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.OMR for" title="C++" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-cpp.svg" productLink="/omr/cpp/" >}}
+NuGet package or standalone library for developing C++ optical mark readers for desktop, web and cloud.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

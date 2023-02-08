@@ -13,12 +13,16 @@ aliases:
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.OMR High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productLink="https://products.aspose.com/omr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title=".NET" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-net.svg" productLink="https://products.aspose.com/omr/net" >}}
 Develop .NET desktop applications and web services for optical mark recognition that work equally well with scanned images and photos and can read any type of marks.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productLink="https://products.aspose.com/omr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title="Java" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-java.svg" productLink="https://products.aspose.com/omr/java" >}}
 Create OMR forms and automatically read scanned or photographed surveys on any platform that supports Java. Read optical marks without specialized scanners and accessories.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.OMR for " title="C++" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-cpp.svg" productLink="https://products.aspose.com/omr/cpp" >}}
+Develop C++ desktop applications and web services for optical mark recognition that work equally well with scanned images and photos and can read any type of marks.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/omr/family/" innerText="View All High Code APIs" >}}
