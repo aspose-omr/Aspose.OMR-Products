@@ -21,7 +21,7 @@ description: NuGet package or standalone C++ library for developing desktop appl
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="Aspose.OMR for C++ supports the complete OMR workflow - from designing a form to recognizing its filled hardcopies." >}}
-<div class="diagram1 d1-cpp">
+<div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -80,7 +80,7 @@ description: NuGet package or standalone C++ library for developing desktop appl
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.OMR for C++ fully supports C++ Framework 4.0 and later editions." >}}
-<div class="diagram1 d1-cpp">
+<div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -151,7 +151,7 @@ description: NuGet package or standalone C++ library for developing desktop appl
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Create OMR-ready forms as images or PDFs and get recognition results in the most popular data storage formats." >}}
-<div class="diagram1 d2 d1-cpp">
+<div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
