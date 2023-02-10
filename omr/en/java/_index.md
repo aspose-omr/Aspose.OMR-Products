@@ -330,7 +330,9 @@ description: A cross-platform library that allows Java applications to create an
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose also offers native OMR APIs for other popular programming languages:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-net.svg" sdkName=".NET" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/omr/cpp" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

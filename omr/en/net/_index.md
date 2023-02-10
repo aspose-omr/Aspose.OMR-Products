@@ -373,7 +373,9 @@ description: NuGet package or standalone .NET library for developing desktop app
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose also offers native OMR APIs for other popular programming languages:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-java.svg" sdkName="Java" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/omr/cpp" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

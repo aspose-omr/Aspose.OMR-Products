@@ -21,7 +21,7 @@ description: NuGet package or standalone C++ library for developing desktop appl
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="Aspose.OMR for C++ supports the complete OMR workflow - from designing a form to recognizing its filled hardcopies." >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-cpp">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -80,7 +80,7 @@ description: NuGet package or standalone C++ library for developing desktop appl
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.OMR for C++ fully supports C++ Framework 4.0 and later editions." >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-cpp">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -151,7 +151,7 @@ description: NuGet package or standalone C++ library for developing desktop appl
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Create OMR-ready forms as images or PDFs and get recognition results in the most popular data storage formats." >}}
-<div class="diagram1 d2 d1-net">
+<div class="diagram1 d2 d1-cpp">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -373,7 +373,9 @@ description: NuGet package or standalone C++ library for developing desktop appl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.OMR" description="Aspose also offers native OMR APIs for other popular programming languages:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/omr/aspose_omr-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/omr/net" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-net.svg" sdkName=".NET" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/omr/java" imgSrc="https://releases.aspose.com/images/aspose/aspose_omr-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
