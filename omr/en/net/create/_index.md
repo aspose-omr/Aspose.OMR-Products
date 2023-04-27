@@ -96,3 +96,4 @@ Here is an example of JSON Markup for below code.
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Create" afterslug="Markup">}}
+{{< /blocks/products/pf/feature-page-wrap >}}

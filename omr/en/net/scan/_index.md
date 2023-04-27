@@ -38,3 +38,4 @@ API has ability to scan images as well as recognize barcodes during OMR operatio
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Scan">}}
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -68,3 +68,4 @@ Here is the text markup used for the below code.
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

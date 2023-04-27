@@ -39,3 +39,4 @@ For better results instead of threshold method, API provides [Recalculate method
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Scan">}}
+{{< /blocks/products/pf/feature-page-wrap >}}
