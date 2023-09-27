@@ -358,7 +358,7 @@ description: Package NuGet ou bibliothèque .NET autonome pour le développement
 {{< blocks/products/pf/slr-element name="Assistance gratuite" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Assistance payante" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Notes de version" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Notes de version" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Pourquoi la famille de produits Aspose.OCR ?" tabId="success-stories" >}}

@@ -315,7 +315,7 @@ description: Pustaka lintas platform yang memungkinkan aplikasi Java membuat dan
 {{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/omr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://releases.aspose.com/omr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Keluarga Produk Aspose.OCR?" tabId="success-stories" >}}

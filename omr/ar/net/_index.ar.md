@@ -358,7 +358,7 @@ description: حزمة NuGet أو مكتبة .NET المستقلة لتطوير �
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مقالات" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا عائلة منتجات Aspose.OCR؟" tabId="success-stories" >}}

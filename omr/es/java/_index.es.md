@@ -315,7 +315,7 @@ description: Una biblioteca multiplataforma que permite que las aplicaciones Jav
 {{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Soporte pagado" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Notas de lanzamiento" href="https://docs.aspose.com/omr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Notas de lanzamiento" href="https://releases.aspose.com/omr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="¿Por qué la familia de productos Aspose.OCR?" tabId="success-stories" >}}

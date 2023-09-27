@@ -358,7 +358,7 @@ description: NuGetパッケージまたはスタンドアロンの.NETライブ�
 {{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="リリースノート" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.OCR製品ファミリーを選ぶ理由" tabId="success-stories" >}}

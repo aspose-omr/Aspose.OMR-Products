@@ -358,7 +358,7 @@ description: Paket NuGet atau pustaka .NET mandiri untuk mengembangkan aplikasi 
 {{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Keluarga Produk Aspose.OCR?" tabId="success-stories" >}}

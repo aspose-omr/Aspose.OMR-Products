@@ -358,7 +358,7 @@ description: Πακέτο NuGet ή αυτόνομη βιβλιοθήκη .NET γ
 {{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί η οικογένεια προϊόντων Aspose.OCR;" tabId="success-stories" >}}

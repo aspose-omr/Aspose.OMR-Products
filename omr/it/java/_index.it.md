@@ -315,7 +315,7 @@ description: Una libreria multipiattaforma che consente alle applicazioni Java d
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Note di rilascio" href="https://docs.aspose.com/omr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Note di rilascio" href="https://releases.aspose.com/omr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché la famiglia di prodotti Aspose.OCR?" tabId="success-stories" >}}

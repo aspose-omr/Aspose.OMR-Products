@@ -315,7 +315,7 @@ description: 一個跨平台庫，允許 Java 應用程序為考試、問卷調�
 {{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/omr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="發行說明" href="https://releases.aspose.com/omr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.OCR 產品系列？" tabId="success-stories" >}}

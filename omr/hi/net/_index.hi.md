@@ -358,7 +358,7 @@ description: डेस्कटॉप अनुप्रयोगों और �
 {{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.OCR उत्पाद परिवार क्यों?" tabId="success-stories" >}}

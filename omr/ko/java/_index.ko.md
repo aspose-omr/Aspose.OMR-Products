@@ -315,7 +315,7 @@ description: Java 애플리케이션이 시험, 설문지, 선거 등에 대한 
 {{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="유료 지원" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://docs.aspose.com/omr/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://releases.aspose.com/omr/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.OCR 제품군을 선택해야 하는 이유" tabId="success-stories" >}}

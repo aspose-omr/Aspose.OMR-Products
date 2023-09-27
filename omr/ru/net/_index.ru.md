@@ -358,7 +358,7 @@ description: Пакет NuGet или отдельная библиотека .NE
 {{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Примечания к выпуску" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Примечания к выпуску" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Почему семейство продуктов Aspose.OCR?" tabId="success-stories" >}}

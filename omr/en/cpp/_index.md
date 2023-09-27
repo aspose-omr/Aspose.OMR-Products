@@ -359,7 +359,7 @@ description: NuGet package or standalone C++ library for developing desktop appl
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/omr/cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://releases.aspose.com/omr/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.OMR for C++?" tabId="success-stories" >}}

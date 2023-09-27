@@ -358,7 +358,7 @@ description: NuGet 包或獨立 .NET 庫，用於開發可以生成 OMR 表單�
 {{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/omr" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/omr/" >}}
-{{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/omr/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="發行說明" href="https://releases.aspose.com/omr/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.OCR 產品系列？" tabId="success-stories" >}}
